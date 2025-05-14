@@ -1,0 +1,89 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM2 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : DATA VISUALIZATION DESIGN </b><b>(PEN AND PAPER EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>\n",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Instructions: The exam is pen & paper based and should be answered in the sheets provided to you. \n<b>Part A (Multiple Choice Questions):</b> Each question has four choices, out of which only one is the correct answer. (12×3=36 marks) \nQ1. Which of the following plots depicts a temporal variation of data? \n",
+      "question_type": "mcq",
+      "marks": 36,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qkr9g5b6l69ev2suz9esn/q_1747253756911_0.png?rlkey=uyxdr9ncpqm0bus0u6q8dtp66&dl=0",
+      "options": [
+        {
+          "text": "I have written answers on the answer sheets",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Not applicable",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Part B – Multiple Select Question: Each question has four choices, out of which one or more than one choice(s) is the correct answer. (8*4 = 32 marks) \nQ1. Suppose you want to plot the correlation of the sale of umbrellas with season. Which of the following plots will you use- \nA. Scatter B. Box Plot C. Heat Map D. Histogram \nQ2. Data visualizations and infographics are both powerful tools for representing information visually. Which of the following statements correctly describes the differences between the two? (Select all that apply.) \nA. Data visualizations are primarily used for data analysis and exploration, whereas infographics are used to tell a narrative or story. B. Infographics combine visual elements with explanatory text, while data visualizations typically rely on visual representation alone to convey insights. C. Data visualizations are more suitable for interactive exploration, while infographics are usually static and designed for quick consumption. D. Infographics prioritize simplicity and aesthetics for a general audience, whereas data visualizations prioritize accuracy and detail for technical users. E. Infographics cannot represent quantitative data, whereas data visualizations are explicitly designed for quantitative datasets. \nQ3. Which of the following statements accurately differentiates data visualizations from infographics? (Select all that apply.) \nA. Data visualizations typically represent a single dataset, focusing on numerical data, while infographics combine multiple data visualizations with narrative elements to tell a comprehensive story. B. Infographics are generally interactive, allowing users to explore data in depth, whereas data visualizations are static representations of data. C. The primary goal of data visualizations is to facilitate data analysis and exploration, whereas infographics aim to make information accessible and engaging to a broader audience. D. Data visualizations prioritize aesthetic appeal to attract viewers, while infographics emphasize accuracy and clarity in data representation. E. Infographics often include qualitative data and storytelling elements, whereas data visualizations are grounded in quantitative data and statistical analysis. \nQ4. During the cholera epidemic in 1854, Dr. Snow postulated a map to depict the death. A cropped version of the map is shown below- \n",
+      "question_type": "mcq",
+      "marks": 32,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xbj1pnuo27xw3i1srbfok/q_1747253762280_1.png?rlkey=ykpqragetyrz0bvo6v15mclxd&dl=0",
+      "options": [
+        {
+          "text": "I have written answers on the answer sheets",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Not applicable",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Part C – Short Answer Questions: Write 100-150 words answers to each question. Answer using pen & paper using the paper provided to you. (2x16=32 marks) \nQ1. Given below are 2 charts. Identify the purpose of the chart (whether it is idea illustration, idea generation, visual confirmation or visual discovery, using Scott Berinato’s visualization typology framework), and justify why each of them belongs to its respective type. \n",
+      "question_type": "mcq",
+      "marks": 32,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/j245l9n9hbeq2p5kbqc8u/q_1747253765246_2.png?rlkey=atopgogzhsf21mehgqcuhnfd7&dl=0",
+      "options": [
+        {
+          "text": "I have written answers on the answer sheets",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Not applicable",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "papers": [
+    {
+      "paper_name": "2024 Oct27:",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2024",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : COMPUTER SYSTEMS DESIGN (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/e2iot0i37c3ajnlw6ibrb/q_1747254347241_0.png?rlkey=tsa6ru8wbsbkym9ex7ecpz7q9&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/io4az7umr9m6iow71addi/opt_1747254351302_1.png?rlkey=1g5ah8qv36ipx6ziv7gnggb3v&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/6peockrzwxt72in0cn0n3/opt_1747254354789_2.png?rlkey=lsz0mceqxhnkp73bo5k1x4plm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ml9fylp9yak1l3qolou0r/opt_1747254357761_3.png?rlkey=rw1fps5bjvux41f8f3ovapceh&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8yw9sopo9alfg2m8ttef3/opt_1747254360620_4.png?rlkey=0pto7pz57nnrkh9hoefqtx5he&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mjea4vqs8q80sqazycu8l/opt_1747254363843_5.png?rlkey=hy854pn3iy6nprsav7jnth5ay&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/y0554xzy7yh7q1375156p/q_1747254367687_6.png?rlkey=yvbdpjgkjwcyw04zxpvq3qnoc&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zpnvlhblm63borkoyd9v7/opt_1747254371997_7.png?rlkey=5r1g0cjq0psn4jylj5zzgv9za&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/obc081mw0wx858l9yovvf/opt_1747254374724_8.png?rlkey=j9zjmhq2l024otvcrk0mymthz&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7hzceaoaj54tdz5s8pn8b/opt_1747254377775_9.png?rlkey=zi3hmbtfqu44lnx8cfy4qvj1f&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/h2b3vmihhyor1pms39u20/opt_1747254381265_10.png?rlkey=c6ha7dkihr28pidz7cz7c7yw2&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/y5gjyd8zmu2rjqm5nj3od/q_1747254384030_11.png?rlkey=3d7phufij7vc5bsfvhtrsq81y&dl=0",
+      "options": [
+        {
+          "text": "2 or more inputs are at logic 0",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "2 or more inputs are at logic 1",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Any odd number of inputs are at logic 0",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Any odd number of inputs are at logic 1",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gqzf5fhmyoxbil2jn9q1u/q_1747254387623_12.png?rlkey=qlgln3j9cgjb0gf3hf2wn77kn&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/t57yl649tkeb6z5dkhbd0/opt_1747254391250_13.png?rlkey=lxna3ax39k5t6xj1ryrflsa8r&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ljxvxu8978ppu6y7sf7g8/opt_1747254394378_14.png?rlkey=tih17sj0m7fwbnw96f3c50qjv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qr73es185mn3p84lsz3zg/opt_1747254397354_15.png?rlkey=r81by8uqb3jovazpig7pdfr14&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/twm156cvmjnos2xfvp7cp/opt_1747254401754_16.png?rlkey=rjcpua45g0gyz7exu5t7lme75&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ere83oc1rqvi2z7e6nlos/q_1747254404750_17.png?rlkey=zhyjdlxes1qqnkfh842j5jd3b&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nnl566di6cbyma2tdvqcx/opt_1747254408607_18.png?rlkey=touline9wzk87mjmjasn1uixa&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qs7nr2sfajjkiuge02h72/opt_1747254411981_19.png?rlkey=1bpqzzutho5l9i89kap9omfbi&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nyq7tevsf3fgyhgptrh6r/opt_1747254415198_20.png?rlkey=ji4jh2ae44noqfppq6076skem&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/4532hh42xpt14756r98r4/opt_1747254418761_21.png?rlkey=nocos2jnre6u7c0b8mlvongqe&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/b3mj6771wkzkea2tzp77v/opt_1747254422207_22.png?rlkey=46rhlx3zwt1p6obxpt0dxafs3&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/x73s18p3fptpjzgyqglcl/q_1747254425079_23.png?rlkey=wuaoq0asyrj8fne4b7pzi9wgy&dl=0",
+      "options": [
+        {
+          "text": "0.75",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.50",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.33",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.25",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/1rof9xnaa84y73h41ns2s/q_1747254428288_24.png?rlkey=0slqquye88rvpf54dset9thrw&dl=0",
+      "options": [
+        {
+          "text": "AND, NOT",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "OR, AND",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "AND, OR",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "NOT, AND",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "OR, OR",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NOT, NOT",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "AND, AND",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/aeik1hhuqjpx5wu0wsram/q_1747254430900_25.png?rlkey=5y14uwv79aidj2bhvczcvsgnq&dl=0",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/h96us13p692gzx1k3h1dv/q_1747254433652_26.png?rlkey=jqkntoys1lnnc1avzpaaqajsv&dl=0",
+      "correct_answer_text": "4",
+      "range_start": "4",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ms024ztmedzwvhc7v2jl4/q_1747254436699_27.png?rlkey=0eqpi69cv2or5nzoso3w6mbal&dl=0",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 12,
+      "question_text": "What is the minimum number of bits required to represent number (64)10 in binary ?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "7",
+      "range_start": "7",
+      "range_end": ""
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/snav0duh6e6q74fs2jbx5/q_1747254440252_28.png?rlkey=fnyg92277lln1vf1amfjzqas4&dl=0",
+      "correct_answer_text": "3",
+      "range_start": "3",
+      "range_end": ""
+    }
+  ]
+}

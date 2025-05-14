@@ -1,0 +1,407 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM3 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : LARGE LANGUAGE MODELS </b><b>(COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "General Note: \n• If you find the given information is insufficient in any of the Numerical Answer Type (NAT) questions, enter -1 as the answer. • In all your calculations, take at least two digits. For example, if the intermediate result is 1.860875, then take it as 1.86 to the next step.",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Instructions has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This Instructions is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/40udaqufc0z81broy0bpr/q_1747254177783_0.png?rlkey=9vd01rydl4oci5290ae38av3n&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/snxx3smk12je1xbfn16eh/opt_1747254182466_1.png?rlkey=ldc8cubck36txghs4rhkfi6jt&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2glkhu82wx0tnkv3ns35q/opt_1747254186165_2.png?rlkey=54o35txa8h72xct9t9uprx10x&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/46rszly54w5wjdw3jh2ea/opt_1747254189766_3.png?rlkey=79ui24zwqo0eoslketvdyvh6m&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/z4wau5tywkx47vxyx622i/opt_1747254192943_4.png?rlkey=2lr26092vy8lwyrlqu8bzg7uz&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Consider following assertion and reason pair:  \n<b>Assertion</b>: A transformer model cannot be trained in autogregressive mode for machine translation task. <b>Reason</b>: Teacher forcing improves the convergence rate.  \nChoose the correct statements",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Assertion and Reason are both true and Reason is a correct explanation ofAssertion.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Assertion and Reason are both true and Reason is not a correct explanation ofAssertion.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Assertion is true but Reason is false.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Assertion is false but Reason is true.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Suppose we use a pre-trained model for text generation with the given prompt “I am going to”. Which of the following decoding strategies can be used such that the pre-trained model generates different text completion each time it is executed",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Beam search with beam size 1",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Greedy approach",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Top-K with k = 2",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following models, in general, struggle to encode a context when translating long sentences?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "An RNN model",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "An RNN model with attention mechanism",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A transformer model",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "Choose the correct statements",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "All the parameters of the GPT model are randomly initialized during pre-training",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The model minimizes the CLM objective during fine-tuning to improve theperformance",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "All parameters of the GPT model are randomly initialized during fine-tuning",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "In general, fine-tuning requires a dataset with labels",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/9b3536sjbmhynwm2ardkz/q_1747254196118_5.png?rlkey=qgrnbs0qe5gp8yycpr1itwf6o&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/iqeknj0g75xy7exvwa7a5/opt_1747254199591_6.png?rlkey=w301yn0gvxua548jmoqyt1n3c&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/oi01vx3d759q342q5lihm/opt_1747254202653_7.png?rlkey=537meyammfqifi5yp7ml5bqoe&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mx3etti0vgldt4bior9bw/opt_1747254206164_8.png?rlkey=hv7xp4fpxnca1ok02elonh2m6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/i62flhbjx7lgy8k8ttld5/opt_1747254209127_9.png?rlkey=wk82ztn49vjl431lg2x3o9wt0&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which of the following decoding strategies is (are) appropriate for machine translation tasks? Assume we have infinite compute and the values for k ≥ 3, p > 0.35 where required.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Top-k sampling",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Beam search with the beam size K = 2",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Top-p sampling",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Exhaustive search",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/u2c15at5wwh9rt5bu5vef/ctx_1747254213107_10.png?rlkey=ztwb2qdw8wq3j1w6qy7hauuqs&dl=0",
+      "for_questions": "10,11,12"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Suppose the number of learnable parameters in the source input-embedding layer is 3200, how many parameters are there in the positional embedding layer of the source language?",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "1024",
+      "range_start": "1024",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "How many parameters are there in the multi-head attention layer of the encoder (exclude the parameters in the WO matrix used for linear transformation and FFN layer)?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "3072",
+      "range_start": "3072",
+      "range_end": ""
+    },
+    {
+      "question_number": 12,
+      "question_text": "How many parameters does the matrix WQ have in anyone head of the encoder?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "256",
+      "range_start": "256",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/l875avhacbtuxsvq67ezn/ctx_1747254217089_11.png?rlkey=e79preoku0zj9cr08c8hcvb53&dl=0",
+      "for_questions": "13,14,15,16"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Say matrix F is computed by applying batch normalization on X, what will be sum of every element in first / topmost row of F?",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "0",
+      "range_start": "0",
+      "range_end": "0.01"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Say matrix F is computed by applying layer normalization on X, what will be sum of every element in first / leftmost column of F?",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "0",
+      "range_start": "0",
+      "range_end": "0.01"
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/jhp7yscug35igpn7pdmab/q_1747254221207_12.png?rlkey=wssevzt1xyvxuv4922h5esjlm&dl=0",
+      "correct_answer_text": "10.95",
+      "range_start": "10.95",
+      "range_end": "11.05"
+    },
+    {
+      "question_number": 16,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/00jcvgl57wem1bdqnuoxw/q_1747254225098_13.png?rlkey=6ldb6inl52ahbkweeez4uygjz&dl=0",
+      "correct_answer_text": "6.45",
+      "range_start": "6.45",
+      "range_end": "6.55"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qw96z4memm6vzuyigb6r5/ctx_1747254228242_14.png?rlkey=l1pedbebzq1hn2l762plr9117&dl=0",
+      "for_questions": "17,18,19,20"
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/61qmii8nogiwy7cfvcxi1/q_1747254231374_15.png?rlkey=s0cuai7ao66psmr8phb3uiybu&dl=0",
+      "correct_answer_text": "1.37",
+      "range_start": "1.37",
+      "range_end": "1.47"
+    },
+    {
+      "question_number": 18,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/se5ydttopsnwrv1vinpmx/q_1747254234305_16.png?rlkey=t1zcnus290rn0oq97w4aj6hs3&dl=0",
+      "correct_answer_text": "2.33",
+      "range_start": "2.33",
+      "range_end": "2.43"
+    },
+    {
+      "question_number": 19,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/wlv58lmt85ezki3fwcdxl/q_1747254237377_17.png?rlkey=71cpuvm9qdy5qr4ax4jxdmi5x&dl=0",
+      "correct_answer_text": "2.33",
+      "range_start": "2.33",
+      "range_end": "2.43"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Once the model is sufficiently trained, which of the following tokens will have the highest probability to be the next token, if the input is “Sachin has”:",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "broken",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "acted",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "highest",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

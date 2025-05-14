@@ -1,0 +1,462 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : DEEP LEARNING PRACTICE </b><b>(COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/u9po5kq9rbfgj5hn8fdtd/q_1747254035438_0.png?rlkey=mqrfyuhodw6ybww1pr5e35zn8&dl=0",
+      "options": [
+        {
+          "text": "[\"hugging\", \"face\", \"is\", \"awesome\"]",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "[102, 463, 509, 101, 2020]",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "[\"hugging\", \"face\", \"is\", \"awesome\", \"\"]",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "\"Hugging Face is awesome!\"",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qqppcbz69v887anes7wew/q_1747254039923_1.png?rlkey=ss09hl36t999gk5434scc6ayk&dl=0",
+      "options": [
+        {
+          "text": "The tokenizer will output the token [UNK] because \"nonexistentword\" is not inthe vocabulary.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The tokenizer will output the word \"nonexistentword\" as a single token.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The tokenizer will output \"non\", \"existent\", \"word\" as separate tokens since ithas split the word into known subwords.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The tokenizer will output \"non\", \"exist\", \"ent\", \"word\" as separate tokens sinceit has split the word into known subwords.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The tokenizer will output an error because \"nonexistentword\" is not present inthe vocabulary and the unk_token was not defined.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/dbqyvyoo3v3hseid3mu2s/q_1747254044939_2.png?rlkey=05xgute9g6g7n9ufnekhcszit&dl=0",
+      "options": [
+        {
+          "text": "[2, 3]",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "[3, 0, 2]",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "[2, 0, 1, 3]",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "[3, 1, 0, 2]",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ne48p5rahsyvumb1izl7u/q_1747254048593_3.png?rlkey=3gk8mah4uggr3e0jh4gv0o8ah&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/oe0lrrg75o5beaxshmsn7/opt_1747254051681_4.png?rlkey=ssmfa0g0w5g1fosaaphke5ver&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pfdzs1reiklpumch5mcc4/opt_1747254054655_5.png?rlkey=kazhux8qf9ylydvgwbqhvdujg&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vojk4j28i4ug6pm7y6dlh/opt_1747254057722_6.png?rlkey=971j2kswho8p3xesw5kz3s2ak&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e3zzmki63jrqvhj9bsf4i/opt_1747254061006_7.png?rlkey=6vurzfeq8727pea6kkheeymi8&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/eyf6zh7lymym83ynq6erg/q_1747254063890_8.png?rlkey=kkh973jmycw9i1elck71h5mhl&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wozjbs5ekqikc2jvoywrb/opt_1747254067175_9.png?rlkey=fehciqxkxbpcqgijc2gubprgf&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xt201khh7fvcd4wridb05/opt_1747254070543_10.png?rlkey=a47t0d1v0r0a35y82djmw8xvo&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ui7qzpcpehq1i9356r1ip/opt_1747254073447_11.png?rlkey=5hbcr28c4x2b4uqkw0y4jga10&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qmx5owzwv8xs4m1qgb5n8/opt_1747254077320_12.png?rlkey=mwp3f9m2ocpjme6fk2l9erf6x&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/w5lcp1c646jk33v3789gt/q_1747254080191_13.png?rlkey=e9pqvskbvtt67nbmjd5sjfmiu&dl=0",
+      "options": [
+        {
+          "text": "LoRA will be applied to the entire model, including the embedding layers.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "LoRA will only be applied to the final classification layer of the model.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "LoRA will not be applied to any layer of the model.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The model will throw an error because an empty list is invalid.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/m6dv0o2ucj4bvh93rnl7r/q_1747254084401_14.png?rlkey=zbh1hph7s4udu5ljalneipymu&dl=0",
+      "options": [
+        {
+          "text": "<b>n_t_5k > n_t_50k</b> because with a smaller vocabulary size, the tokenizer willsplit more words into smaller subwords, leading to a higher number of tokens.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "<b>n_t_5k < n_t_50k</b> because a smaller vocabulary size means the tokenizer canonly split the words into fewer subwords, resulting in fewer tokens.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>n_t_5k = n_t_50k</b> because the number of tokens is independent of thevocabulary size and depends on the input words.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>n_t_5k = n_t_50k</b> because both vocabularies will represent the word\"unhappiness\" with the same number of tokens due to the use of subword tokenization.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "What type of language modeling objective is used during the pretraining of GPT-2?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Masked Language Modeling (MLM)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Sequence-to-Sequence Modeling",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Causal Language Modeling (CLM)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Text Classification Objective",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which of the following is/are gradient based (fine tuning) methods?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Zero-shot Tuning",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Few-shots Tuning",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Instruction Fine tuning",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Parameter Efficient Fine Tuning",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Preference Tuning Via RLHF",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gx0un4iz0mj4fyn601va3/q_1747254087967_15.png?rlkey=xa0ji3bb4bylgqx90sh5hxbn6&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pfdz5pv325jjykuwgzl5f/opt_1747254092378_16.png?rlkey=xhl7omqznhnvbrb42ptarl53e&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/phi0aelh6sqg3inlvw5xc/opt_1747254095154_17.png?rlkey=lxlzt8qfz6ff9e8azc9jh7pui&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ubu0grpwro4wwi99t1c6m/opt_1747254098222_18.png?rlkey=9qsmtyi3wpbt3yugz3karvbfq&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/j21rxxi5vsi5dlkl310b8/opt_1747254101851_19.png?rlkey=3gj3mda8t2k5ts0yv6ubqze79&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "  Select all the correct statements.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/oblyqlyidrbh3uwf4kyx1/q_1747254104531_20.png?rlkey=a7lmyr3fj5gjxs1yb40g5knit&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bfpm5sbqj2r8r06jchkz1/opt_1747254108302_21.png?rlkey=g9489qx905ij58x20ly27yq7a&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sa56fv29c9y0wub2v91kd/opt_1747254111574_22.png?rlkey=jhz1n4dq7gjitnnfslswgllwh&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/l0dhfcfdbt2jlabvyrzky/opt_1747254114337_23.png?rlkey=kxwz3aij3eg79ktlk5igqkizu&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/r6kg0odtxzehj4uksm1nn/opt_1747254117222_24.png?rlkey=8rxu8sfvav5ic7goblgso17d4&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "  Select all the correct statements.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/1a3szghvaflcuqm7wd5l4/q_1747254120870_25.png?rlkey=40jy2rvth4bakba7jdkpfit0v&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ehds5gricdp7q8bgv9uct/opt_1747254124629_26.png?rlkey=5l84hcb0eywqf26rly13o8ek9&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/um6yfzke7m22ms9s7wgma/opt_1747254127288_27.png?rlkey=8cbhjg94pxj4fayvw7aliyfvq&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q1nv73cgnr9ruu72d7nyp/opt_1747254130105_28.png?rlkey=9l0sc8q2yo0ho0gzicdfk1gcn&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/5ys3s1h1getm8a8v5mej4/opt_1747254133329_29.png?rlkey=jvw27y6bk8fejy95ysflp4a0b&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9infifepmkjb631ue4jb4/opt_1747254136931_30.png?rlkey=dzaya3u2s247q5cx14kqmb7hq&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "  The original train split contains 25,000 samples, and 60% of the samples have a text length greater than 200. If the dataset's text length distribution is uniform across all splits, how many samples will the subset dataset contain?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/y0hck6dp342j2e03ulbvg/q_1747254140940_31.png?rlkey=8ds7nwg8znsr66m84516mdi90&dl=0",
+      "correct_answer_text": "3750",
+      "range_start": "3750",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ovw2bv603r0omyf4wjf7z/ctx_1747254144337_32.png?rlkey=5qmmdptc8a8j4rt46w9it2ww2&dl=0",
+      "for_questions": "15,16,17"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Calculate the number of parameters in the query, key, and value matrices of a single transformer block.",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "",
+      "correct_answer_text": "3145728",
+      "range_start": "3145728",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "Calculate the number of embedding parameters in the model. Enter your answer in millions, rounded to two decimal places.",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "",
+      "correct_answer_text": "51",
+      "range_start": "51",
+      "range_end": "52"
+    },
+    {
+      "question_number": 17,
+      "question_text": "What does the n_ctx parameter in the GPT-2 configuration represent?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The number of attention heads in the model.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The maximum length of the input sequence in tokens.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The embedding size of each token.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The total number of parameters in the model.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

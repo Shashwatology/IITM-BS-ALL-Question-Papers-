@@ -1,0 +1,279 @@
+{
+  "papers": [
+    {
+      "paper_name": "2024 Oct27:",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2024",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : BUSINESS ANALYTICS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/fbh5ww8hkypq3um5sty6i/q_1747254005952_0.png?rlkey=xy6x429ww6wkeacfuatudbsi0&dl=0",
+      "options": [
+        {
+          "text": "At a 5% level of significance REJECT the null hypothesis and conclude that thedata does not follow a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "At a 5% level of significance DO NOT REJECT the null hypothesis and concludethat the data does not follow a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "At a 5% level of significance REJECT the null hypothesis and conclude that thedata follows a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "At a 5% level of significance DO NOT REJECT the null hypothesis and concludethat the data follows a normal distribution",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "At a 10% level of significance REJECT the alternative hypothesis and concludethat the data does not follow a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "At a 10% level of significance DO NOT REJECT the alternative hypothesis andconclude that the data does not follow a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "At a 10% level of significance REJECT the alternative hypothesis and concludethat the data follows a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "At a 10% level of significance DO NOT REJECT the alternative hypothesis andconclude that the data follows a normal distribution",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "MSS is a firm that specializes in social media analytics. MSS has acquired data (in Table-1) on the past movie releases of two Heroes nick-named “Manda Kasayam (MK)” and “Youth Vodhavaka (YV)” in the Tamil Film industry. The data is on the Box-Office collections for the movies of MK and YV on different dates in January-1950. Then answer the given subquestions,with the presumption that the other necessary conditions required for the questions are met.  ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/i70q41zj3fgcr44qjogom/ctx_1747254011420_1.png?rlkey=pbbfb9nug1f19dlbvt6opi9n5&dl=0",
+      "for_questions": "3,4,5,6,7,8,9,10"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The aim is to explore if the total box-office collection during the weekends (Friday, Saturday and Sunday) and the total box-office collection during the weekdays (Monday to Thursday) are independent across the two heroes. Then how many DOFs does the test have? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "1",
+      "range_start": "1",
+      "range_end": ""
+    },
+    {
+      "question_number": 4,
+      "question_text": "The aim is to explore if the total box-office collection during the weekends (Friday, Saturday and Sunday) and the total box-office collection during the weekdays (Monday to Thursday) are independent across the two heroes. Then what is the expected box-office collection for MK ON WEEKENDS? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1.5,
+      "question_image_url": "",
+      "correct_answer_text": "103.00",
+      "range_start": "103.00",
+      "range_end": "105.00"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The aim is to explore if the total box-office collection during the weekends (Friday, Saturday and Sunday) and the total box-office collection during the weekdays (Monday to Thursday) are independent across the two heroes. Then what is the expected box-office collection for YV ON WEEKDAYS? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1.5,
+      "question_image_url": "",
+      "correct_answer_text": "46.00",
+      "range_start": "46.00",
+      "range_end": "48.00"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The aim is to explore if the total box-office collection during the weekends (Friday, Saturday and Sunday) and the total box-office collection during the weekdays (Monday to Thursday) are independent across the two heroes. Then what is value for the computed test statistic? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0.85",
+      "range_start": "0.85",
+      "range_end": "0.92"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The aim is to explore if the total box-office collection during the weekends (Friday, Saturday and Sunday) and the total box-office collection during the weekdays (Monday to Thursday) are independent across the two heroes. Then given the below Table-2, at a 95% confidence level, what is the conclusion?  ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/n44rpjov35gmrw8id14ly/q_1747254015022_2.png?rlkey=0fflkjmfb128ng1wo54wo38yt&dl=0",
+      "options": [
+        {
+          "text": "Do Not Reject the Null",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Reject the Null",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Accept the Null",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Do Not Accept the Null",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "There is a presumption that total box-office collection (of both actors) in Million INR on DIFFERENT DATES, follows a uniform distribution with a minimum value of 11 Million INR and maximum value of 30 Million INR. A statistical test is performed to check this presumption. The bins considered for the test are [11 to 15], [16 to 20], [21 to 25] and [26 to 30]. Then, for performing the statistical test, what is the expected frequency in any given bin? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "3.75",
+      "range_start": "3.75",
+      "range_end": ""
+    },
+    {
+      "question_number": 9,
+      "question_text": "There is a presumption that total box-office collection (of both actors) in Million INR on DIFFERENT DATES, follows a uniform distribution with a minimum value of 11 Million INR and maximum value of 30 Million INR. A statistical test is performed to check this presumption. The bins considered for the test are [11 to 15], [16 to 20], [21 to 25] and [26 to 30]. Then, for performing the statistical test, what is the DOF? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "3",
+      "range_start": "3",
+      "range_end": ""
+    },
+    {
+      "question_number": 10,
+      "question_text": "There is a presumption that total box-office collection (for both actors) in Million INR on DIFFERENT DATES, follows a uniform distribution with a minimum value of 11 Million INR and maximum value of 30 Million INR. A statistical test is performed to check this presumption. The bins considered for the test are [11 to 15], [16 to 20], [21 to 25] and [26 to 30]. Then, for performing the statistical test, what is the value of the computed test statistic? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "1.7",
+      "range_start": "1.7",
+      "range_end": "1.9"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "The linear demand response for product-A is modelled as a simple linear regression represented as D(P) = 4500 – 30*P, where D(P) is the demand at price-P. Then, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "11,12,13"
+    },
+    {
+      "question_number": 11,
+      "question_text": "What is the elasticity of the demand response curve when the price is Rs.50? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "0.49",
+      "range_start": "0.49",
+      "range_end": "0.51"
+    },
+    {
+      "question_number": 12,
+      "question_text": "What is the satiating price for the demand response curve? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "149.99",
+      "range_start": "149.99",
+      "range_end": "150.99"
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is the market size for the demand response curve? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "4500",
+      "range_start": "4500",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "You want to apply for a student visa to country “X”. You can do this through any one of the five application centres, “A”, “B”, “C”, “D” or “E”. To determine which application centre to choose, you collect data. Currently, the embassy has decided to receive 15% of the applications from centre A, 10% from centre B, 25% each from centres C, D and E. Historically, 60% of the applications that come from centre A have been granted the visa, and 80% of the applications from centre B have been granted the visa. Centres C, D and E each had a 50-50 chance of granting a visa or not granting a visa respectively. Then answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "14,15,16,17"
+    },
+    {
+      "question_number": 14,
+      "question_text": "What is your probability of applying for a student visa through centre A and it is granted? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "0.09",
+      "range_start": "0.09",
+      "range_end": "0.10"
+    },
+    {
+      "question_number": 15,
+      "question_text": "What is your probability of applying for a student visa through centre B and it is not-granted? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "0.01",
+      "range_start": "0.01",
+      "range_end": "0.03"
+    },
+    {
+      "question_number": 16,
+      "question_text": "If a total of 500 applications have been granted a visa, then how many would you expect to have come from centres “C”, “D” and “E” (totally from the three centres)? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1.5,
+      "question_image_url": "",
+      "correct_answer_text": "187",
+      "range_start": "187",
+      "range_end": "188"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Say you find Dr.MS had applied for a student visa in the past, and the application was not granted. However, Dr.MS has not told you which application centre was chosen to submit the application. Then what is the probability that Dr. MS has applied though centre C? (Note: If your answer is in decimal, enter it rounded to two decimal places. For example, if your answer is “10.256”, enter it as “10.26”)",
+      "question_type": "text",
+      "marks": 1.5,
+      "question_image_url": "",
+      "correct_answer_text": "0.26",
+      "range_start": "0.26",
+      "range_end": "0.28"
+    }
+  ]
+}

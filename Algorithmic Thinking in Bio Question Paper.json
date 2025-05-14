@@ -1,0 +1,304 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : ALGORITHMIC THINKING IN </b><b>BIOINFORMATICS (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/a4h4q402gplm97zkmrddh/q_1747253813013_0.png?rlkey=u25eluyxf61cb0b0f4moj7jh1&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/a70bafmlfw06o3r74305r/opt_1747253817998_1.png?rlkey=yc6y8kgysnp3yy4vxs055wfgx&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xkxgtz3z5htgbu4c4ncvd/opt_1747253822498_2.png?rlkey=etkob8vvmftfiubyjdtdr3myk&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gsdkygu1g0yis4bjz7kar/opt_1747253825466_3.png?rlkey=46momkn4ghctwy2852cbu4rn8&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vryria00izicpu7q26un2/opt_1747253829351_4.png?rlkey=vlpuyi6f6jwosflsdnvnhdo30&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Calculate the optimal global alignment score for the DNA sequences GAATTC and GATTA. Scoring is done as follows: \n• For every match: +2 points • For every mismatch: -1 points • For every insertion or deletion: -2 points",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "5",
+      "range_start": "5",
+      "range_end": ""
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gsh69kg5rkjfk28vx3ioa/q_1747253833148_5.png?rlkey=s6z6kmd3scvb75vw9w7wigea2&dl=0",
+      "correct_answer_text": "5",
+      "range_start": "5",
+      "range_end": ""
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/uwm2b3smh5nzwj3ibqiik/q_1747253836647_6.png?rlkey=2n1hnouyerq98lwh0yj6fecxq&dl=0",
+      "correct_answer_text": "50",
+      "range_start": "50",
+      "range_end": ""
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/cndns2ahucq900scmydy4/q_1747253840512_7.png?rlkey=0ur122vctajkmsvdk5x2luc6r&dl=0",
+      "correct_answer_text": "0.625",
+      "range_start": "0.625",
+      "range_end": "0.64"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "The figure below shows the genetic code describing the translation of an RNA codon into one of the twenty different amino acids. Use the figure below to answer the given subquestions. \n",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/53jrrrsd8waucf2hwhao1/ctx_1747253843679_8.png?rlkey=ljtr9sfg7hp9pfp99pwz8p32c&dl=0",
+      "for_questions": "7,8,9"
+    },
+    {
+      "question_number": 7,
+      "question_text": "A protein “X” has only three amino acids – “Serine”, “Leucine” and “Valine” in the same order. Which of the following RNA strings translate into the protein “X”?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "CUC AGUGU A",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "CUUUUGAGCGUUGUU",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "AGUCUCGU A",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "UC AUU AGUG",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "UCGUUGGUU",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "What is the probability that a random RNA sequence of length 3 encodes for the “Arginine” amino acid? Assume that the different positions of the 3-mer RNA sequence are set to a nucleotide independently and uniformly at random.  ",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "0.09",
+      "range_start": "0.09",
+      "range_end": "0.0999"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Suppose protein X consists of 3 amino acids. What is the maximum number of possible mRNA sequences that can generate the protein X?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "216",
+      "range_start": "216",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Consider the following cell signaling network and answer the given subquestions with respect to the same. Please note that the weight we written next to each edge e is the probability of (information flow through) this edge, and that the probability (or score) of a path is calculated under the assumption that the information flow through different edges are independent of each other. \n",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/vrrgbt8jtgko2wir58a38/ctx_1747253848713_9.png?rlkey=9vfgstpvxkthhzggb3yb3x94c&dl=0",
+      "for_questions": "10,11,12"
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/svpl8qye8s6lear1oxhew/q_1747253852084_10.png?rlkey=fi01pu9brzdq3svx80m6unwjc&dl=0",
+      "correct_answer_text": "180",
+      "range_start": "180",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/kuvn1fmjp67jn3j7vskr9/q_1747253854964_11.png?rlkey=hwkihns23ygm5d24y671886qp&dl=0",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "In a random coloring of the path Ra, X1, Y1, Z1, G1 using 6 colors, what is the probability that this path is colorful? (Random coloring refers to coloring each node in the graph with one of the 6 colors uniformly and independently at random.)  ",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "0.09",
+      "range_start": "0.09",
+      "range_end": "0.0999"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Answer the given subquestions about the graphs given below regarding overlap and de Bruijn graphs. Recall that the Hamiltonian path approach is used in an overlap graph and the Eulerian path approach is used in the de Bruijn graph for the genome assembly problem. (Hint: Be careful with the direction of the arrows.) \n",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/oxd3gm3r8yz5q42xbuk0y/ctx_1747253857965_12.png?rlkey=y4rfod0z08vlj6gndib6s3cai&dl=0",
+      "for_questions": "13,14"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which of the given graphs can be the overlap graph representing all k-mers of a string representing some linear (non-circular) genome?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Graph 1",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Graph 2",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Graph 3",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which of the given graphs can be the de Bruijn graph representing all k-mers of a string representing some linear (non-circular) genome?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Graph 1",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Graph 2",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Graph 3",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/iptgtrmhtdmruovfp9qdq/ctx_1747253860999_13.png?rlkey=o8ojpvmiu9z4qube8qws4xy5c&dl=0",
+      "for_questions": "15,16,17"
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xi1rt5rra93ezjrxilnpb/q_1747253864399_14.png?rlkey=8kq730vky2dt4hc1id734e4v2&dl=0",
+      "correct_answer_text": "0",
+      "range_start": "0",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "Suppose we compute the score using the score matrix (S). What is the difference in the alignment score for the two global alignments? Enter the value as a single integer.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0",
+      "range_start": "0",
+      "range_end": ""
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/328u4nztha0tzb59hrbzd/q_1747253867864_15.png?rlkey=428izrxpxdac2zx8qlqx7ama6&dl=0",
+      "correct_answer_text": "[\"3\", \"-3\"]",
+      "range_start": "[\"3\", \"-3\"]",
+      "range_end": ""
+    }
+  ]
+}

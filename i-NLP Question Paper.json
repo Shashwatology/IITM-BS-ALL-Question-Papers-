@@ -1,0 +1,818 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM2 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : INTRODUCTION TO NATURAL </b><b>LANGUAGE PROCESSING (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Consider the following conversation: \nUser: “It’s quite cold in here.” Bot: “Yes, the temperature is 20oC.” User: “Could you help?” Bot: “What would you like help with?” \nWhich level of language processing is the chatbot failing to implement effectively?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Lexical",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Discourse",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Pragmatic",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Syntactic",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Statement: “Lexical ambiguity occurs when an individual word has multiple dictionary meanings.”",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "What makes the example “Time flies like an arrow” particularly challenging for POS tagging?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The presence of words with ambiguous lexical categories that can lead tomultiple syntactic structures.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Difficulty in identifying compound nouns within the sentence.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The sentence contains idiomatic expressions that require semanticunderstanding.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The use of archaic word forms.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Anaphora resolution can be fully solved using only syntactic parsing techniques.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following statements correctly describes the relationship between Finite State Automata (FSA) and Finite State Transducers (FST)?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "FSAs are designed solely for recognizing patterns in input strings, while FSTscan recognize patterns and produce corresponding outputs.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Both FSAs and FSTs utilize a single tape for processing input, but FSAs have afixed number of states while FSTs can dynamically change the number of states during execution.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FSTs can be used to perform computations involving multiple input tapes,whereas FSAs are limited to a single input tape.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FSA can produce outputs based on their input states, while FSTs are onlycapable of recognizing inputs without generating outputs.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which of the following sequences represents a valid order of calculations in the Forward algorithm of HMM?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Calculate state probabilities → Update observation probabilities → Computefinal sequence probability",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Initialize state probabilities → Calculate joint probabilities → Sum over allpossible paths",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Calculate emission probabilities → Sum transition probabilities → Normalizefinal states",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Initialize α1(i) → Calculate αt(i) recursively → Sum over final states",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which feature combination would be most effectively handled by CRF but not by HMM for POS tagging?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Current word and its immediate next word",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Word length and first character capitalization",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Previous tag and current word ending",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Current word’s morphological features combined with a window of ±2 wordsand their POS tags",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ob7kvh4hu5iipb3ozhe51/q_1747254312693_0.png?rlkey=mce780afjoywk4ao4r9anxhf7&dl=0",
+      "options": [
+        {
+          "text": "1-B, 2-C, 3-A, 4-D",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "1-A, 2-B, 3-C, 4-D",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1-B, 2-A, 3-D, 4-C",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1-D, 2-C, 3-B, 4-A",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/0c059jshaqw58zqni5bd5/q_1747254317264_1.png?rlkey=n9isxt859vmc1wahkgfmgioki&dl=0",
+      "options": [
+        {
+          "text": "1.5",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1.6",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "1.7",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1.8",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "In evaluating a dependency parser, the following results were obtained on a test set of 500 words:  \n• 450 words have the correct head • 425 words have both the correct head and correct label • 475 words have the correct label \nWhat are the Unlabeled Attachment Score (UAS) and Label Accuracy Score (LS)?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "UAS: 90%, LS: 95%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "UAS: 90%, LS: 85%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "UAS: 85%, LS: 95%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "UAS: 85%, LS: 90%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "The phonological level of NLP processing is crucial for improving the performance of text-based sentiment analysis systems.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "In the sentence “I saw her duck,” morphological analysis alone is sufficient to determine whether “duck” is being used as a noun or a verb.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which would be the most appropriate approach for processing millions of search queries in real-time?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Lemmatization",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Stemming",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Full morphological analysis",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Manual word reduction",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which approach would be most appropriate for building a dictionary lookup system?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Stemming",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Lemmatization",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Simple suffix removal",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No word reduction",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "Rule-based POS tagging always results in accurate tagging because it relies on linguistic rules rather than probabilities.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which of the following demonstrates an “overlapping entity” scenario in NER?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Albert Einstein and Theory of Relativity",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Amazon and Amazon River",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Tesla and Model S",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Shakespeare and Hamlet",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "Consider the following phrase structure rule: NP → (Det) (Adj)* N (PP)*  Which of the following statements about this rule is FALSE?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "It allows for multiple consecutive adjectives before the noun.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It requires exactly one determiner before any adjectives.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "It permits zero or more prepositional phrases after the noun.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The noun is the only mandatory element in this noun phrase.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "Given the sentence “The chef cooked a meal for the guests using fresh ingredients,” identify the Semantic Roles of the sentence.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Agent: Chef, Theme: Meal, Beneficiary: Guests, Instrument: Ingredients",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Agent: Meal, Theme: Guests, Beneficiary: Chef, Instrument: Cooking",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Agent: Chef, Theme: Ingredients, Beneficiary: Meal, Instrument: Guests",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Agent: Ingredients, Theme: Chef, Beneficiary: Meal, Instrument: Cooking",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "question_text": "Context-Free Grammar (CFG) rules can only generate sentences with a fixed word order.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "question_text": "The CKY parsing algorithm requires the grammar to be in Chomsky Normal Form (CNF).",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 22,
+      "question_text": "In the sentence “He gave her a book,” the dependency relationship between “gave” and “book” is labeled as nsubj.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which evaluation metric would you use to measure the proportion of correct dependency relations retrieved by a parser from the total number of correct relations?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Precision",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Recall",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "F1 Score",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Accuracy",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 24,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/hpjja6pvo43izddxyoy3r/q_1747254320476_2.png?rlkey=kxh8oayc7bvux3809ehyi09p6&dl=0",
+      "options": [
+        {
+          "text": "0.0090",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.036",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.0045",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.0036",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 25,
+      "question_text": "Which of the following are applications of clustering in NLP tasks? (Select all that apply)",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Grouping similar entities in NER",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Unsupervised POS tagging",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Sentiment analysis",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Word clustering into syntactic categories",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Machine translation",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which characteristics distinguish Morphological Analysis (MA)from POS tagging? (Select all that apply)",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "MA is independent of syntactic rules, while POS tagging often depends onthem",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "MA may produce multiple analyses for a word while POS tagging producesone",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "MA requires fewer categories compared to POS tagging",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "MA assigns functional roles in a sentence, while POS tagging deals with formand structure.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 27,
+      "question_text": "What are potential issues when implementing stemming? (Select all that apply)",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Over-stemming",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Under-stemming",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Requiring a large dictionary",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Creating non-words",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 28,
+      "question_text": "Which of the following are true about the relationship between POS tagging, NER, and classification models? (Select all that apply)",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Both POS tagging and NER can be framed as classification problems",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Naive Bayes and logistic regression can be applied to both tasks",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Clustering can be used as a preprocessing step for both tasks",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "POS tagging always precedes NER in NLP pipelines",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Both tasks benefit from considering contextual information",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 29,
+      "question_text": "Which of the following NLP tasks would benefit from processing at the discourse level? (Select all that apply)",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Generating a coherent multi-paragraph story",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Summarizing a long document",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Resolving pronouns in a conversation",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Determining the sentiment of a single word",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Identifying the topic shifts",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 30,
+      "question_text": "Which of the following statements about stemming and lemmatization are true?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "<b>Stemming</b> can result in non-linguistic root forms, while <b>lemmatization</b>always produces valid words.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "<b>Lemmatization</b> requires a vocabulary or lexicon, whereas <b>stemming</b> doesnot.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "<b>Stemming</b> is computationally more expensive than <b>lemmatization</b> because itinvolves morphological analysis.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Both <b>stemming</b> and <b>lemmatization</b> aim to reduce words to their root formsbut differ in their approaches and accuracy.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 31,
+      "question_text": "In a semantic role labeling evaluation, a model has identified 100 correct semantic roles out of 120 total semantic roles it predicted. What is the precision of the model as a decimal (rounded to two decimal places)?",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0.83",
+      "range_start": "0.83",
+      "range_end": ""
+    }
+  ]
+}

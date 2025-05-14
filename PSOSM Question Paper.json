@@ -1,0 +1,89 @@
+{
+  "papers": [
+    {
+      "paper_name": "2024 Oct27:",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2024",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DEGREE LEVEL : PRIVACY & SECURITY IN ONLINE SOCIAL MEDIA (PEN AND PAPER EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 10,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/y8ewmjb52lty0dhcjgpt9/q_1747254550092_0.png?rlkey=mqsonal8szzlk77ivt70gy4if&dl=0",
+      "options": [
+        {
+          "text": "I have written answers on the answer sheets",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Not applicable",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 15,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/3sejxr50gtrk2j027rc7k/q_1747254554410_1.png?rlkey=vj8gzshx1xgpf0i0g2lc5v0n2&dl=0",
+      "options": [
+        {
+          "text": "I have written answers on the answer sheets",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Not applicable",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 25,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/2wxii5geyxc7gs3epyrsj/q_1747254557526_2.png?rlkey=wfxv2qdssxnf5cc68xkka00lz&dl=0",
+      "options": [
+        {
+          "text": "I have written answers on the answer sheets",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Not applicable",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

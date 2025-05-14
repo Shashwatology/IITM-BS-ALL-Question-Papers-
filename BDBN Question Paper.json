@@ -1,0 +1,736 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : BIG DATA AND BIOLOGICAL </b><b>NETWORKS (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "The bond between a phosphate group and the ribose sugar group in RNA is called which of the following?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Peptide bond",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Glycosidic bond",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Phosphodiester bond",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Amide bond",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Translation is the process by which:",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "DNA gets converted to chromosomes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "RNA gets converted to protein",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Protein folding occurs to produce functional enzymes",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Cells produce ATP",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which of the following is not true :",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Genomics data is independent of the cell type",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Transcriptomics data is dependent on a specific cell type",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Both genomics data is independent of the cell type and transcriptomics data isdependent on a specific cell type are true",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these statements are true",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is the primary advantage of Next-Generation Sequencing (NGS) over traditional Sanger sequencing?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Longer read lengths.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Higher accuracy.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Higher throughput.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Lower cost per base.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "What do the term Okazaki fragments refer to?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Short fragments of DNA created before transcription",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Byproducts of histone modifications",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Short fragments of DNA created during replication on the 5’ to 3’ templatestrand",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Short fragments of DNA created during replication on the 3’ to 5’ templatestrand",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which of the following proteins is required for transcription:",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "DNA polymerase",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Sigma factor",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Uracilase",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Ribonuclease",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which of the following experiments fall under the purview of epigenomics?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "DNA methylation",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Chromatin accessibility",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Genome wide association studies",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Differential expression analysis",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/pkr6yunkd8ljocwq4fvkg/q_1747253923456_0.png?rlkey=o4y1t7gfpc3w3eirky99twdxa&dl=0",
+      "options": [
+        {
+          "text": "A - 2, B - 1, C - 4, D - 3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A - 4, B - 2, C - 1, D - 3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A - 3, B - 2, C - 1, D - 3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A - 3, B - 2, C - 1, D - 4",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "Consider the following and select the correct option. \n<b>Assertion</b>: Genomics can be used to identify individuals predisposed to certain diseases. <b>Reason</b>: By analyzing an individual's DNA, specific genetic variations associated with increased disease risk can be detected.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Both the assertion and reason are correct, and the reason is a correctexplanation of the assertion.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Both the assertion and reason are correct, but the reason is not a correctexplanation of the assertion.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The assertion is correct, but the reason is incorrect.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The assertion is incorrect, but the reason is correct.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which of the following statements are true:",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Transcription uses two strands of DNA",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Polyadenylation does not happen in prokaryotic cells",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Intronic genes are only present in eukaryotic cells",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Proteins are produced in the nuclei",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "Application of genomics include:",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Identifying individuals based on DNA evidence",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Tracking the spread of infectious diseases",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Predictive testing for genetic diseases",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Identifying genetic diversity within species",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/9g5va8vyozwt0hs2zad5f/ctx_1747253928684_1.png?rlkey=gj9yzvsb8t2ym8whqjey01awj&dl=0",
+      "for_questions": "13,14,15"
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is the id number of the most significant SNP?",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 14,
+      "question_text": "From the plot, what would be the number of SNPs considered for this analysis? (Give 5% range above and below)",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "1000000",
+      "range_start": "1000000",
+      "range_end": ""
+    },
+    {
+      "question_number": 15,
+      "question_text": "How many causal SNPs are present in the figure?",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "9",
+      "range_start": "9",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "  <b>NOTE:</b> Enter the exact answer without any extra space in the beginning or at the end.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/vipehbxjrbnunput8v8l8/q_1747253932801_2.png?rlkey=kw3ube6nu0yhj2h953zy7ut2n&dl=0",
+      "correct_answer_text": "ATGCTGTAACTGA",
+      "range_start": "ATGCTGTAACTGA",
+      "range_end": ""
+    },
+    {
+      "question_number": 17,
+      "question_text": "  <b>NOTE:</b> Enter the exact answer without any extra space in the beginning or at the end.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/9hvi6wqmp0nns05pyeuqn/q_1747253936488_3.png?rlkey=dum5xmtr4fx23yk697hg1w6gm&dl=0",
+      "correct_answer_text": "Ile-Asp-Pro-Asn",
+      "range_start": "Ile-Asp-Pro-Asn",
+      "range_end": ""
+    },
+    {
+      "question_number": 18,
+      "question_text": "  What is the clustering coefficient of the given graph?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/uwywkmurpf8qeimbdas4p/q_1747253941184_4.png?rlkey=l0hducn0veh9yftwxmgmj5n8k&dl=0",
+      "options": [
+        {
+          "text": "0.67",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.50",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.31",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.44",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "  What is the mean degree of this undirected graph?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/mko9691yd00c4tdrvoykr/q_1747253945068_5.png?rlkey=0hsggi4e5zpfq5xlxe8ef5xpw&dl=0",
+      "options": [
+        {
+          "text": "1/3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "4/3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "8/3",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "2/3",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/56vn2qo95qhdrmxdswumn/q_1747253948050_6.png?rlkey=bwxjbakrs8l0aqrlvjhfpc8h4&dl=0",
+      "options": [
+        {
+          "text": "AttributeError: 'Graph' object has no attribute 'add_edge'",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "TypeError: 'DiGraph' object is not subscriptable",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "NetworkXError: Graph is immutable",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "[2]",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/wfxckzqsozuq78fdr954h/q_1747253951521_7.png?rlkey=26aas9usd1qemim4sewvuuoxi&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xx4bzc3ezxg2xwq2qtj98/opt_1747253954802_8.png?rlkey=z51jfjkhmwwxynxt7p8ur7vux&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/f0278r8mbhabnt30zwya0/opt_1747253957468_9.png?rlkey=4om7gqnabd2oxetvmcyn037cs&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/owwmppjg8iuwyq304cw12/opt_1747253960335_10.png?rlkey=3i0mbfzyq7y18ikruvd0y4fe7&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7h0qh4s9nljso9fts61y8/opt_1747253963403_11.png?rlkey=zucjthjskpcutwa92jsllqxg1&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 22,
+      "question_text": "Which of the following statements about bipartite graphs is TRUE?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "In a bipartite graph, there are two disjoint sets of vertices such that no twovertices within the same set are adjacent.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Every complete bipartite graph has an Eulerian circuit.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A bipartite graph can be colored with two colors such that no two adjacentnodes have the same color.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "In the adjacency matrix of a bipartite graph, the values corresponding toedges within the same set of nodes will not all be zero.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which of the following statements are true about the behavior of random and small-world networks?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "In a small-world network, as the rewiring probability p increases, the averagepath length decreases dramatically.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Random networks tend to have high clustering coefficients compared to small-world networks for small p.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "In a small-world network, increasing the rewiring probability p makes thenetwork more disconnected and increases the clustering coefficient.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Small-world networks have a balance of high clustering and short averagepath length for intermediate values of rewiring probability p.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 24,
+      "question_text": "Which of the following network models are suitable for representing the topology of metabolic pathways in biological systems?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "<b>Small-world network</b> because it ensures high clustering, which representsfunctional metabolic clusters and pathways, while also having short path lengths for efficient chemical signaling.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "<b>Random network</b> because it randomly connects metabolites and enzymes,ensuring diverse and unpredictable interactions in the network.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>Power-law network</b> because it produces a few highly connected nodes (hubenzymes) that play crucial roles in regulating key metabolic pathways.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "<b>Random network</b> because it results in efficient information transfer througha uniform distribution of connections between metabolites and enzymes.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": " ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/b5m9nc09xr3j8b0igof2a/ctx_1747253967303_12.png?rlkey=9cl8b8kkgsyxchj1a49fuft9h&dl=0",
+      "for_questions": "25,26,27,28"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Calculate the betweenness centrality of node D in the network.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0.429",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.333",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.524",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.286",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 26,
+      "question_text": "In the network shown, calculate the degree centrality of node E.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0.571",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.714",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.429",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.857",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 27,
+      "question_text": "What is the density of this network?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0.464",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.393",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.500",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.429",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 28,
+      "question_text": "Calculate the closeness centrality of node E.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0.538",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.636",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.583",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.500",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

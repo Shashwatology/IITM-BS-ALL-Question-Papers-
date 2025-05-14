@@ -1,0 +1,757 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIM4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DEGREE LEVEL : CORPORATE FINANCE </b><b>(COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "What should be the rate of interest per year (annually compounded) so that your money triples in 10 years?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "5.42%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "7.60%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "11.61%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "20.00%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "An investment is expected to yield Rs 2,000 in two years, Rs 4,000 in 4 years, and Rs 6,000 in six years. If the constant rate of return is 10% (compounded annually), what is the present value of this investment (Rounded off to nearest integer)?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Rs 12,000",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 8,196",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 7,772",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Rs 6,000",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Suppose an asset earns an annual interest rate of 9% which is continuously compounded. If the asset sells for Rs 500 today, what will be its value after 3 years (Rounded off to nearest integer)?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Rs 382",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 500",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 635",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 655",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is the present value of a perpetuity that pays Rs 800 next year, grows at a rate of 2% per year thereafter and faces a cost of capital of 10% per year?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Rs 40,000",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 10,000",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Rs 8,000",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 4,000",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "You discover an antique in your attic that your father purchased 40 years ago for Rs 100. You auction it and receive Rs 50,000 for this item today. What is the annualized rate of return that is earned for the antique?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "8.32%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "12.50%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "16.81%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "50.00%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "The LIC stock is trading at Rs 800 today. LIC is expected to pay a dividend of Rs 50 per share next year. If the growth rate of the LIC dividend is 4% every year and the appropriate rate of return is 10% per year, then according to the Gordon growth model",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The LIC stock is underpriced, and an investor should buy LIC shares.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The LIC stock is overpriced, and an investor should buy LIC shares.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The LIC stock is underpriced, and an investor should sell LIC shares.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The LIC stock is overpriced, and an investor should sell LIC shares.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Suppose an investment costs Rs 6,000 today and pays off Rs 7,500 after two years. What is the internal rate of return on this investment?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "25.00%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "17.47%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "11.80%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "8.64%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "There is a project which requires an initial investment of 500 units today. This project pays off 250 units after 2 years, 250 units after 4 years and 250 units after 6 years. If the prevailing constant interest rate in the economy is 10% (compounded annually) then what is the profitability index of the project?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "18.48",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "4.68",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1.04",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.80",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "Consider the following three projects which have initial cost of Rs 5,000 today:  Project 1: It pays Rs 200 starting next year and pays the same amount for 50 years.  Project 2: It pays Rs 8,000 after five years from today. There are no interim payments.  Project 3: It pays Rs 2000 next year and Rs 4000 two years from today.  Assume that the prevailing interest rate is 4%; which of the projects has the least payback period?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "All three projects have the same payback period.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Project 1",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Project 2",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Project 3",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "A project earns a total of 30% return in two years. If the annual return in the first year is 12%, then what is the annual return in the second year? (Round off to nearest integer)",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "16%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "18%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "20%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "30%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "What is the annualized rate of return of an investment of 500 units that promises to return 800 units in 8 years?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "60.0%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "16.0%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "8.17%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "6.05%",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "Consider a bond that pays Rs 400 in 3 years and Rs 600 in 5 years. What are the maturity and duration of the bond, respectively?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "5 years, 4.2 years",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "4.2 years, 5 years",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "5 years, 5 years",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "5 years, 3 years",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/iomuy96idk7a9lvc5xwhc/q_1747254278620_0.png?rlkey=lnndoxwiev1f7gi5vi4303wws&dl=0",
+      "options": [
+        {
+          "text": "8.16%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "22.45%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "-8.16%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "-22.45%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "Assume Ramesh earns Rs 100 in period 1 and Rs 150 in period 2. He spends his earnings on consumption in both periods. The prices of consumption good in period 1 and period 2 are the same (equal to 1). If the prevailing interest rate is 25%, then the slope of the intertemporal budget constraint",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "1.25",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.80",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "-0.80",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "-1.25",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "In 2024, the nominal interest rate in the economy of Gondwana is 12%, and the real rate of interest is reported as 8%. What is the expected inflation rate for 2025 in the economy of Gondwana?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "3.70%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "5.42%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "7.60%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "11.61%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/0869nlw3pwxbowwa8c6qe/q_1747254282524_1.png?rlkey=lij4lsfxxrgyfpz2xxvh1i3mh&dl=0",
+      "options": [
+        {
+          "text": "30%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "22.5%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "15%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "2.25%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "What type of yield curve is often associated with an impeding recession?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Upward sloping yield curve",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Inverted yield curve",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Humped yield curve",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Flat yield curve",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "Suresh wants to build a house. He takes a home loan of Rs 5,00,000 at a 2% monthly interest rate for 10 years. What would be the equated monthly instalment (EMI) that he will be paying each month for the next 10 years, beginning next month (Round off to nearest integer)?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Rs 4,167",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 5,000",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 9,462",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 11,024",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "question_text": "Which of the following statements is true about the internal rate of return?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The internal rate of return is the rate at which the net present value of thecashflows is maximized.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The internal rate of return is the rate at which the net present value of thecashflows is zero.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The internal rate of return is the rate at which the net present value of thecashflows is minimized.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The internal rate of return is always greater than the cost of capital.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "question_text": "You believe in the power of compounding and decide to save Rs 100 per day by avoiding consumption of junk food. You deposit Rs 100 at the end of each day in a bank account that pays 3.65% annual interest rate compounded daily. How much money will you have in 2 years, assuming 365 days per year (use banking convention: daily interest rate = r/365, round off to the nearest integer)?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Rs 73,000",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 75,727",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Rs 81,234",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Rs 85,000",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 22,
+      "question_text": "In 2024, the GDP deflator is 112 in the economy of Pangia. If the nominal GDP is accounted as 14,000 units in 2024, then what is the value of real GDP in 2024 for Pangia?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "15,680 units",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "14,000 units",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "12,500 units",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "10,000 units",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 23,
+      "question_text": "What is the annualized rate of return of an investment of Rs 10,000 that promises to return 20,000 in 5 years?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "14.87%",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "11.61%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "7.18%",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "20.00%",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 24,
+      "question_text": "Which of the following statements is correct?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Stocks of a company are an example of fixed income security.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The price of a bond increases if the interest rate offered on that bondincreases.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Shares of a company have a maximum maturity of 5 years.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A zero-coupon bond pays only at maturity. There are no interim payments.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 25,
+      "question_text": "Sahitya Inc. is considering two different projects, A and B, for investment and can choose at most one project to invest in. Project A costs Rs 12,000 and is expected to generate Rs 5,000 in year one and Rs 10,000 in year two. Project B costs Rs 10,000 and is expected to generate Rs 5,000 in year one, Rs 4,000 in year two, Rs 3,000 in year three, and Rs 2,000 in year four. Sahitya Inc.’s required rate of return for these projects is 5%. Suppose at most one project can be chosen. Which of the following is true?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Sahitya Inc. should prefer Project B as it has a higher net present value thanProject A.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Sahitya Inc. should prefer Project A as it has a higher net present value thanProject B.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Sahitya Inc. is indifferent between Project A and Project B as both have thesame net present value.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Sahitya Inc. should not invest in either projects A or B as both have a negativenet present value.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which of the following is not a credit rating agency?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Standard and Poor’s",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Standard Chartered",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Moody’s",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Fitch",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
