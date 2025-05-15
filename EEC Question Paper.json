@@ -1,0 +1,407 @@
+{
+  "papers": [
+    {
+      "paper_name": "2024 July07: IIT M AN EXAM QEF3",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2024",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"FOUNDATION LEVEL : ELECTRICAL AND ELECTRONIC CIRCUITS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Instructions: • Numerical answers need to be rounded off to two decimal places.",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Instructions has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This Instructions is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "The Thevenin and Norton equivalent circuits are applicable only for linear networks.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "At series (RLC) resonance, the current flowing through the circuit will be minimum.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "In a pure capacitive circuit, voltage leads the current by 90o.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4ijeqpup5nne3zpnljgyz/q_1747255253384_0.png?rlkey=qbwsuj0fz77q6o4v6uwcox82f&dl=0",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "A voltage source having an internal impedance of (10 + j5) Ω is to deliver maximum power to a reactive load (R+jX) Ω. Then the value of the load impedance should be (10 − j5) Ω.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Three resistors each of 1 Ω are connected in star configuration. Then the value of the resistance in each branch in the corresponding delta equivalent would be 3 Ω.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "The average power consumed in a pure capacitive circuit is zero over one time period of the AC signal.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "In a series RL circuit, if the magnitude of the voltage across the resistor is 8 V and the magnitude of the voltage across the inductor is 6 V, then the magnitude of the total applied voltage would be 14 V.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "A complex impedance (3 + j4) Ω is represented in polar form as A ∠ Bo where A is the RMS value. Then the value of A is 5.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "For any linear network, Norton equivalent resistance is equal to the Thevenin equivalent resistance.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "With reference to the figures below, Circuit I is simplified as in Circuit II. The value of V shown in Circuit II is ____________V.  ",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xjwbcrrub6e7u8h5as0tx/q_1747255256991_1.png?rlkey=x7xbexofg8bobxyqldtz3pj90&dl=0",
+      "correct_answer_text": "3",
+      "range_start": "3",
+      "range_end": ""
+    },
+    {
+      "question_number": 14,
+      "question_text": "An RLC series circuit has a resistance R of 20 Ω and a current which lags behind the applied voltage by 45o. If the magnitude of the voltage across the inductor is twice the magnitude of the voltage across the capacitor, the value of inductive reactance is ____________Ω.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "40",
+      "range_start": "40",
+      "range_end": ""
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/y1b4w2rvknj0mskdpm9o3/q_1747255260572_2.png?rlkey=nllhjw8191p65q1bi4h0x85oi&dl=0",
+      "correct_answer_text": "375",
+      "range_start": "375",
+      "range_end": "376.14"
+    },
+    {
+      "question_number": 16,
+      "question_text": "The Thevenin equivalent resistance seen into the terminals A and B is____________ Ω. ",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/bo071x1mxcpt6hwh30hg5/q_1747255263856_3.png?rlkey=ytt2gvcg6rk0sggwxrvlebpt8&dl=0",
+      "correct_answer_text": "15",
+      "range_start": "15",
+      "range_end": ""
+    },
+    {
+      "question_number": 17,
+      "question_text": "In the circuit shown below, the maximum power delivered to R is____________ mW. ",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/8avfwz8ivd6juoh03vfzi/q_1747255266793_4.png?rlkey=7dfxiuinas520m8g14t9qn8qz&dl=0",
+      "correct_answer_text": "25",
+      "range_start": "25",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "A resistor of 100 Ω is connected in series with a 50 μF capacitor as shown. A voltage VS at a frequency of 50 Hz is applied across this combination as shown. A voltmeter connected across the resistor reads 170 V.   ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ggoxg6v9b2cy12kncpttu/ctx_1747255270595_5.png?rlkey=jl2uf3avstka7d7vm355v5m4e&dl=0",
+      "for_questions": "18,19,20,21,22"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Determine the magnitude of the impedance of the circuit (in Ω).",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "106.64",
+      "range_start": "106.64",
+      "range_end": "130.44"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Determine the phase angle of the impedance of the circuit wrapped up such that it is confined between + / - 180o",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "-35.73",
+      "range_start": "-35.73",
+      "range_end": "-29.33"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Determine the RMS value of the voltage across the capacitor (in V)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "97.39",
+      "range_start": "97.39",
+      "range_end": "119.04"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Determine the RMS value of the applied voltage Vs (in V)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "181.35",
+      "range_start": "181.35",
+      "range_end": "221.67"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Determine the Power factor of the circuit",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0.8",
+      "range_start": "0.8",
+      "range_end": "0.84"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ztfe30o3b01rhythh3snk/ctx_1747255273983_6.png?rlkey=i9dpdulwmsnf45e7ar4vb1h0b&dl=0",
+      "for_questions": "23,24,25,26,27"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Determine the Active Power (in W)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "577.16",
+      "range_start": "577.16",
+      "range_end": "705.42"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Determine the Reactive Power in (VAr)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "1585.72",
+      "range_start": "1585.72",
+      "range_end": "1938.11"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Determine the Apparent Power (in VA)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "1687.50",
+      "range_start": "1687.50",
+      "range_end": "2062.49"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Determine the Power factor",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0.3",
+      "range_start": "0.3",
+      "range_end": "0.34"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Determine the Magnitude of the impedance of the circuit (in Ω)",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "16.60",
+      "range_start": "16.60",
+      "range_end": "16.67"
+    }
+  ]
+}

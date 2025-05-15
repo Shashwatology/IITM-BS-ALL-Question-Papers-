@@ -1,0 +1,634 @@
+{
+  "papers": [
+    {
+      "paper_name": "2024 July07: IIT M AN EXAM QEF3",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2024",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"DIPLOMA LEVEL : SIGNALS AND SYSTEMS (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5il4gvoeddeghazkb5wwp/q_1747254765393_0.png?rlkey=ahmexftnybki2at4bx6e9jla5&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ulx07i0kylcinyxeulxje/opt_1747254769923_1.png?rlkey=6hl3xpzqlrr2hlk05s41ce5un&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8beoj55eixlp1h72iv86m/opt_1747254773917_2.png?rlkey=0odxedcrxjnjlzg6eqtv5c3kp&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/kiuc3hh7nuavkmv40ripu/opt_1747254778045_3.png?rlkey=lynax9uci1r62tgvakkj4cl79&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yfegup98vx9bjmv3vmtf3/opt_1747254782636_4.png?rlkey=guq6dn6p4peu7r189b49vreke&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/80czhxjd8foadn7ranun5/ctx_1747254786353_5.png?rlkey=2u9zxry4onbwzmjp4qhltk3l8&dl=0",
+      "for_questions": "3,4,5,6,7"
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/x9xx7617679sxn8wt70a5/q_1747254789279_6.png?rlkey=c8pbnse9jj31mcopevhklr0ni&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xyss7r45uzqowl2q0yr5z/opt_1747254792453_7.png?rlkey=e1a42l9ct9r937fkpg69adij4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/701wtkqjc4kmtrmv0lvsd/opt_1747254796408_8.png?rlkey=2ia7hm7h21pacqyghavr74e55&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/s9fqamtznbdlwzpxijtlk/opt_1747254799012_9.png?rlkey=yuwh5tu4wg9gpllkw31iro5pv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rf46rr3224o0v0injpgce/opt_1747254802078_10.png?rlkey=cnbrbke5lk6l0wi1mpihv8ege&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/myxtd7wdjlwpdqzq9lhce/q_1747254805870_11.png?rlkey=u0cnmr9qddg58i2fha4ufay5k&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hws3e64cwkciffx13dz2o/opt_1747254808743_12.png?rlkey=cv7b2ncxoqa8ksk2vlkk6ryg6&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/czzhgakt2d3xl5syxuiz5/opt_1747254812316_13.png?rlkey=17qhmms2s6yv9vnruaz2nnmd4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2t151rfajkqdfwa5cc40j/opt_1747254816821_14.png?rlkey=5f9gdn42zdzmnljbj54jaj0us&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/oa7yq6xfy0eqqw4axu3t7/opt_1747254819511_15.png?rlkey=h1olftoypp2knc9wus54md88g&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/exl716ea305bti0q463xo/q_1747254822351_16.png?rlkey=5rlgvmtchmdkcbqb6fkucn46s&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/54dlc4o9awa2bj9t3wx8q/opt_1747254825447_17.png?rlkey=q5kkzyxxv2x8rywf1dwxiuhlg&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/uljuwpwq37uq7fobt20mp/opt_1747254829834_18.png?rlkey=s5jdzn7saxg01pcubyut7lloi&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7c4gq7j7mg5hbhmvw9hrf/opt_1747254832976_19.png?rlkey=ote99nv0exrnbbw2y4jspwsh0&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/6h4lyhdi9v37kxq3zca3t/opt_1747254835472_20.png?rlkey=13ry7k1v6ak78u1r64gor1ppd&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gg4x4hycbdisvs2506eji/q_1747254838223_21.png?rlkey=32dg3ag8hgckhpp75g8foml7o&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/4gietqjd76nng0edpqv9k/opt_1747254842018_22.png?rlkey=2dq782pygmusnemhx5te2gko5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9b8qpuha2drm4wfgtaqxf/opt_1747254844783_23.png?rlkey=vq79qu60f9u1cr3iari22j5yi&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/94tvkyvkvhpv1bswj3u80/opt_1747254847549_24.png?rlkey=7mbitdyxciuipui417szrf2jy&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vlkijp0bymhyhmw4w4grw/opt_1747254851076_25.png?rlkey=c3p17czrxj87kaifkc7q8xwvl&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/20az68fidyeh41a6kz35u/q_1747254854511_26.png?rlkey=intz5pfgxcwx4swnk7iotkrnx&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ye70f8o2ckfeauj9gtr84/opt_1747254858710_27.png?rlkey=hx3t8t4i07qtqhnysvabd0m07&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mcct7jr0vux92sv96hh8q/opt_1747254862087_28.png?rlkey=utdc5lbpnoqx8oebqvd8mf4k2&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/z09i7kslpzuv8e9rh4jd9/opt_1747254864872_29.png?rlkey=q8e5ta6qsjjifpneetohe8owp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/g5p8yr81mzzfmp8foszlx/opt_1747254867825_30.png?rlkey=dtchz107ycofx1h34lpv849dg&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/py90298ytrr220ih3uvoi/ctx_1747254870773_31.png?rlkey=yjmc8ipqgx8oda0a3o9uzed11&dl=0",
+      "for_questions": "8,9"
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/3tdhdc5y5rr8d2q41m8l0/q_1747254873964_32.png?rlkey=knm08jkpmyrt80gzqgdygyhhe&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e08egn93wwz1nspqce6nr/opt_1747254876958_33.png?rlkey=snmcvy5267audf8skqcvmetn7&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0w2a8xfyh7qyv953xb7bs/opt_1747254880323_34.png?rlkey=feppv9nw8x2mw2n2y2n3hy8wu&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/4rn7impo8mnn1nefl4ets/opt_1747254883293_35.png?rlkey=97pd96ijmh3cb3j86pa96nldp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gduvb8g2ga0dhocsoeqhc/opt_1747254887073_36.png?rlkey=hlfay412q0ta1ybf1jtu7f46s&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xeeflxexqpzossk4ce1nl/q_1747254890117_37.png?rlkey=6jogtagjdijuzh0adjs4exa32&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3aslnvhxqtaug33gzq1d7/opt_1747254892994_38.png?rlkey=yjly0qp6bkflzk1rkur4k78se&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yii0s95dq2zmtzh84i0gw/opt_1747254897018_39.png?rlkey=pi4gbvc7761m32487timxokt7&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vyj5y805uxntqdb0gbfb3/opt_1747254901066_40.png?rlkey=h9tggfqddhzcwjnggzcp7zz8s&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/u4stcshic0bvhtugw1izb/opt_1747254904386_41.png?rlkey=mbatfqqryx066lffti416zq8s&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/20iq1crj3qu977bp643rq/ctx_1747254907558_42.png?rlkey=lxi8be8gc5t47or1d43la0uzb&dl=0",
+      "for_questions": "10,11,12"
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gbeglkjv3m2yf0wm7umea/q_1747254910943_43.png?rlkey=jj6juadbr286lghucitihnab2&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7ehrdpiqhwkpwmiq46rnk/opt_1747254914140_44.png?rlkey=k4i9cn3v3f8hcoa54ulzhklcp&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/kevpi2f3r61kyg3cp7fki/opt_1747254918002_45.png?rlkey=hsekgh90t9kllymhp23tnf12r&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/kehh2x8hfn04q3vg7xmz7/opt_1747254921560_46.png?rlkey=vb0858ukdibzjr9dxsrz5zi4j&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/73kkecg71pain4khqmbee/opt_1747254924726_47.png?rlkey=tfil3lnsx58ahfabfhnckcy3x&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/mzcsmqwawblti3u25de4v/q_1747254929498_48.png?rlkey=rf1ntmxzu7i51naa2mh8jq3kl&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2ln9c3oip0ohpqv6khycu/opt_1747254934082_49.png?rlkey=7ql61uxqakpg940i0wum69167&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dva37fsc8g14xnigh9cvm/opt_1747254937086_50.png?rlkey=f0jtz1j9qqmoatm13no7tm1f4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/85lltq7lt2i2hy1t9swud/opt_1747254940742_51.png?rlkey=ob3ba3ilz20sqcb60wcnta57v&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0ahqikdi2ewxhi4zgtym0/opt_1747254944416_52.png?rlkey=xtrvlquiquhb69vtsiz0yij5z&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/muhsolcyji9cgtsv20k6o/q_1747254947921_53.png?rlkey=5k2lk8emj6j38vpsuauxwsrdb&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/g1bom7k4t87y7ctcvkcu8/opt_1747254951798_54.png?rlkey=gy9pfd3gl9d1109fd2jk01jeq&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xr22r6ojv39ye71z4e31e/opt_1747254955381_55.png?rlkey=fgnocc8ojcxpowidfjq2abv7n&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/triunpqii44hspo4taopb/opt_1747254958758_56.png?rlkey=sq7kk0lykvcjt6cslninphl2c&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gvnbddevtye2ek1vpawf6/opt_1747254962456_57.png?rlkey=djndxxa2rh6cqcbnryd5ipcqb&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/mg28k4nrut7utyb2ijr17/ctx_1747254966647_58.png?rlkey=977njyvxltasg9banjq7hvaia&dl=0",
+      "for_questions": "13,14,15"
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/6m8ctmfvyv6w094pq1pyl/q_1747254970162_59.png?rlkey=gu0sytynk4w9dqsbjxmq9daf3&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/imlt4rqoyg7z41ybkcrtq/opt_1747254974224_60.png?rlkey=1xlahz1vrqbreme5pr9tregj5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sfddxrmtp85u29277pxbs/opt_1747254977313_61.png?rlkey=m1roysax9b45sfjtgdwhxdnhe&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vikpproyqxbnwu2dd0epj/opt_1747254981031_62.png?rlkey=222wnxv4evkwbuuq8yis6pasg&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/tqqy78q7rx3b79mkzo4p6/opt_1747254984329_63.png?rlkey=t67wmhrm5qg61xsndfpzk1ccb&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/h5zbroe5z2r2t56sq1e8d/q_1747254987321_64.png?rlkey=tkj1tabqwmm8fkkf4bsvd03n5&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qign131qz5eebhgvv0dsi/opt_1747254990702_65.png?rlkey=0dhcuh2aw7n89jt0pldtg068i&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/95k07h4294k4uant0abuf/opt_1747254993775_66.png?rlkey=rhtpnaao90w35o67wnq06a2m2&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mkrr43dfiotwdwb7t8aj1/opt_1747254996862_67.png?rlkey=h7baqbgbur660587r9ppny7iv&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/30s9eexxhh5zy2jexi7p9/opt_1747255000618_68.png?rlkey=ntbrq3103ge2rxsfcitrkuitn&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/rvoys7awm0koux4bdhtck/q_1747255004210_69.png?rlkey=38lv1d4tih8pj7p2rnblqf2rv&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xdsxm85nfi9epotzz86ta/opt_1747255007584_70.png?rlkey=rivga5sb9hbuh9r72ka40a7iy&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bgj2nragshsm0ylspxfqz/opt_1747255011176_71.png?rlkey=g0ddm3hwokv3vtctzyzi7n5z0&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/izq34cwn1n4akp8w4sfpl/opt_1747255014578_72.png?rlkey=t0c2emc4uihlk9kqwuzk8w4jm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dwiklemzi6pqfqis17ada/opt_1747255017849_73.png?rlkey=n1p6b0lu6uwans4znnhsqbcjy&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/jxvdts0xlw653to1hfa7a/q_1747255021743_74.png?rlkey=yqt3ww63ad59ohuxxqb2rgyb2&dl=0",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ddn4oh5y6eb6fr23lyluf/q_1747255025413_75.png?rlkey=rw8deglnd9f7hm748aknbnn6w&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gmsfqfnn8pl5apq0s9gfr/opt_1747255029073_76.png?rlkey=ds6g37dpe6n4o82c7jnw05pj3&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/6deqqeys9yy2qvq37v6s4/opt_1747255032377_77.png?rlkey=vppuuz7q9r8jpqgvrcq7v78p2&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qifnsxczj4tmsfyfetisy/opt_1747255035787_78.png?rlkey=uweegxe8o8upv65zs32fl67b3&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2a3qvotaeafp29hbhmtvn/opt_1747255039144_79.png?rlkey=u6j9w35qri99uk0t8oxp09ubj&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/t7hh0t62vdf25pemm5jz7/q_1747255042641_80.png?rlkey=e2iiz3pl5rl79091sm1m9oh6r&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mcubwecalsbz4vi6rpz2x/opt_1747255046916_81.png?rlkey=mf4pth6ic05x5sgc3ytgwq10a&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wz89lps7pof6cduv4hnf1/opt_1747255050400_82.png?rlkey=p2ycd7if9yg7nufd6e9vhao6c&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/93ubw586f405i31sb5kb8/opt_1747255054181_83.png?rlkey=jzezo5lgppqhsvlsyrq6z7alv&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/spazyjua4jhdgu56fvuw0/opt_1747255058010_84.png?rlkey=qirhvbekhk5nhvy3no65skaab&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/s34637gs6pphye369ekz6/q_1747255061797_85.png?rlkey=uk4lmnxsv6bl52whuaa3z9ovf&dl=0",
+      "options": [
+        {
+          "text": "-3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "45296",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "45356",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "-3/5",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/lav003v9atvn2a9xpl8hk/q_1747255064883_86.png?rlkey=t59y358op96ft86cxh07rkg3y&dl=0",
+      "options": [
+        {
+          "text": "x(2)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "x(0)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "x(-1)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "x(5)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4vikvy6j3w5ub466g2qxw/q_1747255068014_87.png?rlkey=fl08dretulb40ymxqwkm51y4c&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/964hjn8rn2sb47hh2z7v6/opt_1747255072125_88.png?rlkey=l09a0bdors6u0zy3qkxphnany&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/cvv8q9u33wusi2szluwyj/opt_1747255076186_89.png?rlkey=iwxaogpwrxsj60fc0rv0hadp9&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7pp7rmzy53xj3bomjn7ig/opt_1747255080542_90.png?rlkey=3lkz7vpryv4vzd1zj6z6ya1sk&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e8o1fi6vlhh00iziqgnbh/opt_1747255085302_91.png?rlkey=ebocpyihs3chs9q3mfc5j6yyv&dl=0",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

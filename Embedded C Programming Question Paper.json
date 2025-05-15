@@ -1,0 +1,550 @@
+{
+  "papers": [
+    {
+      "paper_name": "2024 July07: IIT M AN EXAM QEF3",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2024",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT \"FOUNDATION/DIPLOMA LEVEL : EMBEDDED C PROGRAMMING (COMPUTER BASED EXAM)\"  ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN.  (IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS REGISTERED BY YOU)",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which of the following is/are NOT typical components of an embedded system?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Processor",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Memory",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Integrated development environment (IDE)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Sensors",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Input/Output (I/O) ports",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Compiler",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/vf9t3qd6c1nd88yerfi9g/q_1747255118958_0.png?rlkey=bv0dpc6j3wziizqw9v3o3m1yb&dl=0",
+      "options": [
+        {
+          "text": "The data frame uses even parity for error detection.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The data frame uses odd parity for error detection.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "No parity is used.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Two stop bits are used.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "One stop bit is used.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "What is the main advantage of using flash memory in embedded systems?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Low data storage capacity",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Faster read/write speeds than RAM",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Retains data even after power loss (non-volatile)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is the primary purpose of a real-time operating system (RTOS) in an embedded system?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "To manage power consumption",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To provide a user interface",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To ensure timely and deterministic task execution",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "To handle multimedia processing",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which bitwise operator is used to invert all the bits in a byte?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "&",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "|",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "^",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "~",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "How does the CPU interact with memory to perform read and write operations?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "By using dedicated I/O pins",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Through an address and control signals",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Via the ALU",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "By directly manipulating registers",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "What is the primary function of an ADC in a microcontroller?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "To convert digital signals into analog signals",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To convert analog signals into digital signals",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "To store digital data in memory",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To generate PWM signals",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is a primary use of timers in microcontrollers?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "To store large amounts of data",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To generate precise time delays",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "To convert analog signals to digital",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To manage power consumption",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "What is the role of peripherals in an embedded system?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Perform central processing tasks",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Interface with the external environment",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Store large amounts of data",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Perform Arithmetic and Logical operations",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which of the following typecasts is needed to assign a void pointer v to an integer pointer p in C?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "p = (int)v;",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "p = (int*)&v;",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "p = (int*)v;",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "p = (void*)v;",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "What is the result of 6 ^ 3?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "5",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "7",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "2",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "4",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "What should be the mask to check if the 3rd index bit (from the right) of a byte x is set to 1? Consider 0-based indexing from right to left.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0x04",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0x08",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0x0C",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0x10",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5ry6hf4dr6nafo7fkrxzz/q_1747255124135_1.png?rlkey=ggenici6yhsg7w94imxfw25qt&dl=0",
+      "options": [
+        {
+          "text": "It turns the LED off",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It waits for 1 second",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "It sets the pin mode of the LED",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It toggles the state of the LED",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "What is a typical method to generate PWM signals in microcontrollers?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Using analog comparators",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Using digital-to-analog converters",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Using timer/counter peripherals",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Using serial communication interface",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "What is the function of the prescaler in a timer module?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "To divide the input frequency to a lower frequency",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "To amplify the input signal",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To convert digital signals to analog",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To generate a reset signal for the microcontroller",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4bn3o6mrj6k3sundwmvac/q_1747255128677_2.png?rlkey=kn4i8a97t61oiynnae8znbox8&dl=0",
+      "options": [
+        {
+          "text": "0x23 (00100011 in binary)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0x33 (00110011 in binary)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0x1F (00011111 in binary)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0xCF (11001111 in binary)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "Control registers for a GPIO peripheral start at address 0x40000000. There are 4 control registers, each of 32 bits each. What is the address of the last register?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0x40000004",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0x4000000C",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0x40000127",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0x4000001F",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/f5yflypqgsd8uoas3vzwk/q_1747255132175_3.png?rlkey=kamjgrds0rfmoq20clvt9xqas&dl=0",
+      "correct_answer_text": "0",
+      "range_start": "0",
+      "range_end": ""
+    }
+  ]
+}
