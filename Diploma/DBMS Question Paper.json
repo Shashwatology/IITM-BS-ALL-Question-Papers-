@@ -1,0 +1,408 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : DATABASE MANAGEMENT </b><b>SYSTEMS (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which level of abstraction is responsible for providing data security by limiting access to specific data views?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Physical level",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Logical level",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "View level",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Physical level and Logical level",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/rzz7qwm43wtnylegk8w4q/q_1747487740048_0.png?rlkey=domo3f7iqcqpdk330jdor9f7u&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/tqyrh96upvet2s6ebxf7g/opt_1747487745331_1.png?rlkey=hl37onxg2r6owzyusg3ihmwdm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rllrepbfrv5fqwror6hs1/opt_1747487747969_2.png?rlkey=2t98i42pzhvehszw1fff7libg&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sfj83f9xiviah1bdxmqx3/opt_1747487750463_3.png?rlkey=mbxvcru0cf1mprj3x4q4barir&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ahz58pjdkq77y2sh275pz/opt_1747487754255_4.png?rlkey=ahdjepkpx0elz1jse4n5bvww0&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5qxynrlfpauu8k0pfv6l7/q_1747487757283_5.png?rlkey=bl4ntt3sr99oujgjrema8l7hb&dl=0",
+      "options": [
+        {
+          "text": "4 attributes and 9 rows",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "5 attributes and 8 rows",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "4 attributes and 8 rows",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "5 attributes and 9 rows",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/idp2xw1p78kec9wdb0x31/q_1747487760751_6.png?rlkey=b5id4u7e2jyk7wxxaulu3sw8b&dl=0",
+      "options": [
+        {
+          "text": "4",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "5",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "9",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "7",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/l9msu8ui9vcm6634xaoey/q_1747487763542_7.png?rlkey=25ebg8kppq27gbicof3biwk4r&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/opeyquhmcw7gu92c9h78f/opt_1747487767307_8.png?rlkey=wt3whgdk2bo0j4opd439ow5gq&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/aa5nnks7evi6hd9hiya58/opt_1747487769970_9.png?rlkey=dmtw7hdf86z21yr8bb2b9ixxu&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/22v5apxh5ovy5adjd2vpx/opt_1747487772622_10.png?rlkey=gx6kbubdcpajqept09dch0ix7&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m2obion3bbkefqhs52his/opt_1747487775077_11.png?rlkey=xbqecfrgqtmdrry6sqfou2o4z&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/c8jp39qfwl47p05vwe5my/q_1747487778371_12.png?rlkey=zm7kmz4bo98dx552jyhch2e6w&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xity244uxshqgsw4766sa/opt_1747487781139_13.png?rlkey=vmys0qczuayuo8q71gfv3vwys&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sy13tb7n3a2kimdz82czf/opt_1747487783685_14.png?rlkey=r1zr8ri599c179jdtes8cimqc&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q53oroylqraz81wri05u2/opt_1747487786353_15.png?rlkey=ee6chst7v2pc5vu7x4p12vtwd&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/snwgnwe1avtips253zd84/opt_1747487789453_16.png?rlkey=c44d8l0iz6981n8di26c4cb66&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/3ywbmm3r8a4y7qlcv7olh/q_1747487792119_17.png?rlkey=c9xqscqgvaqzpx43nrkyf8ton&dl=0",
+      "options": [
+        {
+          "text": "Names of all the drivers whose salary is greater than all Mercedes drivers butnot less than all Ferrari drivers",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Names of all the drivers whose salary is less than all Mercedes drivers but notgreater than all Ferrari drivers",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Names of all the drivers whose salary is greater than all Mercedes drivers aswell as all Ferrari drivers",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Names of all the drivers whose salary is less than all Mercedes drivers as wellas all Ferrari drivers",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/al0qi7cedl0l0n9490yhf/q_1747487799246_18.png?rlkey=8fg00mlm6bftlk162yxyutwvc&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/aihilvmqbju1unbxats9v/opt_1747487801733_19.png?rlkey=ke9wr49na8drmtekwp25x0j5z&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1zqampwv8xylf5fkmkmot/opt_1747487804478_20.png?rlkey=c0w4kakdksmbd601o7korbl31&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/64xuefm132dujdgo7ewvu/opt_1747487807464_21.png?rlkey=z9qqg4snwpfda5xns3vi6cire&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/g32s9hk143qoszrbzn7yz/opt_1747487810439_22.png?rlkey=m6g7vso8k633x4fmcym9cxkhp&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/nc7mlj0cax9k9n1di7ao1/q_1747487813309_23.png?rlkey=y15bh53x4i646t8w9h8kuikvg&dl=0",
+      "options": [
+        {
+          "text": "Every company must have produced at least one item",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "An item can be produced by more than one company",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Every customer must have bought at least one item",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "An item can be bought by more than one customer",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/lecgugnqhdepkuq3481bh/q_1747487816388_24.png?rlkey=qr51f3l38uubvgiuvb1elejst&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zvurjxzsvrhucm89swj7b/opt_1747487819433_25.png?rlkey=qgvj1yvvuo13a3fnwjfg3o99w&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/55n6mzjloyb8zlqlchc3y/opt_1747487822462_26.png?rlkey=86qloxhgosafttand1xacofx6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zaoeeipldghx8i9pgpo89/opt_1747487825196_27.png?rlkey=eonud8x8hkrxtb65x1pbx58kh&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/oynip5rb59d6zquzh2lbg/opt_1747487829047_28.png?rlkey=e9zj5mp5c3tbluakt5r2yt6la&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/8x2bhzs7wwnc9beb5s9mf/q_1747487831579_29.png?rlkey=3bbu437u3091ptnnrfsxfhef2&dl=0",
+      "correct_answer_text": "4",
+      "range_start": "4",
+      "range_end": ""
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/kbe8tsrdqboyfbkdzezw0/q_1747487835909_30.png?rlkey=m624g7ik3i7s6g65zxfoa6v2d&dl=0",
+      "correct_answer_text": "0",
+      "range_start": "0",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Consider the following scenario and answer the given subquestions. \nA startup company is building an online learning platform that hosts courses on various subjects. In this platform, students can enroll in multiple courses, and each course can be taught by one or more instructors. The company wants to design the database schema to manage the core entities: Student, Instructor, Course, and Enrollment.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "14,15"
+    },
+    {
+      "question_number": 14,
+      "question_text": "In the Enrollment table, which of the following is a typical way to handle the primary key?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Use an auto-increment column (e.g., EnrollmentID) as the primary key.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Use a composite primary key consisting of StudentID and CourseID.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "There is no need to have a primary key for the Enrollment table.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Use a primary key consisting of StudentID.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "In a typical design, what is the relationship between the Student table and the Enrollment table?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "One-to-One",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "One-to-Many",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Many-to-Many",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Many-to-One",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

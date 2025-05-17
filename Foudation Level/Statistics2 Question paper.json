@@ -1,0 +1,440 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M FOUNDATION AN EXAM QDF4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : SEMESTER II: STATISTICS </b><b>FOR DATA SCIENCE II (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "  ",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/cy6j77gk9q2ljch83rywv/q_1747487426664_0.png?rlkey=xv9npx09pvkmwrn7uvq9zekym&dl=0",
+      "options": [
+        {
+          "text": "Useful Data has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This data attachment is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/1ia6f5qiemj5pbiaukzvn/q_1747487430036_1.png?rlkey=x9yyzw85e3w3m26o1uhkedfw6&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zqzukscz3ga2us6pfymg5/opt_1747487433619_2.png?rlkey=eyyumiggriuygxqf8ycyu5t7m&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1x8eevhi5ibdyrwnzc0co/opt_1747487435970_3.png?rlkey=s81hxu4udqosk79mbxwwvwx1r&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/tn6x2sser2z5d4l0r5k3o/opt_1747487438792_4.png?rlkey=7cat3wltgfzvh91872q0rv8co&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/kph0zloijrwa0wbe4hi87/opt_1747487441304_5.png?rlkey=8u872nd0rpddx54g725y0d5g5&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/89cc6c53msorbvaaj5xlx/q_1747487443836_6.png?rlkey=fzm7sztt6h813fmkm9gk2wjsx&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/13c95mdkvwqpkg38xmfk7/opt_1747487446521_7.png?rlkey=114yup637itcdks6gagpqixe3&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/uzdn6o1csdl0f726382v6/opt_1747487448932_8.png?rlkey=doziom2kqo26s1zo5726yyo4m&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bg5ju8mpp3pj3zhue049u/opt_1747487451020_9.png?rlkey=ad2j7sg9vy6m68xd25yi62oom&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7me1krqseeysbaatn9tks/opt_1747487453353_10.png?rlkey=nnl58eenhxfe2aj3xm9hrpl4c&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "A call center analyst monitors the number of calls received at the centre daily. Let X denote the number of calls received in a day. Using Markov’s inequality, the analyst determines an upper bound of 0.48 on the probability of receiving more than 249 calls. Calculate the mean of X.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "120",
+      "range_start": "120",
+      "range_end": ""
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/9b01tzn7t8mbflvi34glf/q_1747487455537_11.png?rlkey=tmek9dlqkv84ja14q82390efk&dl=0",
+      "correct_answer_text": "0.5",
+      "range_start": "0.5",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/c37wp09f1xpkdji55iu9v/ctx_1747487458788_12.png?rlkey=69o06rcdbrrs2zx7adr45sqe0&dl=0",
+      "for_questions": "7,8"
+    },
+    {
+      "question_number": 7,
+      "question_text": "What is the value of p?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/frblh1qnv510b5cjspjiw/opt_1747487460922_13.png?rlkey=pdbmqpvwd5a72nvxv9zjmcga4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/cahcndlr5yxiphnelmk6m/opt_1747487464354_14.png?rlkey=63rgjawcv16qb4vkdugoezl7b&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/avujo1bijurttrn947tl9/opt_1747487466904_15.png?rlkey=ik43zv9ag9zcttzscb1qriyii&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7h726jad23mzmap6sxxt9/opt_1747487469969_16.png?rlkey=h5bppgm1t5of2wq3pjxkr98ez&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Find the expected amount of money to be gain. Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "13.72",
+      "range_start": "13.72",
+      "range_end": "13.78"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/lwzlckskayza28fzv2ccv/ctx_1747487472483_17.png?rlkey=pyd2ukchqthzwgudxvh5ftfla&dl=0",
+      "for_questions": "9,10"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Find Var(W). Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "2.89",
+      "range_start": "2.89",
+      "range_end": "2.95"
+    },
+    {
+      "question_number": 10,
+      "question_text": "What is the value of E(Z +W)? Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "9.72",
+      "range_start": "9.72",
+      "range_end": "9.78"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/hhww2eljc1gd9wnlm13dr/ctx_1747487474971_18.png?rlkey=712dlsmmcf0if6hzo9tl52ykq&dl=0",
+      "for_questions": "11,12"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Identify the correct joint PMF table of X and Y .",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/318mqdvx8zmmcm19w26m4/opt_1747487478607_19.png?rlkey=uy6kwhmqn80n16jk9nfrjrx0f&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rb76sumr2q1novarxw1ng/opt_1747487480936_20.png?rlkey=wi0cxjuv1ch0yge8ez8dndauz&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fb81ousb2otuj4cfccd0r/opt_1747487483541_21.png?rlkey=20esrgrd8znr4w5745un4csom&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fol3dwwfyr9ed90iswg3b/opt_1747487485955_22.png?rlkey=nrmba93cl5fjj0nqspb1e96ne&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "What is the marginal distribution of X?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dw7xwidhgxkym2gx5db3o/opt_1747487489557_23.png?rlkey=ywdjlalgtgfcidm6d2cc6us7l&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e4m2yooib6a5efxuoul2d/opt_1747487492924_24.png?rlkey=hsggclfsd2lm5dki821sml9bk&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2yijzpjmd7su6dvu9nzd0/opt_1747487495104_25.png?rlkey=vq1tryxd4erz6qmlhlfsthxk9&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ijn3jb6i7n3f8sud7d7w5/opt_1747487498040_26.png?rlkey=0wwbj5t4s7cy36mkcj93bw528&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Let X and Y denote the number of customers arriving at two different service counters (Counter 1 and Counter 2) in a bank during a one-hour interval. The random variables X and Y follow Poisson distributions with mean arrival rates of 15 customers per hour at Counter 1 and 25 customers per hour at Counter 2, respectively. Assume that X and Y are independent. \nBased on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "13,14"
+    },
+    {
+      "question_number": 13,
+      "question_text": "If Z represents the combined total number of customers arriving at both counters during a one-hour interval, then determine the PMF of Z.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zzefka3jwv6f02lkgr6gs/opt_1747487500532_27.png?rlkey=snqzbizmo01pp03h8x43z6tuo&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fvd6jtbhmb5puf24gfkld/opt_1747487504007_28.png?rlkey=m02yyn2uzxnzaux69y6vg5vbq&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/luq1mcrnhc7e35qm6p5fb/opt_1747487506739_29.png?rlkey=3htr89s6ldml247ecr7h6a9bg&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/c8zcltw2gazrybxjzqk64/opt_1747487509322_30.png?rlkey=gtr3qx8wcgr77b6qyjwm2yzau&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which of the following option(s) is/are correct?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/6c2gq9w3viaumcn3okgxc/opt_1747487511734_31.png?rlkey=zyxosxq5m8gtkay2pd1ipoy1b&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fkxapvd5o7ieruwjhkn91/opt_1747487515472_32.png?rlkey=dr9g6qlvw29xz532725xovq7w&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/f541ufny3y7fwmrfj72ff/opt_1747487522105_33.png?rlkey=68ih6j6x26bmy6053a5j084fr&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/42gh4vaccnw9amslnuf0q/opt_1747487525057_34.png?rlkey=98zo5dikd984rfrbx9sozggzj&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/6p0po437wuaa863iru7rw/ctx_1747487528279_35.png?rlkey=avfo04cl2aoefkxqzbvmdt1px&dl=0",
+      "for_questions": "15,16,17"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Find the value of a.",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "3",
+      "range_start": "3",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "What is the CDF of X?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rjcqpb8bky3nqeh9iys5u/opt_1747487531689_36.png?rlkey=nmlft1096vefqbk5eqyhtipwp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/s12gjbzf88c0804v800ev/opt_1747487534109_37.png?rlkey=bwzncqjhibujr5xn1r1t5v8ib&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bd8ivstmt6whoqyzc185f/opt_1747487536867_38.png?rlkey=k8gsferzzf5j4s6dvylaoob7c&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mwt5fcfh2upicihmauxie/opt_1747487539757_39.png?rlkey=mdtb2tnqu1qd8pjm6ku523jvk&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "What is the value of P(−4 < X ≤ 6)?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8w4nraqmcmcw9b1a52zgj/opt_1747487542167_40.png?rlkey=4ze7ppntp7rjhoni8yo91tcqj&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/cueye11z6onil8k4bzxue/opt_1747487544558_41.png?rlkey=lxuysh2t1ul62d5lklzrxl6u6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fifkr3m04rfnciu9e8f3t/opt_1747487547336_42.png?rlkey=vs5ggehnhc1ikavr06zv7z2gq&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1k5n85scabkftu6wzuowf/opt_1747487550207_43.png?rlkey=ayzcnebbye18keu7pusp024ay&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qzm4fsouhedhp0tr2kedc/ctx_1747487552749_44.png?rlkey=tnwolx3g5ef1n4ylugkg9ljxz&dl=0",
+      "for_questions": "18,19"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Find the probability that the factory will produce at most 3 defective light bulbs in a batch of 5 light bulbs. Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0.90",
+      "range_start": "0.90",
+      "range_end": "0.96"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Find the value of P(X ≤ 4 | X > 1).",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "1",
+      "range_start": "1",
+      "range_end": ""
+    }
+  ]
+}

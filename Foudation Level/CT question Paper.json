@@ -1,0 +1,399 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : COMPUTATIONAL </b><b>THINKING (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": " ",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/yt7bvv3bgt9q1epcke7qh/q_1747487025740_0.png?rlkey=wzw92b5mwjnq3thzt3uiwrscj&dl=0",
+      "options": [
+        {
+          "text": "Useful Data has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This data attachment is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ej0b6tfxznkpbtxdimub4/q_1747487030378_1.png?rlkey=ca0n0t3ejh4jvfxausvyuw5kw&dl=0",
+      "options": [
+        {
+          "text": "Number of words which are adverbs and have at most five letters",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Number of words which are either adverbs or have at most five letters but notboth",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Number of words which are either adverbs or have at least five letters or both",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Number of words which are adverbs and have at least five letters",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/x9xtkifm11ib5jfnveiy3/q_1747487033130_2.png?rlkey=4yhwtajskiscpc1asxzzitz3l&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/c1vmm1czpwf83jqkaqny9/opt_1747487035899_3.png?rlkey=l4ziwco9d7pgpgyke50difyud&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7lih17i5mq0igxkx510vd/opt_1747487038077_4.png?rlkey=z4trwp5ddezdp8favqbo08enq&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/n3nle6et9az6zt5gbk6fs/opt_1747487040123_5.png?rlkey=fmqmes4i67z8tpg8st8do2pth&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/lj6pyh43n12x18l76s7cg/opt_1747487042844_6.png?rlkey=e4tcvwcfvpoqp7evkdnkl4t9f&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/um0f8duig2zd3ttrxljrt/q_1747487046326_7.png?rlkey=r06uazx7t50em2nb77lzzyb1r&dl=0",
+      "options": [
+        {
+          "text": "<b>A</b> is the maximum Physics mark, and <b>B</b> is the minimum Physics mark.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>A</b> is the minimum Physics mark, and <b>B</b> is the maximum Physics mark.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>A</b> is the second minimum Physics mark, and <b>B</b> is the minimum Physics mark.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>A</b> is the minimum Physics mark, and <b>B</b> is the second minimum Physics mark.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/00leidt7w1emerd3qi10y/q_1747487049396_8.png?rlkey=j9hy42lc7buww7gfx2sr1bo3m&dl=0",
+      "options": [
+        {
+          "text": "Number of book pairs that have the same Genre and Languages",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Number of book pairs that have different Genres and Languages",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Number of book pairs that have the same Genre but are in differentlanguages",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Number of book pairs that have different genres but are in the same language",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/fvbmhrt0ebpn6aysd4mv6/q_1747487053361_9.png?rlkey=xxkw1qntb24pdn2j1beeirbkz&dl=0",
+      "options": [
+        {
+          "text": "Number of pairs of words that differ in number of vowels and number ofconsonants",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Number of pairs of words either having an equal number of vowels orconsonants or both",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Number of pairs of words having an equal number of vowels and consonants",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Number of pairs of words having an equal number of vowels but notconsonants",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/w06w87929beiztwipkif8/q_1747487055481_10.png?rlkey=yrvi1nutyn6iu731ndx69sd28&dl=0",
+      "options": [
+        {
+          "text": "a - (2), b - (3), c - (1), d - (1), e - (2)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "a - (1), b - (3), c - (2), d - (1), e - (2)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "a - (2), b - (3), c - (1), d - (4), e - (2)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "a - (1), b - (3), c - (2), d - (1), e - (1)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/sua5582pi5qowi9qz2opm/q_1747487058308_11.png?rlkey=ov57mbrgnqpxcfkt8w4z9kuqb&dl=0",
+      "options": [
+        {
+          "text": "<b>A</b> represents number of male students whose total marks are at most 250.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "<b>B</b> represents number of male students whose total marks are greater than250.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "<b>B</b> represents number of students whose total marks are greater than 250.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "In line 8, if we remove <b>not</b> from <b>if</b> condition, then <b>A</b> represent number of malestudents and number of female students whose total marks are greater than 250.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ywooytgwpmc2tgsmpfjf6/q_1747487061178_12.png?rlkey=mbuj260oo703i5gp1tnqoyd0w&dl=0",
+      "options": [
+        {
+          "text": "Line 1: Incorrect initialization of <b>A</b>",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Line 6: Incorrect conditional statement",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Line 14: Incorrect initialization of <b>minPrice</b>",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Line 17: Incorrect conditional statement",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/8rdifab0x5t1qe0b2trxa/q_1747487065357_13.png?rlkey=jawbcr0kqoiayibvq5wsr46w1&dl=0",
+      "options": [
+        {
+          "text": "surrounded",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "suggest",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "sustenance",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "surely",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/1jkjey6f6me319gn05z2b/q_1747487068236_14.png?rlkey=m31c5v9nma92y41srqoocrysz&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hms3qowtlka2hpyk3vr0x/opt_1747487071631_15.png?rlkey=p5rgsbp508yux3nfye2iqnj7h&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/u363b9bdqkggu82a3dtoe/opt_1747487074897_16.png?rlkey=v9b100sgh7hn90wpaf4gnshfx&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sbc4h3hjj8ckwh1krp6kx/opt_1747487078123_17.png?rlkey=yivpashhnzyiqu48mpc1w75eb&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/6zzwrhu2kxgq9h1xboq0h/opt_1747487081111_18.png?rlkey=d11gnol20i1dioyk1eczty6qm&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/jwb5gf1liyjztlodyf2w9/q_1747487084011_19.png?rlkey=kj8cpn71hea8spzkd0req18no&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0rpk3n9m7dhe14rq56cq9/opt_1747487087079_20.png?rlkey=zsu6814kbrmdpu6qy6n45tx13&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/27eue6f6144jilpplkff3/opt_1747487090107_21.png?rlkey=pk89rhr67avkzf9csakadiiut&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vesfhdo6ix1psvb4jkfrg/opt_1747487093146_22.png?rlkey=qdl9g41nrwltws41vaym05p3i&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/o8615nv52f1yvhugqwpg0/opt_1747487095587_23.png?rlkey=peyxzc1iyajbluia9nbrva3i3&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/u0b0zwn5spzrpfekl3pgz/q_1747487098860_24.png?rlkey=00isc66st99k7cm9qmlswnpci&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/uy6v26cwvufgi0tl042vb/opt_1747487102961_25.png?rlkey=q9f3v32x8kp64iya0grcoqs60&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/x7d4nxzpal76wy29vsrlv/opt_1747487105719_26.png?rlkey=dp7mnxpuxnkizt54yslcvhp4w&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dnt2epbaix96inxorh09i/opt_1747487108275_27.png?rlkey=25g5qf63atmvzvf8ylh1g7jg7&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/018g3wbejohvj7sobp9be/opt_1747487110532_28.png?rlkey=njfq6nq089tp5ib75gik63doq&dl=0",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : MATHEMATICS FOR DATA </b><b>SCIENCE II (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/9f3uds283w2sutyl6kp4z/q_1747487275896_0.png?rlkey=2qfe6hiw5k7567xmhhx8cpv24&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/uilzramj8g9uev20v4exn/opt_1747487280435_1.png?rlkey=23m3i4v0qc04gqkgtsd6toydm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/au94j9shdphwahq09ty8x/opt_1747487283336_2.png?rlkey=l6cnll0vke4gyscxrtndqsary&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/edczd0z48vikox0n2mboa/opt_1747487285881_3.png?rlkey=gxm49l6q43rb3v9750duhb7br&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q4z4jyw6797i01xs1bfyq/opt_1747487288915_4.png?rlkey=g3yjx4hezimdkqyfl6jd4efhw&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qd61j9v0f1phg97p77i0k/q_1747487291668_5.png?rlkey=be4cdhnv8rcw4p7ih9nx8sznr&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/lkuvqv1vq4ky4fbyfha6e/opt_1747487294388_6.png?rlkey=gljgbcclvwy40wqa7q23gdumv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qidsvmbolma7asd5avdud/opt_1747487296601_7.png?rlkey=7k66a3ekkcepx81jzs8rllmcx&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bt00y7a5g85sk3ekcva2j/opt_1747487299164_8.png?rlkey=vdkbfy2v3a25h2x6y0cjswgpj&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3ah6cmryxtkosszb5bgj0/opt_1747487302219_9.png?rlkey=zeps2rhn169omq6sa0c5xnb3m&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Find the number of 2 × 2 scalar matrices with determinant equal to 4.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/o1oyk82hg3vbd1dw6vcy4/ctx_1747487304664_10.png?rlkey=zk72sxyzd8oqkieqk49j77aib&dl=0",
+      "for_questions": "5,6"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which of the following conditions is equivalent to having no solutions for the given system of equations.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mwajrk31jzxeer7urac59/opt_1747487307051_11.png?rlkey=29wybbvf61n32pu69f239d53o&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yi6kx9kznhnqxr0kjqyyg/opt_1747487309399_12.png?rlkey=ochbu8byo0q3i3nc1s16mv5s5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dpgtxkmuka4a8w1cw9aup/opt_1747487312692_13.png?rlkey=youbtpponfvyt2dgeunc76gjx&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following conditions is equivalent to having a unique solution for the given system of equations.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/89lc50kcyyqvnyjue0umm/opt_1747487316567_14.png?rlkey=0vrsjbddr2fvw9ypghebmpwrc&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1z2j939ztrljmz3vsm0wp/opt_1747487319814_15.png?rlkey=mpbjimrotmt6s9iea0n3v7cp4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/frhxxydk76sua17xn1ww0/opt_1747487322123_16.png?rlkey=rt2jqesd8l2elah3i5lrnd5j1&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/mvjaepk9ogkxdjfln8h40/ctx_1747487324202_17.png?rlkey=rcormlwic5uunwm9o946qibxm&dl=0",
+      "for_questions": "7,8"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Find the row rank of A.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 8,
+      "question_text": "Find the number of dependent variables for the system Ax = 0.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/dw91lahtpjavn0wp6ubkb/ctx_1747487326561_18.png?rlkey=o7qg7bozcjf28ns8di2rrfv8q&dl=0",
+      "for_questions": "9,10,11"
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/t4t4lakwszjwahm4ud7xn/q_1747487328647_19.png?rlkey=ui0i2h9zc9ylq67kjspninkw6&dl=0",
+      "options": [
+        {
+          "text": "True",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "False",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/py4vegtgaxdsyps1nci18/q_1747487330814_20.png?rlkey=opqfv95xw9sj8zhguub4hzvcc&dl=0",
+      "correct_answer_text": "-5",
+      "range_start": "-5",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/r3r4w7mfxrqx5ekdxsd3s/q_1747487333161_21.png?rlkey=njjj6ea80j7iyqreg0va2q8y9&dl=0",
+      "correct_answer_text": "-3",
+      "range_start": "-3",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/07hsr921tkejkl1gxvu4f/ctx_1747487335603_22.png?rlkey=g9msylx9btz62z3pa8g55ihpl&dl=0",
+      "for_questions": "12,13"
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/cx8to9on500zuswgxl8it/q_1747487338685_23.png?rlkey=a99371zazfbwve9h8snzcmna6&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m5vrpkxzlzlfgi54uipcd/opt_1747487341048_24.png?rlkey=t4vz3u5mxe2603lpvugiotiz5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9jg0lsfjef6f9ryhuykk8/opt_1747487344036_25.png?rlkey=lljd8st5e6t2pi5x1jw1sa9yr&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e5vpltkrciizh07ruwgfk/opt_1747487346980_26.png?rlkey=atlszxv3w6f5m3as0p8zuw2ll&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/50f5e7plpuk2s8pslpden/opt_1747487349623_27.png?rlkey=5oupmpbdt2u95gr9rjswv13li&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/oa4y1hf800skqcyugcnlp/q_1747487352218_28.png?rlkey=wq9zi4wg8wg3k5ij7rxuqum3h&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8rj1olxqw35i1byr9uu1a/opt_1747487354434_29.png?rlkey=05no2bhhpgw6k71k9lhwrs5r7&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pvymx0wez4v9k2an5gwuc/opt_1747487357836_30.png?rlkey=m0u8uy742003hz7ijvf66oe77&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/b9ji7flsm33esrig8hirq/opt_1747487360518_31.png?rlkey=mqnc7vm9tgzp3spd3hhwz3k8v&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/j8ha6d2iiwsmr2hsv5x7n/opt_1747487362856_32.png?rlkey=94s36vp1zxhw2op8uju0rnoqg&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/js67nlq7wze27xx97lq8f/ctx_1747487365133_33.png?rlkey=gcb1ki5y03rqduor3lh8w1ufn&dl=0",
+      "for_questions": "14,15,16"
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/11nkfdlasc9uq04iywllu/q_1747487368403_34.png?rlkey=7odcdflm4sq8paazlt0qehs4b&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sc7yt67z0dh5vp8z7g62c/opt_1747487371060_35.png?rlkey=2f5k8ttb9px939fisidu63f3j&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7eaoavsvzk0dju89exoy2/opt_1747487373602_36.png?rlkey=71s7nhupnnysylu80ihfqluch&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hfidpqe9vp4b1i1se9wk6/opt_1747487376075_37.png?rlkey=xhru6sd0q82oqfy4fqet66gzf&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wpq5ulgw3u2hbipnfl9ne/opt_1747487378848_38.png?rlkey=3m600a42kmd2bgo0wb3uy5emw&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/iaro5f4zba1df8i7phngv/q_1747487381226_39.png?rlkey=7piejo4z5x0pkm05m0qmzuxlm&dl=0",
+      "correct_answer_text": "1",
+      "range_start": "1",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which of the following option is true?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/st9gagv7dnhfilm8fpooq/opt_1747487384158_40.png?rlkey=nryiyf2czmhpwntbd6fcr5c8j&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dt4qil9n3sottenudzd84/opt_1747487386712_41.png?rlkey=t6fjouwkp8knv87wburgsc2dt&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dmhga77zdr7w1z1md4zb6/opt_1747487389376_42.png?rlkey=9mx4n642ntre748dqlo1kceon&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/urizof94x3gsvab98ujoc/opt_1747487392299_43.png?rlkey=yndvb1n84yesxbo2cthw1km7h&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ylp117ztuj78gntvxaws2/ctx_1747487394896_44.png?rlkey=xbvcy8jo1vvbhlpn01hjg3hmq&dl=0",
+      "for_questions": "17,18"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which of the following conditions are sufficient to deduce det(AB) = 0.",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/omvz3nb9vp1nufne25rlu/opt_1747487397319_45.png?rlkey=v28gmypm6iwy3qh3etvpgxz5t&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/74jwqa7681n85k0ty4h1x/opt_1747487399366_46.png?rlkey=94e0wv5mhmjzam9yzi5gk89wz&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/n10s1fbmnpbg9ccvkxvlk/opt_1747487401529_47.png?rlkey=p8l6vfqqmn2n9fkault6ljw2w&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/duourg2v22twla6fqhs5e/opt_1747487403988_48.png?rlkey=4wix957dpgt1ncrr1swbqw7ma&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/7sielz049wagzuiaf5hia/q_1747487406375_49.png?rlkey=3aaxonhhlpjforjbyrs19kxmg&dl=0",
+      "correct_answer_text": "-4",
+      "range_start": "-4",
+      "range_end": ""
+    }
+  ]
+}

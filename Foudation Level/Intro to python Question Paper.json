@@ -1,0 +1,462 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : INTRODUCTION TO </b><b>PYTHON (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/v1neqv0tcgy7l6xzscfod/q_1747487152267_0.png?rlkey=fufh60qwiufz0z4j6u23ffle4&dl=0",
+      "options": [
+        {
+          "text": "Useful Data has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This data attachment is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/e9ox0v0hzds8g78howjs1/q_1747487158651_1.png?rlkey=26uqh1lcnv4lsrideuavu09fn&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/55zo45g126fnb5fae4f16/opt_1747487160926_2.png?rlkey=q76euy6aurv1n6817z5uk0hq6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/n26dr4haqppbpsng47ihx/opt_1747487163025_3.png?rlkey=47sfthpx7s413t05ocefillka&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/u5ydfxb0tzs0gswb94ruy/opt_1747487165193_4.png?rlkey=kuxh66bajcwg62pjfmieoko1r&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/jkxpssj6cbzbw4u6d39eh/opt_1747487167480_5.png?rlkey=2mjnydalg8mt8jriwwcnbxdvx&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qa0ybbsh0trqxnqrkc3j4/q_1747487169499_6.png?rlkey=pmflamouf1ewcuxh8t1nabxzz&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yl1wdf0845tksvjjd0sdb/opt_1747487172945_7.png?rlkey=p9d4jkxyigde6fc6o3b133ngy&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vk2eyl26qr1m867cnrpb5/opt_1747487175291_8.png?rlkey=75jzcxspjschh9lmzbt2dkd4z&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pn62dnoq8uyouljb4y01f/opt_1747487178218_9.png?rlkey=84doxnbtt1h32yrom7p4giq1z&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/v4lkg3716kc5vs20aparj/opt_1747487182387_10.png?rlkey=p94exvjvyn39po1zmnngyvc8w&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ry4mipbb1y3ceeoql793p/q_1747487185399_11.png?rlkey=5vqxw32y7tdo13da28c6uuwif&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m3yb99sej9tqwc9szfy8b/opt_1747487188064_12.png?rlkey=32r54xmtgcvvp7c2fxn8gc965&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nu1bii585ccmgkq38i5wk/opt_1747487191023_13.png?rlkey=z4oqvp71psehwgmkt6xu4kqdi&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zz0dg9d3959zj85f6icb0/opt_1747487194000_14.png?rlkey=29u6l35h38g6ptfulrt38qrf2&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vew80qpt2dzirkd3mu6cc/opt_1747487196242_15.png?rlkey=u24baw6ztm5vaoihvgx03pop9&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/nhs63cna77wgon8dpbz08/q_1747487198618_16.png?rlkey=an2xsejjs7rg4u6tx7twfzup3&dl=0",
+      "options": [
+        {
+          "text": "If line-6 is executed, then line-8 will not be executed.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "If line-11 is executed, then lines 14 to 17 will not be executed.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "If line-8 is executed, the interpreter will directly jump to line-19 without evenreading the remaining lines.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The interpreter evaluates at least three if conditions for any combinations ofinputs.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/p1erk4vm59u8f4szs09c8/q_1747487201236_17.png?rlkey=3ftszfrer4lsbobfxaabg0txh&dl=0",
+      "options": [
+        {
+          "text": "tranquil",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "shoWCASE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "caLMness",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "peaceFUL",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/m4760rmpuptg622ffumsu/q_1747487203593_18.png?rlkey=axmod3270u7v02u4mflrbf2yk&dl=0",
+      "correct_answer_text": "7",
+      "range_start": "7",
+      "range_end": ""
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/29t8yp5q02nr8zc37bjhi/q_1747487205813_19.png?rlkey=ki433ww4ll1mlvmsux0s1uusg&dl=0",
+      "correct_answer_text": "65",
+      "range_start": "65",
+      "range_end": ""
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/l95tr68vm3sw3vnhlbd0f/q_1747487208106_20.png?rlkey=qfqor9emw14imbmpgiztu5svv&dl=0",
+      "correct_answer_text": "18",
+      "range_start": "18",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/vu2r428584s4nmxym0cga/q_1747487210889_21.png?rlkey=zx199awy1s933w5japaqbj4og&dl=0",
+      "correct_answer_text": "24",
+      "range_start": "24",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4vi6repr88xb8livfvfb2/ctx_1747487213962_22.png?rlkey=lg1c1y7scyn3smfym8k8ar0aw&dl=0",
+      "for_questions": "12,13"
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/i7i61jqx9rcnci842hqg6/q_1747487216561_23.png?rlkey=qlbltgsn7ncqvm44xtkwr0xe3&dl=0",
+      "options": [
+        {
+          "text": "A = True, B = False, C = True",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A = False, B = True, C = False",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "A = True, B = True, C = False",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A = False, B = False, C = False",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4kock7a0oww5klg8suwkt/q_1747487218609_24.png?rlkey=zbkmy6ii98k4nlyiefnm9qkw9&dl=0",
+      "options": [
+        {
+          "text": "A = False, B = False, C = True",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "A = True, B = False, C = False",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A = True, B = True, C = True",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "A = False, B = False, C = False",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/sh7vdbuk2b70yxo1fdmx0/ctx_1747487220920_25.png?rlkey=t08neum1z7ktqo5uo75nriist&dl=0",
+      "for_questions": "14,15"
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/sa8wv7ecq3zp3dqvm3wac/q_1747487223867_26.png?rlkey=epoh3op4xgp8ghyrp00tn38j0&dl=0",
+      "correct_answer_text": "4",
+      "range_start": "4",
+      "range_end": ""
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ppsfbvtm1498ri6exulvw/q_1747487226363_27.png?rlkey=e3385bnxvqff8l1n8iuz5ilaz&dl=0",
+      "correct_answer_text": "-12",
+      "range_start": "-12",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ccxijg2pjz6divfneagdr/ctx_1747487229129_28.png?rlkey=ykcrw6gkmoh535skx6xmsg3br&dl=0",
+      "for_questions": "16,17"
+    },
+    {
+      "question_number": 16,
+      "question_text": "What will be the first line of output?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "['A', 'e', 'i', 'o', 'u']",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "['a','A', 'e', 'i', 'o']",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "['X', 'a', 'p', 'p', 'y']",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "['A']",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "What will be the second line of output?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "['A', 'e', 'i', 'o', 'u']",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "['A','h', 'a', 'p', 'p','y']",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "['X', 'a', 'p', 'p', 'y' ]",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "['X', 'A', 'p', 'p', 'y']",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/vn7ea8fqaya6f45jnqcz9/ctx_1747487231830_29.png?rlkey=swdkm3x2w6hy7js967nmarkx6&dl=0",
+      "for_questions": "18,19"
+    },
+    {
+      "question_number": 18,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/piqmi5m35cluzxq64aujq/q_1747487235164_30.png?rlkey=o8wcwanew3iguhpifl1if03s4&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vhdo20edbnywa34qays6i/opt_1747487237630_31.png?rlkey=fea70abau50md6tcpd2enr3sq&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ilu36e3aqo7g429znistr/opt_1747487239778_32.png?rlkey=ibuf7qixm3t00xd530103cr9h&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1o02psunhaezeozynob92/opt_1747487242237_33.png?rlkey=xivzjvscvo3alo8vecvdpyocf&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2hcywgmj03ejfm27f01uv/opt_1747487244670_34.png?rlkey=w7egvqg09ylbes1we7v4gpwfv&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5b3uebllqj5h451j77tiy/q_1747487246935_35.png?rlkey=0a3v5pnoa1evmjgd5jf0mvvk2&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yv0kolzu9unw4vjwq03gz/opt_1747487249395_36.png?rlkey=33lbvp5c7wp69rgrsr8ng2lii&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rcwfxnwbzw2fls0hw7eyl/opt_1747487253383_37.png?rlkey=5t2s4vro3gfsxcxol0ynq9pn6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q1lzd1ev34ifyb1ju7mju/opt_1747487255566_38.png?rlkey=f0oit3g6hf6ojjyj3ytuehiz0&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ygsw8c4l76pgcvvw4nip7/opt_1747487257797_39.png?rlkey=am9rjthtegm616jbmvb5l4z4e&dl=0",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
