@@ -1,0 +1,388 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : BUSINESS ANALYTICS </b><b>(COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "You are given a data of size 1000, which is centred at 50 and has a variance of 25. The median, mode, max and min values are 40, 22, 75 and 1 respectively.Then ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The data is right-tailed",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The data is left-tailed",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The data is symmetric",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "When is a “Pie Chart” the best visualisation option for presenting data (choose all that is/are applicable)? ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "When the outliers in the data need to be shown",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "When trends in the data need to be shown",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "When relationship between variables need to be shown",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/rt5ajmgnkayowdwbuxcw8/ctx_1747489365854_0.png?rlkey=mjsk2o4v8yg9dsp5ajir312ah&dl=0",
+      "for_questions": "4,5,6,7,8"
+    },
+    {
+      "question_number": 4,
+      "question_text": "If 1,000 customers come to the restaurant, how many will/may be “Rice Eaters”? (Note: Enter the answer rounded to two decimal places. For example, if the answer is “10.235”, then enter it as “10.24”. DO NOT ENTER PERCENTAGE VALUES) ",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "335",
+      "range_start": "335",
+      "range_end": ""
+    },
+    {
+      "question_number": 5,
+      "question_text": "If 4,000 customers had visited the shop on 10th December 2024, then how many “BCMs” will you expect to serve? (Note: Enter the answer rounded to two decimal places. For example, if the answer is “10.235”, then enter it as “10.24”. DO NOT ENTER PERCENTAGE VALUES) ",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "1000",
+      "range_start": "1000",
+      "range_end": ""
+    },
+    {
+      "question_number": 6,
+      "question_text": "Milo’s Kitchen is planning spend money on purchasing a refrigerator (for “Paneer” and “Baby Corn” storage). If the 600 “Poori Eaters” are expected to arrive, then what is the expected revenue generated from them if the restaurant charges Rs. 350 per PT order, Rs.  250 per BCM order and Rs. 80 per MP order? (Note: Enter the answer “in Rupees” rounded to two decimal places. For example, if the answer is “Rs. 10.235”, then enter it as “10.24”. DO NOT ENTER ANY SYMBOLS OR LETTERS) ",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "46020",
+      "range_start": "46020",
+      "range_end": ""
+    },
+    {
+      "question_number": 7,
+      "question_text": "If a total of 10,000 customers visit Milo’s Kitchen in a month, how many (in Total) will you expect to be non-Rice Eater, Non-Poori Eater and Non-Roti Eater? (Note: Enter the answer rounded to two decimal places. For example, if the answer is “10.235”, then enter it as “10.24”. DO NOT ENTER PERCENTAGE VALUES) ",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "1400",
+      "range_start": "1400",
+      "range_end": ""
+    },
+    {
+      "question_number": 8,
+      "question_text": "Recently, the owner found a CCTV footage of a customer stealing a starter (but was not able to see which starter was stolen). The owner was sure that the food stealing customer <b>was not a “Rice </b><b>Eater”, “Poori Eater” or “Roti Eater”</b>. Then which starter would the owner suspect the stealing customer to have stolen? ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "PT",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "BCM",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "MP",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these as Milo’s Kitchen owner does not have a working CCTV (P.S: Thisis not an answer so don’t choose this option. Just relax, think and answer the question)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/dweutbfrymyenol4apj1o/ctx_1747489370732_1.png?rlkey=m4g3f39szhrehdsrswea4ccqb&dl=0",
+      "for_questions": "9,10,11,12"
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is the expected frequency in Bin-2 for the statistical test to be performed? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)\n",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "2.5",
+      "range_start": "2.5",
+      "range_end": ""
+    },
+    {
+      "question_number": 10,
+      "question_text": "What is the value of the computed test statistic for the statistical test to be performed? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)\n",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "33",
+      "range_start": "33",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "What is the number of degrees of freedom for the statistical test to be performed? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)\n",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "3",
+      "range_start": "3",
+      "range_end": ""
+    },
+    {
+      "question_number": 12,
+      "question_text": "If the p-value for the test is 0.85, then what can be the level of significance if the Null Hypothesis is<b> </b>NOT TO BE REJECTED (select all that is/are applicable) ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0.9",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.15",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Any value between 0 and 1",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Cannot say without more data.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "(The following comprehension is purely imaginary)\n\nA local grosser has observed that the demand for Milk follows a linear demand response curve. Hence, he has decided to raise the “Milk” price by Rs. 5 rupees per litre to Rs. 45 per litre. If the demand was 300 litres per day before the rise and is now 100 litres per day after the rise, then answer the given subquestions. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "13,14,15,16"
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is the elasticity of the linear demand response curve? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)  ",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "40",
+      "range_start": "40",
+      "range_end": ""
+    },
+    {
+      "question_number": 14,
+      "question_text": "What is the market size for milk? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)\n",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "1900",
+      "range_start": "1900",
+      "range_end": ""
+    },
+    {
+      "question_number": 15,
+      "question_text": "What is the satiating price for the Milk’s demand response curve? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”) \n",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "47.5",
+      "range_start": "47.5",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "Given the computed elasticity, what can you say about the “Milk” demand? (choose all that is/are applicable) ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "It is elastic",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "It is inelastic",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It is a luxury",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It is a necessity",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Cannot say, insufficient information",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/j4jg0cy4wukyxilwpii79/ctx_1747489373797_2.png?rlkey=be3gokf22yp1uq2881wcrhnyv&dl=0",
+      "for_questions": "17,18,19"
+    },
+    {
+      "question_number": 17,
+      "question_text": "From the given contingency table, find the expected frequency of Chennai people preferring brand B? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)\n",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "115",
+      "range_start": "115",
+      "range_end": ""
+    },
+    {
+      "question_number": 18,
+      "question_text": "What is the calculated value of chi-squared? (Note: give only a numerical value rounded to 2 decimal places. For example, if your answer is 10.1253, then input the answer as “10.13”)\n",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "65.4",
+      "range_start": "65.4",
+      "range_end": "65.8"
+    },
+    {
+      "question_number": 19,
+      "question_text": "At the significance level 0.05, chi-squared tabular value is 3.84. What do you conclude? (choose all that is/are applicable)  ",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Reject the null hypothesis and conclude that the categorical variables are notindependent",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Fail to reject the null hypothesis and conclude that the categorical variablesare not independent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Reject the null hypothesis and conclude that the categorical variables areindependent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Fail to reject the null hypothesis and conclude that the categorical variablesare independent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Accept the null hypothesis and conclude that the categorical variables are notindependent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Do not accept the null hypothesis and conclude that the categorical variablesare not independent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Accept the null hypothesis and conclude that the categorical variables areindependent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Do not accept the null hypothesis and conclude that the categorical variablesare independent",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

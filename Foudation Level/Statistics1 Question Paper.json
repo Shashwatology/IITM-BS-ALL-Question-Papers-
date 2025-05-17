@@ -1,0 +1,405 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : STATISTICS FOR DATA </b><b>SCIENCE I (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "A researcher collects data on the number of books read by students in a semester. The data collected is:",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Nominal and Qualitative",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Ordinal and Qualitative",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Interval and Quantitative",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Ratio and Quantitative",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/8mh6fd18nrajguzwntt1g/q_1747491496095_0.png?rlkey=g3q2u9qpuetpclxdfzxyb4sdo&dl=0",
+      "options": [
+        {
+          "text": "0.10",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0.60",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.20",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.30",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/nqrc794pfho4cqf8xsblk/q_1747491500006_1.png?rlkey=0vuwld18img3yn6tqofb5lz27&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vd35rzci6jjpcbdtnipql/opt_1747491503555_2.png?rlkey=0b9n366ek4rsh3fgnt51swtbl&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2t2gq7bqxmmhgs065cpja/opt_1747491506422_3.png?rlkey=nnc9gvkgspkd60p36s297rpf3&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0uo1u0oyvgvc4tpbj6yrx/opt_1747491509494_4.png?rlkey=g3vwck7av6t03ah3ulzo7ov5w&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ko7xeo8o0ie66mokyorjf/opt_1747491513167_5.png?rlkey=njomlansb9kz46ycdjg0hhfbz&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Suppose a survey asks respondents to indicate their favorite type of food (e.g., Italian, Chinese, Indian, Mexican). Which of the following option(s) is (are) true?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The data is nominal.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The data is ordinal.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The data is quantitative.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The data is qualitative.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "A teacher randomly selects 5 students from each class in a school. Based on the performance of these students, she wants to assess the overall performance of the school. Which of the following option(s) is (are) true?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Students of a particular class will represent the population.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Students of a particular class form the sample.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The school as a whole represents the population.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The 5 students from each class form the sample.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/6xuuyb0leu81mo68v70da/q_1747491516503_6.png?rlkey=c4nqcxxu0vr3sxdhiafxh5bfc&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q0ie6pjzxtrl7emdpsblv/opt_1747491519372_7.png?rlkey=b5quil7d7drrivbw5rfzer19i&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/5q8pzpavo6uhzh4fvoo90/opt_1747491523480_8.png?rlkey=iriqna8vjc3m58ko3kg1x1jjj&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7xi3k8rc4eu9126ykkdbj/opt_1747491526254_9.png?rlkey=db9k4adgsnqxyvpepozkea84c&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/5l852mycmweznpmav8oxo/opt_1747491528851_10.png?rlkey=6be4z0j2q25utveszhaf6m3f8&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "If we have a dataset 18, 37, 24, 56, 62, 120, then choose the correct option(s):",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Range of the dataset is 102.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Median of the dataset is 46.5.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "25th percentile of the dataset is 24.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "IQR (Inter-quartile range) of the dataset is 59.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ghdjpxzwwrxk7hc3jsgbs/q_1747491531752_11.png?rlkey=s1l8bh5a5l6z16fsciux1r4vn&dl=0",
+      "correct_answer_text": "15",
+      "range_start": "15",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "A grocery store owner wants to analyze the prices of different brands of packaged snacks in his store. He randomly collected 10 snack packets and their prices (in rupees) are 120, 450, 620, 200, 280, 670, 150, 190, 310, 400 respectively. Based on the given information, answer the given sub-questions:",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "10,11"
+    },
+    {
+      "question_number": 10,
+      "question_text": "At what price do the top 25% of snack packets start? (More than one option can be correct)",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "It corresponds to the third quartile.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "450 Rupees.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "It corresponds to the first quartile.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "190 Rupees.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "What is the Interquartile Range (IQR) of the snack packet prices?",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "260",
+      "range_start": "260",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/dhat6y63e9rwxgak3zoa1/ctx_1747491535145_12.png?rlkey=h9y5u6kd75lmo2dstzzlf5vki&dl=0",
+      "for_questions": "12,13"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Find the number of students from Uttar Pradesh.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "30",
+      "range_start": "30",
+      "range_end": ""
+    },
+    {
+      "question_number": 13,
+      "question_text": "If the number of participated students from Delhi is twice than the number of students participated from Maharastra, then find the value of y.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "32",
+      "range_start": "32",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/kny3xjq57zwydke1ahy0p/ctx_1747491537975_13.png?rlkey=3dwk1akcmizmwuf9ud2lx2y8j&dl=0",
+      "for_questions": "14,15"
+    },
+    {
+      "question_number": 14,
+      "question_text": "What is the average monthly salary of the employees if each observation is increased by 3 and then multiplied by 2?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "52",
+      "range_start": "52",
+      "range_end": ""
+    },
+    {
+      "question_number": 15,
+      "question_text": "What is the population variance of the given data if 10 is added to each observation?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "64",
+      "range_start": "64",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/8mbkivgtv9d63zp053q6j/ctx_1747491541599_14.png?rlkey=ce3d0g1x8nk7arlm0oyein752&dl=0",
+      "for_questions": "16,17,18"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Find the total number of questions attempted by Astha and Deepanshu together.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "24",
+      "range_start": "24",
+      "range_end": ""
+    },
+    {
+      "question_number": 17,
+      "question_text": "What is the value of x ? Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "",
+      "correct_answer_text": "0.22",
+      "range_start": "0.22",
+      "range_end": "0.28"
+    },
+    {
+      "question_number": 18,
+      "question_text": "What is the value of y + z ?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0.2",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.24",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.4",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Insufficient information.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

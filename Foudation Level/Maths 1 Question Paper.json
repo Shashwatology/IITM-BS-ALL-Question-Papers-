@@ -1,0 +1,396 @@
+{
+  "papers": [
+    {
+      "paper_name": "2022 Oct: IIT M QUALIFIER EXAM QPA1",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2022",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/11gtrkrzc8qsp16mzxwo8/q_1747491733716_0.png?rlkey=gotfvhptlaza0znfo2ai0cadl&dl=0",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ncdp4lj45hn85drhpwk6u/q_1747491737867_1.png?rlkey=eh9x9bdm57haqrn94lmvlvu5t&dl=0",
+      "options": [
+        {
+          "text": "Useful Data has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This data attachment is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5qbohoxy4148blaw0ybx9/ctx_1747491741580_2.png?rlkey=fvhe1preoh4lyo2sv05a5krxm&dl=0",
+      "for_questions": "3,4,5"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Enter the value of a + b + c?  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "-3",
+      "range_start": "-3",
+      "range_end": ""
+    },
+    {
+      "question_number": 4,
+      "question_text": "Enter the value of d?  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "-36",
+      "range_start": "-36",
+      "range_end": ""
+    },
+    {
+      "question_number": 5,
+      "question_text": "Choose the set of correct option(s)",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The axis of symmetry of p(x) is x = −3.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The slopes of both p(x) and q(x) are same at (0,−27).",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The slope of p(x) is 6 but the slope q(x) is -6 at (0,−27).",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The discriminant of both the quadratic equations p(x) = 0 and q(x) = 0 are same.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/1n2dbjctur574002reseq/ctx_1747491745198_3.png?rlkey=5l4cydrsdn6o2q2ngx6qg3sgx&dl=0",
+      "for_questions": "6,7"
+    },
+    {
+      "question_number": 6,
+      "question_text": "How many times did Ritwik score exactly 40?  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 7,
+      "question_text": "In total, how many mock tests did Ritwik pass?  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "6",
+      "range_start": "6",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/x5k41cku32s9k09w6bc1e/ctx_1747491749046_4.png?rlkey=a8x1uohesa0vitu09wltrp4mm&dl=0",
+      "for_questions": "8,9,10,11"
+    },
+    {
+      "question_number": 8,
+      "question_text": "State ’True’ or ’False’ : R6 does not match with any type of relations given in Column B.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "State ’True’ or ’False’ : R1 matches with all type of relations except anti-symmetric relation given in Column B.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "In total, how many relations given in Column A matches with transitive relation?  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "5",
+      "range_start": "5",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "In total, how many relations given in Column A matches with reflexive relation?  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/cgo5sgwmg24umrlutes8a/q_1747491752348_5.png?rlkey=l64mqd0wu88kn04asbuqm8b5o&dl=0",
+      "options": [
+        {
+          "text": "R1 ∩ R2 represents an injective function",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "R2 represents a relation but not a function.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "R1 represents a function.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "R2 represents a function",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/p3fx2uy8o8mr5enc6wd3u/q_1747491755989_6.png?rlkey=2ywejpkjux478a5itfs6d4c4d&dl=0",
+      "options": [
+        {
+          "text": "The degree of p(x) is at least 10.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "p(x) represent an even degree polynomial",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Total number of turning point of p(x) are 8.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Multiplicities of zero and one of the negative root could be the same",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "  NOTE: Enter your answer to the nearest integer.",
+      "question_type": "text",
+      "marks": 5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/e2z4mjwn9khvjhf6duwsb/q_1747491759096_7.png?rlkey=uy84vok149jsjz3xop15d6z7q&dl=0",
+      "correct_answer_text": "4",
+      "range_start": "4",
+      "range_end": ""
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/yxu3licz8pkxgfbx6fhpe/q_1747491762385_8.png?rlkey=8mwjo2lmk6bivsrtgxnks5cv4&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/148ees8sq3zri2ih8xgmg/opt_1747491765634_9.png?rlkey=dp0kpxi1nekpxfw41hj2uzbpc&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/o86yxoj73ugh5sallwp4k/opt_1747491769951_10.png?rlkey=stglfbuyihr85y14yw1h16ato&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xlvr4460g3opqcgh6qe4s/opt_1747491773257_11.png?rlkey=gw5ifjlpskodzvemea8wudxc3&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/v79i5ldurb49uoex2rbgv/opt_1747491776321_12.png?rlkey=p03ubhjngbk9xedhefgkuj6t2&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xyd7lmw7zhdwpnafke82m/opt_1747491780241_13.png?rlkey=vzmld1pnh37yfbe7io17cxx84&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wgmu1dkugqa12jg21decc/opt_1747491784243_14.png?rlkey=xqgepf0t902yrz86bmugd44gn&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which of the following statements is (are) correct?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qffxqm2j28gswnvp1e5s5/opt_1747491787842_15.png?rlkey=o84imw4kko9e09e78mw7ck3pi&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/otts7aj2b1r2l22o376ue/opt_1747491791470_16.png?rlkey=1nwduqpnlxcefrkpz68ze1aot&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/c7eaq1axfnhu0w4ep7jhx/opt_1747491794471_17.png?rlkey=hz9k6uuzot4t955kp2lyyl5vc&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/09l1svrwt2wyuvwi6sy2v/opt_1747491798037_18.png?rlkey=fr8rn8808d2cegly1s0n3g196&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/pj85ql3odnt2zjogbkspc/q_1747491801341_19.png?rlkey=835enq90flddq5yh7x2fp9azb&dl=0",
+      "options": [
+        {
+          "text": "(3/2, 1/2)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(1/3, 2/3)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(2/3, 2/3)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(4/3, 4/3)",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/w0m9c636hftscfqwnb7f6/q_1747491804921_20.png?rlkey=spz1ikt5abmqfr333bhltd68b&dl=0",
+      "options": [
+        {
+          "text": "9",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "14",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "0",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "-2",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

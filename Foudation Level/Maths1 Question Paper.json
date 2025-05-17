@@ -1,0 +1,434 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : MATHEMATICS FOR DATA </b><b>SCIENCE I (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/b6kn9249ffeppea3fou0p/q_1747491307818_0.png?rlkey=3at9wcb84z4hmsrnjgzx3e617&dl=0",
+      "options": [
+        {
+          "text": "Instructions has been mentioned above.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "This Instructions is just for a reference & not for an evaluation.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "The Cartesian product A x A has 9 elements. Two of the elements of the Cartesian product are (1, 3) and (3, 7). Find the sum of all the elements in set A.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "11",
+      "range_start": "11",
+      "range_end": ""
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gy0ygfcxbjd8i2y95xyzh/q_1747491312682_1.png?rlkey=dbrzyd8ezl0wmtt5y00jr7yiq&dl=0",
+      "options": [
+        {
+          "text": "625 is in E.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "G is an empty set.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "A and F are empty set.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "25 is in F.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/g6in2xi9im65lbzsauggz/q_1747491318393_2.png?rlkey=905zzr4zipkgtvxtiz7x7tfsl&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8g5blejlc5ak1axhs4uv8/opt_1747491322764_3.png?rlkey=5r8kzntxwyu1qrp5rrkh258nd&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2rssi7njl0pu0criudu9t/opt_1747491325426_4.png?rlkey=fgm6lxhvwlgicbc61wxb8muh3&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ecse4rdmxgf3hsqevbolw/opt_1747491328886_5.png?rlkey=v6pa43yblisq0eau6ewo9gsl5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/blqijbcxt55zj04rfzngz/opt_1747491331759_6.png?rlkey=jeox76u3nu5tnr5qhxzjofzgk&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following relations is/are one-one function?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rk0gsg7eh1r6sbi02c2op/opt_1747491334576_7.png?rlkey=jtnryurr19enttgu0728cxx5o&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e1h3sifu2bihlg5z7423k/opt_1747491337488_8.png?rlkey=s2hegzb2v87b3a2mlfwwdpqgx&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/c8tcgp3b1wuxgwu8z86sp/opt_1747491340058_9.png?rlkey=i99tk6kdwx5uhcaeizkhwtlx6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/jb8lj3fpjyv84heuwp5cz/opt_1747491342875_10.png?rlkey=gejsl2vrrry5t8q7x5svjr0o6&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gq6k4oyp5c2w8lm23rfq9/ctx_1747491345579_11.png?rlkey=cifmju0w04b86qi3zy299tojn&dl=0",
+      "for_questions": "7,8"
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/kkg605xwf0hocgobfiigv/q_1747491349435_12.png?rlkey=ig392zsijalayhby04ipbfz15&dl=0",
+      "options": [
+        {
+          "text": "(10, 18)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(5, 8)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(−10,−18)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "(6, 6)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/8zmyqxhwt14buxr20nw6h/q_1747491353776_13.png?rlkey=j8e63udziuskabm0muc7g458u&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/o46qfpu6ouma0dm115e6w/opt_1747491356921_14.png?rlkey=fxltkbvrwb7hx9cdc45wwij1i&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/apn7wnizsvhotlha4xg82/opt_1747491360161_15.png?rlkey=bd7o4t33dvxugpjgmqfkgr5ul&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pobyyayc6rbpvsaelifj0/opt_1747491362985_16.png?rlkey=rkxxbbt0w0b7ng4fy6qvm3mul&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m594fyw5yj6i7yp3ci877/opt_1747491365764_17.png?rlkey=bb20r4rn8w231bon2hox5l441&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/yluaruzb1bw109ufplu8t/ctx_1747491369888_18.png?rlkey=bc09cyuid69oux2120e1mwtq1&dl=0",
+      "for_questions": "9,10"
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is the area of the triangle ABC?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "2",
+      "range_start": "2",
+      "range_end": ""
+    },
+    {
+      "question_number": 10,
+      "question_text": "Choose all the possible options for P.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "(0, 0)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(2, 4)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(−2, 4)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(−1, 1)",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/3ztq9sv8zdflbzhsz3yc1/q_1747491373378_19.png?rlkey=n0c0jvz53xdkm4cdp1p0ulcyq&dl=0",
+      "correct_answer_text": "7",
+      "range_start": "7",
+      "range_end": ""
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/7dfo3bsx1s8g3n6h8mhu5/q_1747491376661_20.png?rlkey=ln0wmpmjgkbj0wvo785uogrsp&dl=0",
+      "correct_answer_text": "3",
+      "range_start": "3",
+      "range_end": ""
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/pw37tesz7pa9glafijyvz/q_1747491379354_21.png?rlkey=glc0574g3djk1y583cyhmcueq&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ht1b4ukppupkt5dk5wura/opt_1747491382059_22.png?rlkey=kxhanfcps2ly3haaw05yx34a5&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xmmlaanddkn2qf6obg6wq/opt_1747491385165_23.png?rlkey=2znhpmup3uobwh17ybzhio4jv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ma6rgbxjebl4ldha1utwa/opt_1747491388277_24.png?rlkey=gfrp5q3dfo3xxzvx1o14uqc1u&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vbemoj4ztp6p7idhfjvvm/opt_1747491391147_25.png?rlkey=ttjnumsnib84fq15yd8gceyal&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "Aman and Prakash want to solve a quadratic equation. Aman made a mistake in writing down the constant term and ended up in getting roots as 3 and 4. Prakash made a mistake in writing down the coefficient of x and got the roots as 2 and 3. Consider the leading coefficient to be 1 in all cases. The correct roots of the quadratic equation are:",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "1 and 5",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "2 and 6",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1 and 6",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "2 and 5",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/yo038k5eaq0hbdwz1tuw6/q_1747491394015_26.png?rlkey=iwitbevpndk826lnmhmp7vtpw&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/iow64poni4cb5ic4d5zd5/opt_1747491398425_27.png?rlkey=pmj7p32p444xb7m41vqcooe7f&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sby6dbnoe5ktwbq6crxbg/opt_1747491401340_28.png?rlkey=ydybuhfb2frm5s6qfbaaicqtd&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ykda05ai0efasmw217gqk/opt_1747491404108_29.png?rlkey=bsgu3udbcaokyrr7xg21ijjma&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vm3arepeseil1t3wqibjr/opt_1747491407510_30.png?rlkey=5mg6p1qji8pu5azls6chncmz8&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5i0wc7izyylfoxlyyeijz/ctx_1747491410533_31.png?rlkey=arkb47mtdwjssxnu8rna6xgyw&dl=0",
+      "for_questions": "16,17"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which of the following options is/are true ?",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/s9tgv46sdp91bveb1bkif/opt_1747491415183_32.png?rlkey=9o103u9jy88kljgkko93birhl&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/98qriovflj37m4kwv9e2c/opt_1747491418714_33.png?rlkey=893gb8by6ctghyx3dcop87s9p&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qk7v8evn1r4kiio5vmkb1/opt_1747491422632_34.png?rlkey=8zd9mho4uxok4naz3ek41xomv&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ob8rcclbwhzmg0uecqcac/opt_1747491425591_35.png?rlkey=33pujhnbysoqveo81rk3jicgs&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which of the following options is / are true ?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ythvkaf6cgmdcxu51lf0a/opt_1747491429622_36.png?rlkey=fi79l9bu283cjf6mw9k51uku8&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9f2nuyqdw34tgc1txymb8/opt_1747491432983_37.png?rlkey=lmlb7jrvxwgt6hyz9iliwkmoe&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ozj3ivkpmmb0bgzx1yv8w/opt_1747491435668_38.png?rlkey=ulp14hx7ybhd0op39kvcxxlvt&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wm9nm0jgie2pgrp1le71j/opt_1747491439149_39.png?rlkey=2krcf44v22g99afzfvzo4qcty&dl=0",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

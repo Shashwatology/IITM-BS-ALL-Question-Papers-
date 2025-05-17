@@ -1,0 +1,321 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : MACHINE LEARNING </b><b>TECHNIQUES (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/igz6icm31hsbwt21on3ws/q_1747489086336_0.png?rlkey=uf9n2dbicxsi2ldq3lm9kkejk&dl=0",
+      "options": [
+        {
+          "text": "(1) > (2) > (3)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(1) < (2) < (3)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(3) < (1) < (2)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "(2) < (3) < (1)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/yyhhnhjcjs42wz0j3v8m4/q_1747489092727_1.png?rlkey=tg4rvomvvhpettbfjcheo68sw&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xcuvnttr0kxrkslg4wp88/opt_1747489096054_2.png?rlkey=eqvy0ec1pbn71vqcae1pxl54h&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mnkdfh8tcrpbv292a6wh0/opt_1747489099635_3.png?rlkey=tjtp9vfde2rmhnscqm5vtkvze&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/glm3uufq9637mhbxdh3dc/opt_1747489102303_4.png?rlkey=l3ssz1apcds5edbiv4mebij6z&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9h8wza96qd4h6cejr8ezv/opt_1747489104753_5.png?rlkey=1qj0yris5h2kzmuwh952extb8&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qflgqkxatbe8eowwplgor/q_1747489107185_6.png?rlkey=1o8o55c905r6pnfy10qme439k&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/v9oselcyu43xkqtd66esa/opt_1747489110970_7.png?rlkey=6wj3gnkbtuw0z0lbthrmo6lwj&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ol4cf0s86mf1hqb04wmpv/opt_1747489114043_8.png?rlkey=02v2rxz1k4kq5q46jetdha50r&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wswv17pxczotltukzridy/opt_1747489116389_9.png?rlkey=6bk6iz6jshxnmj5rdu8i2b48a&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q6mht0rtv6ql0rfuzk8op/opt_1747489118969_10.png?rlkey=8f3c9namg3th5f9vottmx7hgf&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ygzyey0yvtiackklhc6pm/q_1747489121404_11.png?rlkey=rb2a179vq0urwd2odvo72fp5x&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3dcmhehhpw90kh2bk5kpw/opt_1747489123811_12.png?rlkey=yzfxddd0193que2e8lpc9qunc&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hbxsoy1813z9l515eo78v/opt_1747489126507_13.png?rlkey=6eitjmaxdca9t5uorx9t4w9n8&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nlwhhby33tl2i12pybdy5/opt_1747489129328_14.png?rlkey=a46uqgtzzrcom4netbe9vbjj6&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ejjqv5nk596pizmltcd0o/opt_1747489132187_15.png?rlkey=73iddxgl16d8uajmi6dzw44tv&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following statements is/are true?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mk704ows477o4sp1dbyjz/opt_1747489134740_16.png?rlkey=3l8q8qx0yf9qursuuy8p45984&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/tbwb0giws86mmodsn97g4/opt_1747489137088_17.png?rlkey=eoco2gawjrugtcmqcd9wfhixh&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8vf0khoimrg9ifg664g44/opt_1747489140169_18.png?rlkey=k6gv2mqfrnehz92qyr433ka6u&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/socgua46gpuqx2wa2cf7y/opt_1747489143354_19.png?rlkey=h6apfdfgls6h1uv7azhr421i6&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/b8sdkh73pukrwqealfmk9/q_1747489146724_20.png?rlkey=f9fq8p4ye1kid1ey1i3xcapau&dl=0",
+      "correct_answer_text": "4.92",
+      "range_start": "4.92",
+      "range_end": "4.98"
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/9eoioqmelqiho0rkhmlhn/q_1747489149611_21.png?rlkey=qmzm4e995nmghroczrvj5ch0j&dl=0",
+      "correct_answer_text": "74",
+      "range_start": "74",
+      "range_end": "75"
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/61yqtp9ybib5lqru07fnn/q_1747489153075_22.png?rlkey=ag4b2h6fhk5dv7uh01lr77d68&dl=0",
+      "correct_answer_text": "0.07",
+      "range_start": "0.07",
+      "range_end": "0.11"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Suppose you toss a coin four times and observe no heads. You then give the coin to your friend, who tosses it until the first head occurs. Your friend tosses the coin a total of five times. Let p\ndenote the probability that the coin comes up heads. Find the maximum likelihood estimate of p.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "0.10",
+      "range_start": "0.10",
+      "range_end": "0.12"
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xqe4p6ccpr618rszqsxle/q_1747489155858_23.png?rlkey=6ybz4sik7tmzgbzxdxuvmlwd6&dl=0",
+      "correct_answer_text": "0.86",
+      "range_start": "0.86",
+      "range_end": "0.90"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/akqpm1ho8q0l5buuu946f/ctx_1747489159826_24.png?rlkey=z2rgs7qzsrsvrxwiwhvldaqpu&dl=0",
+      "for_questions": "12,13"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Among the vectors given below, choose a representative that has unit length.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rcpy547k9hllobrf3dral/opt_1747489162670_25.png?rlkey=2okbrc57kox9gyc96bii4lgry&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dljqawzz58w1d56gtmv5a/opt_1747489164942_26.png?rlkey=g6jabwdvkt82mmuys6ggjbc3x&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7zffielxl3qve6y4k1ao2/opt_1747489167204_27.png?rlkey=vzyqmy50cctxq70q1etpppdmw&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/z439xzfibotsghol4hlnq/opt_1747489170490_28.png?rlkey=ffkb2072msm1l5kzgvtvfp0m8&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "If standard PCA is performed on this dataset, what is the variance along the first principal component? Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "43",
+      "range_start": "43",
+      "range_end": "44"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Suppose that 100 items are sampled from a manufacturing process and 10 are found to be defective. Let p denote the proportion of defective items. Assume that the prior distribution for p\nis Beta(1, 1). \nBased on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "14,15"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Select the correct options from the following:",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Posterior distribution for p is Beta(91, 11).",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Posterior distribution for p is Beta(11, 91).",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Posterior distribution for p is Bernoulli(0.1).",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Posterior distribution for p is Bernoulli(0.9).",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "Find the posterior mean. Enter the answer correct to two decimal places.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "0.10",
+      "range_start": "0.10",
+      "range_end": "0.11"
+    }
+  ]
+}

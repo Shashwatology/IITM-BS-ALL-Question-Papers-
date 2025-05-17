@@ -1,0 +1,1156 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"FOUNDATION LEVEL : ENGLISH I (COMPUTER </b><b>BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Read the following passage and answer the given subquestions. \nFrom a very early age, perhaps the age of five or six, I knew that when I grew up I should be a writer. Between the ages of about seventeen and twenty-four I tried to abandon this idea, but I did so with the consciousness that I was outraging my true nature and that sooner or later I should have to settle down and write books. \nI was the middle child of three, but there was a gap of five years on either side, and I barely saw my father before I was eight. For this and other reasons I was somewhat lonely, and I soon developed disagreeable mannerisms which made me unpopular throughout my school days. I had the lonely child’s habit of making up stories and holding conversations with imaginary persons, and I think from the very start my literary ambitions were mixed up with the feeling of being isolated and undervalued. I knew that I had a facility with words and a power of facing unpleasant facts, and I felt that this created a sort of private world in which I could get my own back for my failure in everyday life. Nevertheless the volume of serious – i.e. seriously intended – writing which I produced all through my childhood and boyhood would not amount to half a dozen pages. I wrote my first poem at the age of four or five, my mother taking it down to dictation. I cannot remember anything about it except that it was about a tiger and the tiger had ‘chair-like teeth’ – a good enough phrase, but I fancy the poem was a plagiarism of Blake’s ‘Tiger, Tiger’. At eleven, when the war of 1914-18 broke out, I wrote a patriotic poem which was printed in the local newspaper, as was another, two years later, on the death of Kitchener. From time to time, when I was a bit older, I wrote bad and usually unfinished ‘nature poems’ in the Georgian style. I also, about twice, attempted a short story which was a ghastly failure. That was the total of the would-be serious work that I actually set down on paper during all those years. \nSource: George Orwell’s Why I Write. ",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "2,3,4,5,6,7,8,9,10,11"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Select true or false for the following statement. \nThe narrator was unpopular throughout his school days because he picked up fights with his classmates.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Choose the correct option from the following \nThe narrator had the lonely child’s habits of ____________.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Making up stories",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Holding conversations with imaginary persons",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Both Making up stories and Holding conversations with imaginary persons",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "None of these",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Choose the correct option from the following. \nHow did the narrator feel about abandoning the idea of becoming a writer during their late teens and early twenties?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Relieved",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Confident",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Unsettled",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Indifferent",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Choose the correct option from the following. \nIn the context of the passage, which one of the following is an antonym for the word ‘facility’?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ability",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Capacity",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Inability",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Skillful",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "From the following options, identify the antonym for the word ‘ghastly’.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Terrible",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Frightful",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Horrible",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Pleasant",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "Choose true or false for the following statement: \nThe narrator’s first poem contained the phrase ‘chair-like teeth.’",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Choose the correct answer from the following. \nWhat is the synonym of the word ‘plagiarism’?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Copying",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Originality",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Authenticity",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Uniqueness",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "Select true or false for the following statement. \nThe narrator wrote bad and usually unfinished 'nature poems' in the Victorian style during his teenage years.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "In the context of the passage, what is the meaning of the expression ‘set down’?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "To record something in writing",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "To present oneself",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To move backwards",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To be logical",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "At the age of eleven, the narrator wrote a patriotic poem which was never published.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "Look at the word given below and study the sound that is underlined in it. Choose the option which has the same sound.  Zoo",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Clause",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Loss",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Nice",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Spy",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "Pick the odd one out based on the initial sound: pare, bare, mare, stare.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Pare",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Bare",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Mare",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Stare",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which semi-vowel occurs in the transition between the words “he” and “advised” in the sentence “he advised me to carry an umbrella”?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "/w/",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "/y/",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which among the following is a word without a diphthong?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ply",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Clay",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Buy",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Clue",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which semi-vowel does the word “huge” contain?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "/w/",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "/y/",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "Choose the word with the “ii” sound from the following.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Meat",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Week",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Light",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Both Meat and Week",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 18,
+      "question_text": "Find the vowel sound that is the same as that which is underlined in the word given below: Tongue",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Shot",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Shut",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Gone",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Shout",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "Identify the sequence of consonant and vowel sounds in the word succeed.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "CVVCCV",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "CVCVV",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "CVCVC",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "CVCCVC",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 20,
+      "question_text": "Which among the following is not a collective noun?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Army",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Sheeps",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Scissors",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 21,
+      "question_text": "Choose the correct past form of the verb ‘<b>Choose’</b>:",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Chosen",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Chose",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Choosed",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Choose",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 22,
+      "question_text": "Identify the adverb: \n\"She sang beautifully at the concert\"",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "She",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Sang",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Beautifully",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Concert",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 23,
+      "question_text": "\"She spoke very quietly\" Which word modifies the adverb?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "She",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Spoke",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Very",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Quietly",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 24,
+      "question_text": "\"The happy dog wagged its tail excitedly\" Identify the adjective and adverb:",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Happy (adj.), wagged (adv.)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Happy (adj.), excitedly (adv.)",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Dog (adj.), excitedly (adv.)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Tail (adj.), happy (adv.)",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 25,
+      "question_text": "She's allergic _____ dust. Choose the correct preposition",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Of",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "From",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "To",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "With",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 26,
+      "question_text": "Identify the interjection expressing relief:",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Phew!",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Yay!",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Oops!",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Brrr!",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 27,
+      "question_text": "Choose the correct option.  When referring to a specific day of the month numerically, which article is used?",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "A",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "An",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "No article",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 28,
+      "question_text": "Select the most appropriate idiom of the given meaning. To exaggerate a minor difficulty.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Turn a deaf ear to",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Tooth and nail",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "On cloud nine",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Make a mountain out of a molehill",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 29,
+      "question_text": "Choose the correct option.  The phrase ‘it takes two to tango’ means ___________.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "A situation or argument involving two people, both of them are responsiblefor it.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "To play a subordinate role to someone.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 30,
+      "question_text": "In primary school, the older kids would often ______________the younger ones during the lunch break.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Pick out",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Pick on",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Pick at",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Pick through",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 31,
+      "question_text": "“Bring up” is an example of a separable phrasal verb.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "TRUE",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "FALSE",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Fill in the blanks in List A with the most contextually appropriate modal verbs in List B. \n",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/u4srqwfbix3tddeemhh2w/ctx_1747491251017_0.png?rlkey=m27n1oygry1puzygz2tl3qabc&dl=0",
+      "for_questions": "32,33,34,35,36"
+    },
+    {
+      "question_number": 32,
+      "question_text": "“You don’t suppose he _____ give us one, do you?”  Hint: To express someone’s willingness to do something.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ought to",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Should not",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Will",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Could",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "May",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 33,
+      "question_text": "“You _____ know that you cannot walk barefoot in the snow.”  Hint: To indicate what is ideally expected of someone.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ought to",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Should not",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Will",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Could",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "May",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 34,
+      "question_text": "“You _____ join the music club.”  Hint: To make a suggestion.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ought to",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Should not",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Will",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Could",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "May",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 35,
+      "question_text": "“You _____ leave.”  Hint: To formally give permission.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ought to",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Should not",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Will",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Could",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "May",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 36,
+      "question_text": "“They _____ suspect an innocent man.”  Hint: To advise or instruct what is correctly required of someone.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Ought to",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Should not",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Will",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Could",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "May",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Complete the telephonic conversation given below with most polite and correct responses. \nSharanya: Hello, is this Golden Dragon restaurant?  Host: Yes, ma’am. (1)____________________________  Sharanya: Hello, I’d like to make a reservation for two.  Host: (2) ______________________For which date and time?  Customer: This Saturday at 7 PM.  Host: Ma’am, (3)___________________________ I will check for the availability.  Customer: Sure.  [A few moments later] Host: Ma’am, we have a table available. (4) _________________________  Sharanya: Sure, it’s Sharanya Kumar.  Host: (5) ______________________________  Customer: Great, thanks a lot. \nBased on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "37,38,39,40,41"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Complete blank (1) with an appropriate response.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "What’s the matter with you?",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "How may I help you?",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "What do you want?",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Want some help?",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 38,
+      "question_text": "Complete blank (2) with an appropriate response.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Certainly, ma’am",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Yeah, buddy",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Whatever!",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Okay!",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 39,
+      "question_text": "Complete blank (3) with an appropriate response.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Wait!",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Hang on!",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Could you please hang on?",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Don’t wait!",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 40,
+      "question_text": "Complete blank (4) with an appropriate response.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Name?",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Your name?",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Can I have your name, please?",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Who are you?",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 41,
+      "question_text": "Complete blank (5) with an appropriate response.",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Thank you, ma’am. Your reservation is confirmed",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Hey, your reservation is confirmed",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Hi, buddy. Your reservation is confirmed",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Hey, sir. Your reservation is confirmed",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

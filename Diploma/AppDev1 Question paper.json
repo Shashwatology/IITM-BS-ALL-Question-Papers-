@@ -1,0 +1,504 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : MODERN APPLICATION </b><b>DEVELOPMENT I (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/o9ivwp2yzbkxbi707fz1l/q_1747488108178_0.png?rlkey=ealy570lkpcs74aa7howsy1n5&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/f2dsej9iizu8uw3r9luag/opt_1747488113365_1.png?rlkey=pa96m31w9feelpawq1ir0t1wv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9drkrqblzir1qtvgivhkb/opt_1747488116382_2.png?rlkey=lc6pesodczf616vepebkj4khm&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/vm6u3ybkthf6rfkzufkmo/opt_1747488119724_3.png?rlkey=3s4qc6rgo002ot6iwc8gvkuiq&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ieyw0xm4rkiuokw1vih3y/opt_1747488125978_4.png?rlkey=6t4xp7b5ypswfhgp52zddud3n&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/zjii147jhaesqcy1ex6w2/q_1747488128724_5.png?rlkey=982ifmia53caherm7p94yz5xq&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mg7qbcqwuuvz587olkzml/opt_1747488131739_6.png?rlkey=dntfq1k12ocg2hdky0zvhmzz2&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/q6a1a0bxghsb1cq992bts/opt_1747488135079_7.png?rlkey=dvbjcfvy3arki1pfwzhive6zn&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0x790o0j8irjpsd4u1yed/opt_1747488138774_8.png?rlkey=k47og1syivlfqfi811ns8kdlt&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/58x9mza37jxdl16t6d2ml/opt_1747488141606_9.png?rlkey=9r4fk19gufl0l92a45qndng07&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Read the statements given below carefully and select the correct option. \n<b>Statement 1</b>: If an element that belongs to two different classes is styled externally using both the classes, then for the same attribute, it will acquire styling from the latest class in order. <b>Statement 2</b>: If an element having an ID and a class is styled externally using both its ID and the class, then for the same attribute, it will acquire styling from the ID selector.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Both statements 1 and 2 are correct",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Both statements 1 and 2 are incorrect",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Statement 1 is correct but statement 2 is incorrect",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Statement 2 is correct but statement 1 is incorrect",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which of the following options represents a one-to-one relationship in the Entity-Relationship Diagram?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/87i3idly8k9k622r9t8xy/opt_1747488144848_10.png?rlkey=snnrgar10o5b8nxow243tfw0d&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wbw293hu5t4os3alswojm/opt_1747488147525_11.png?rlkey=5j9bamanmsuu6a9dlzh98n9w1&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gojogojqzpwystre2kl1v/opt_1747488150336_12.png?rlkey=0l4zlx0fcbrydty26v9i4plke&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rfjg1gl06xz8unviqucmy/opt_1747488153415_13.png?rlkey=k8maisx4uv7g0pfc5hxo0gztu&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/h845t3obvw055zr82mxf4/q_1747488157000_14.png?rlkey=45gbe6ryt0xgxcmum6mjwzifj&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/cakbn5cto95t1tow0ipk8/opt_1747488162107_15.png?rlkey=o8ru7uvc8lszfncogkjx5lnxe&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/tpibpo4i0rzoa3q2v0w1s/opt_1747488165901_16.png?rlkey=ys74i9imhqh34q7eudryj6jad&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yra592nqgpkk2ua43ansa/opt_1747488169403_17.png?rlkey=6eum3zyc0un4cq8ep597dymwg&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ffsyqin89n41cq4vu3tp6/opt_1747488173397_18.png?rlkey=re0d027xvpgh1dci7rmty9i26&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qgmlq8h1vcoif1furw8lv/q_1747488176554_19.png?rlkey=zr0ovcvs5tf7xyyx3lcjc62uq&dl=0",
+      "options": [
+        {
+          "text": "BLUE",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "YELLOW",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "GREEN",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "RED",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/vcak0ry17br3em231tq1t/q_1747488183307_20.png?rlkey=p5jt2lb9kq9jgq03rvpcm69ur&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/loryvyt65pwck94e80gvl/opt_1747488187012_21.png?rlkey=i7bbcstygutqnif5e4421vdot&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9ucjfzuxedsd0iyhcxj2i/opt_1747488189979_22.png?rlkey=a67dv9fwrc11jssh8jtvqx6co&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/92qa27cqs6ib839ydzao7/opt_1747488192735_23.png?rlkey=jezylb9yuvgrdut7jdtiozggn&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/5g9bu21lh7txlhjhuq6n7/opt_1747488195183_24.png?rlkey=1f71nadkg5wyn1dkvxzicz9y9&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/2ps2z8swqdldalyk0ra4t/q_1747488198053_25.png?rlkey=2f9ncmx508ra1e9j7rkpe2fab&dl=0",
+      "options": [
+        {
+          "text": "python main.py Kalki",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "python main.py Leo",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "python main.py Pushpa2",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "python main.py Jailer",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/d9qj987zahpxf0cbpbqc2/q_1747488201221_26.png?rlkey=pgrpcuf2k9xmqyj58rpc75z68&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/segh2nfr0pqz0facloa4f/opt_1747488203888_27.png?rlkey=983obufuvm5ulq1s40hy7xmhc&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0984pm23tdk08qyvblehn/opt_1747488206341_28.png?rlkey=1fzamnnhjpwgeczx96uty1neh&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zwenqc84ouk8lxn1wer8v/opt_1747488209384_29.png?rlkey=godonjl1esrzpvmx32vx08o4c&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/s31iheh2pw3lo3orop3pn/opt_1747488212086_30.png?rlkey=v9vcp7q10w7b2z8vxfmz5r5nt&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/58nk91zpjkbcjrue4ickn/q_1747488215355_31.png?rlkey=l1wobl5gnhmwb4dpxhgsa07bq&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/s7kgiviab1iyy8py7wnql/opt_1747488218793_32.png?rlkey=a185sych51hil364ska213aar&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ouhol6jrp458ryvf6kj87/opt_1747488221578_33.png?rlkey=c9rs8ctddaq35xi2pan3h01an&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dr4yxxq0ru3axf325tfmk/opt_1747488224701_34.png?rlkey=8z189651z5rvpeet79lavltxp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rbjo0kl8f7lntcj4ki9sk/opt_1747488227373_35.png?rlkey=dbkif0h2fna2u9ulq976kuowo&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5xvq9tv03bpvv3m6qw8wc/q_1747488230124_36.png?rlkey=f92imm6fg93ftl0pkq8ugsf2i&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/daelnsd391aekicw57ro8/opt_1747488232875_37.png?rlkey=552smckaijmxlevmphfv9gitv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pt8kjlka0ri7dz8a078ef/opt_1747488235912_38.png?rlkey=6kis5nh8kaagq2w8em35k40mq&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3f5ve86ndoe2d3cnzpkes/opt_1747488240036_39.png?rlkey=mi89730xkmfords9s0nbtnwhe&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/udcfq0dzfkflcoiock9vx/opt_1747488244338_40.png?rlkey=phghuheyd6pgt53dok2qv1bjy&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/i5lp8rvgdqsem7w1vbicp/q_1747488247117_41.png?rlkey=d38tv7wxqppv5rx5x6lvoh6rp&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wqa5uu8zd894z5nzjow8v/opt_1747488250223_42.png?rlkey=wlqgqy5l777fod46yf46ijjfs&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/259iask3rzkhqo2ta030r/opt_1747488253042_43.png?rlkey=9qnxatovu666ic4rjt0tlluhj&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/77r0o1uq8ofltn9vgekec/opt_1747488255807_44.png?rlkey=1levbctggksyylengtr95b2uo&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/goqn6rgrwo5hg20qf8omx/opt_1747488258828_45.png?rlkey=bp40mp21cba5ke4q0q4ijy8x0&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/j36c092kfaxgjziyncfse/q_1747488261853_46.png?rlkey=9ninsn42ji9lbyg03x290trph&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/taypa6tm5gb0di1bh5xi0/opt_1747488265540_47.png?rlkey=wk513uab10de54g26hsn1o0r3&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1nf2yh9owisfjatwx8nyt/opt_1747488268709_48.png?rlkey=xchl05dsa5rk5ugrszdor38zp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/lsoanwsnu3w4ysofjax9s/opt_1747488272035_49.png?rlkey=80bhbf7jo3ypk76jz2mq3q7rj&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/80yh4muy1taf2ail9zylg/opt_1747488275265_50.png?rlkey=6kwtuglahu8lvuq0908x4seew&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/hcerbvb08b3s62tj4mthk/q_1747488277831_51.png?rlkey=gxn938dib27soa8qiwsqd2ywy&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/l8fnvb5ry2hrv99q7ox9r/opt_1747488281710_52.png?rlkey=1cf9gzlkg7banp0xzaf0fi95l&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bob3u3lzsqa9b59d8adoy/opt_1747488285883_53.png?rlkey=70e1rzn9jwcbe38sc9srx9zjd&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/egm7exgtafpq3cui8aubu/opt_1747488288885_54.png?rlkey=9fkxoazh8719gyhknuw086qw5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/v238an97sux4mexfs14ty/opt_1747488291647_55.png?rlkey=rkblv8hkeb7ssiodkse8nrfel&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above program, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/lsis4r3jl8x3nvf1ua3n9/ctx_1747488294826_56.png?rlkey=krbr4jro2395696y0hzxjvuze&dl=0",
+      "for_questions": "16,17"
+    },
+    {
+      "question_number": 16,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/wiohfwiio24epu6np5ktd/q_1747488298136_57.png?rlkey=qrwyeqcfsrgwimkuw52tizr4n&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qfvh7xigf0bxz15p5ahhq/opt_1747488300799_58.png?rlkey=8gmbbh6qx96raypdvvefyancf&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dy18934hinvfnllp12nta/opt_1747488304450_59.png?rlkey=j4k3fp7va60hn1bxkbyc8yfzg&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wuvpn73e70yq2ml8xe4f9/opt_1747488307106_60.png?rlkey=gh4ywox7k2qe7kom9cnjzboqu&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1hvgv1qq78tto10zjevh9/opt_1747488309572_61.png?rlkey=3bphc56kh85cb5dcg5tk7lgip&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4.5,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/3nu0in5y41rtgjw1xp7ys/q_1747488312438_62.png?rlkey=f15wurj32h67bqz1j26waj9w8&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xxbwpi44ki93kofa4gw0c/opt_1747488315826_63.png?rlkey=zdhchx64mvykdicoxwm7i4t14&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/as0m1w27q7pvik1x8l175/opt_1747488318593_64.png?rlkey=wzf4csbe669kp96vzoiv5qvrs&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8b2mjc5okwtf6918zyen6/opt_1747488324226_65.png?rlkey=qscip1mnk2owkmnjtm8cpq5qc&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7qk9lmcavnqgvxiaeq2ki/opt_1747488327396_66.png?rlkey=zpdmdl09pxnzvdkzrt9m54jfm&dl=0",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

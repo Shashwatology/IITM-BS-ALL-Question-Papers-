@@ -1,0 +1,467 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M FOUNDATION AN EXAM QDF4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : PROGRAMMING CONCEPTS </b><b>USING JAVA (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xrqkoqbkjw5noh2yiprs8/q_1747488810489_0.png?rlkey=yvivccit26hd1hfjwrhjd8yjz&dl=0",
+      "options": [
+        {
+          "text": "4",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "3",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "5",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "2",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/macvpbnk8t5zpmf45k6vk/q_1747488814593_1.png?rlkey=9025xr79v2vmvugxcgtapo0ej&dl=0",
+      "options": [
+        {
+          "text": "SeniorProgrammer is a valid subtype of Programmer because it has allmethods of Programmer and additional functionality.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Programmer is not a valid subtype of SeniorProgrammer because it lacks themethod reviewCode()",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Subtyping allows SeniorProgrammer to be used wherever a Programmer isexpected.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Subtyping allows Programmer to be used wherever a SeniorProgrammer isexpected.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "Consider the Java code given below. \n",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/n5b3p6o0ne1y4x04i8s75/q_1747488817590_2.png?rlkey=ha54eibwzv5vay2kvuzv06tqy&dl=0",
+      "options": [
+        {
+          "text": "Low",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Medium",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "High",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Unknown",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "  Choose the correct option.",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/j8t9cbe6gqivex1inq0ox/q_1747488820642_3.png?rlkey=r8egx3qvq0xfzyb2kyrt4c29e&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9k4s3nso76y54iqkkynms/opt_1747488823955_4.png?rlkey=lov4nmwteelo8dggsab28s8zm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/jdrqqrv8otncml4pql78d/opt_1747488826888_5.png?rlkey=prsqbcemmi1n78ymqn5l5upn7&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qay1wlqmgzmpru8xsbcja/opt_1747488829430_6.png?rlkey=xuqakdnj8dt76mhoa1pszxbc9&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wjuvgirc27kd75z5u2so3/opt_1747488832402_7.png?rlkey=aptjteupqxwg1reu0go6wqree&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Consider the Java code given below. \n",
+      "question_type": "mcq",
+      "marks": 6,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/pbhbarjlk6age7bw7owf2/q_1747488835437_8.png?rlkey=iyrkrwczw0rtxp8mwgsmmnnfd&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pxobovq4u6klqs6jrybay/opt_1747488839644_9.png?rlkey=h85anofkyfmlbrcr2269o3bv9&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/1ofkudokceln545gqfmxo/opt_1747488843183_10.png?rlkey=owdum5ab8gw2ly44uilzk5o36&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3i8aqxdtk0lvjsipoqqxw/opt_1747488845967_11.png?rlkey=59nac4i52odhplfe5fevmofgl&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fsmdee1j3iw3k2gd58w8y/opt_1747488849492_12.png?rlkey=252tpmdpyk5ufy73sl93twdym&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/qyj0gr4e2tkrdq3uhl1k5/q_1747488852163_13.png?rlkey=1mp2if53tr4rgd6jql1qzjxdu&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sbtafg45tt6nkfhrpcvyh/opt_1747488855385_14.png?rlkey=muvima1zlgj073nmdculyjs6e&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hl8oh88hmrvfrist0lhtl/opt_1747488858397_15.png?rlkey=9h9j223069bjc2ocrm187unkw&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bkj8w5o5fu07taxuy7a1i/opt_1747488861786_16.png?rlkey=fmkdhvt14hzld171m9yk7fwz7&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/4ygeojj7ubz1dtvrs9skr/opt_1747488864721_17.png?rlkey=oapxebz4wghgcqsgzf834p0ep&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "  Choose the correct option.",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/l2u9dzlvuz8muz6nib87q/q_1747488868956_18.png?rlkey=xkymr3d19savda7py3k5pw02o&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/a33sgip3z7bwxb76yvd99/opt_1747488873349_19.png?rlkey=3f2rj72odu77hsntt9y53c8ih&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/y7df11az5dg0voermvsm8/opt_1747488876093_20.png?rlkey=ff03evztlwfannuhqe3jmjb59&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/35yqewfmyelym7an3ymnz/opt_1747488879640_21.png?rlkey=8u1z0tm3sle0dr1kbz8z3fwh8&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xazx6wa8apuw29z8n8nx3/opt_1747488882968_22.png?rlkey=s6w6w3cpjfgvorb5gcbxo3nb5&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "Consider the Java code given below. \n",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/fty8cxjvj2dk227kta7lp/q_1747488885837_23.png?rlkey=rpdpypxkhcs775w2809wvj384&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dgk9ciu2l0ryu3yvwxc5b/opt_1747488891312_24.png?rlkey=i6pimiwihghgnj5odjife23zn&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/bk3j6pbkwip6wl2e1evdz/opt_1747488894271_25.png?rlkey=i288qswu4fhnvtmr7hlfg4o0p&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/asu4hjg8onlaig5l32lp7/opt_1747488897269_26.png?rlkey=wtf4tc54rnxst6dqc8sckgu9t&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ihphgykz9ulsaruci1lox/opt_1747488901636_27.png?rlkey=53asqk3qix8nllilptu184qmh&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "Consider the Java code given below. \n",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/1wh5c248kl4iubtlis7hv/q_1747488904402_28.png?rlkey=uw8hf1xiristoundgxwiiuv83&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sh4sq835qehm72ygwdvg0/opt_1747488907787_29.png?rlkey=49kir0wn8ntekqbwty7onb0ut&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/89uy4n5hdthxyq932skqn/opt_1747488911837_30.png?rlkey=r85fkw9hogbru4znrseu0ciqv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/wotnrwbm7j7axhndsye22/opt_1747488915894_31.png?rlkey=kd1uegb3ok2gvtv81pqt6kh5x&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hc2w5raq9tqkqaki3im25/opt_1747488919060_32.png?rlkey=lhd7egf0mi2vxjixyllyd1gyy&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "Consider the Java code given below. \n",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/axa1bj370hj45ira9u8i5/q_1747488922541_33.png?rlkey=wwvim4fox5si7ywx37000itdo&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/i7unb9mkhcp5opyqolzhx/opt_1747488926358_34.png?rlkey=w43flqpdv2ca63kqud10uu4zm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0taam8s3g6hx1lb49g8n2/opt_1747488929497_35.png?rlkey=7asjgynamxt7qog2tu1lc10xp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nqzqlauu2fuswf1jbr65s/opt_1747488932719_36.png?rlkey=hzcebwp6c711ttag9mod35in1&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/87afn4dbt7sqg116188xy/opt_1747488935377_37.png?rlkey=xi19x7z75m6k367wxe719vqrl&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4ys4ew8txew6cif1ou8ld/q_1747488938255_38.png?rlkey=wbumnv1mx70ta02jce0858axp&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qootofyxu0lt8l4ctmb68/opt_1747488942679_39.png?rlkey=s74usit6jwx6ctvx4xw6em65h&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/obnloao37j48avsifqgca/opt_1747488945804_40.png?rlkey=4kwguffj5hjkayxsq4omb8ntd&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/si0sohtyowgizbuslzf40/opt_1747488949076_41.png?rlkey=2rcanwl64sfcb1vqi3sl5mbff&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/t4a263z5joqrmog0dcljz/opt_1747488952508_42.png?rlkey=fq42tkje2s3kuo8c81qxmi6mj&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "  Choose the correct option.",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/lgqvmuz44wig6pcingh3t/q_1747488955584_43.png?rlkey=u8q3i5haun3htmaxdidlw58h2&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/utl3mawitqe52sjzy41tx/opt_1747488960566_44.png?rlkey=i8n8ba039xpta2ha09isl2e50&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mzvirxr7mk5pzaf9w1cr7/opt_1747488963887_45.png?rlkey=953aj9e76sukln4haa1w1w1tw&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/rof3kbr31u1bse6p8k9h0/opt_1747488966727_46.png?rlkey=y27hh1s7ft6nfwu6e2srk6js4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/leibwckiyi2ge1md5zprd/opt_1747488971199_47.png?rlkey=750tqne7io4cg3z1yvp4y9giq&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "Consider the code given below. \n",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/gf2madg7bywtfqjp1f2bn/q_1747488975316_48.png?rlkey=pgmiygsvgamu5fzyx4awrda19&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yq35z7u0bow3h2conkbwt/opt_1747488980961_49.png?rlkey=ba552xkdk9xe85av52pork5ny&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9uu86scoomfu2642yqx0m/opt_1747488984023_50.png?rlkey=s785osp2thc183yvti51pfg1d&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/clc2kauuuz1h0pqsj30bm/opt_1747488986837_51.png?rlkey=60qb4o7ycjmb1v5r3n0t7agm8&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dm23nlshjw1w6goyavjlc/opt_1747488990388_52.png?rlkey=amekp94pj3e1wbrkwzqmj4cww&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "Consider the Java program below. \n",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/oybzg6kr81hnhhhyer6ut/q_1747488993589_53.png?rlkey=xdc3wk67cjwdj2jctyqak8394&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m3echcwb4ai59ynsa4uon/opt_1747488996853_54.png?rlkey=1uygl6s6wyqgc5rjqea8e4hw5&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pic6cs0hjpyquy5j0f4em/opt_1747489000035_55.png?rlkey=enmbrxpgslz20nhgyzl04wsbu&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7n2ihzq6gl0srhe0vfr90/opt_1747489005494_56.png?rlkey=xk5dd3qkpe5whs86zvl6dac6r&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/czlxhta73q5yr16ck6kid/opt_1747489008374_57.png?rlkey=7kousmsgap4snuj12c1ss1xj7&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 7,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/bpv3gaurvlunbmdno75hh/q_1747489011892_58.png?rlkey=gcv96cay42wcvtomdkgg6q7x6&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/u5ava09vuf96g7r4vav3m/opt_1747489015645_59.png?rlkey=i3en0vh9r76ozciyk8au7msjv&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/t8tq5p1hxjjkv7nfvk86l/opt_1747489018545_60.png?rlkey=iru4islmqov1cnis9fiixgn35&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gvgrgns28yuzoyi8bp4fl/opt_1747489021469_61.png?rlkey=gzdbl1o8t3lfor2t1t4rtmjdv&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ll6o9ovua5qxsory3eogv/opt_1747489024143_62.png?rlkey=pa1tipjel21kvxyxzs2n3f82a&dl=0",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

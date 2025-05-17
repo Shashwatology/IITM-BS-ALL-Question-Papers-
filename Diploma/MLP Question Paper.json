@@ -1,0 +1,553 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : MACHINE LEARNING PRACTICE </b><b>(COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "What is the primary risk of not performing a train-test split in a machine learning workflow?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The training time will increase.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The model might overfit the training data and perform poorly on new data.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The dataset may become unbalanced.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The model may fail to converge.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Why is data preprocessing necessary before using it for model building?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The data may contain outliers or missing values due to errors in datacollection.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Features may have different scales, affecting model performance.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The dataset may include non-numerical features that need to be converted tonumerical representations.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "All of these",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/p6ome6gcj1i3hbstnx41j/q_1747489206831_0.png?rlkey=75cn0zb7n86kb2ci7b03l09l2&dl=0",
+      "options": [
+        {
+          "text": "It specifies the tolerance level for early stopping based on the change in thevalidation error.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "It controls the learning rate of the stochastic regressor during training.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It determines the maximum number of iterations for the training process.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "It defines the fraction of the validation set used for early stopping.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Suppose we want to transform features in a dataset using polynomial transformation. The sklearn API provides the functionality in which of the following modules?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "sklearn.dataset",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "sklearn.model_selection",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "sklearn.preprocessing",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "sklearn.featureSelection",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "sklearn.featureExtraction",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/26sfkpynu9e2qniqkyjtp/q_1747489211744_1.png?rlkey=4tzmyfl9okzwz69zslzbtqt4p&dl=0",
+      "options": [
+        {
+          "text": "1000",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "100",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "99",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "999",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/xc0r9dt06tazez5e5pfrp/q_1747489214526_2.png?rlkey=b9zuohk17ukfphmj65s99pirb&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/x67fgky6qg9vp5x9istoq/opt_1747489218711_3.png?rlkey=pjdlo8fvdpa77vcx3i1nr3bwp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nc5gvppr1ojz5glfafg7x/opt_1747489221479_4.png?rlkey=id635gdpnkcovmdi98isqd8ie&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qr6do6yrashjfite9l3b1/opt_1747489224041_5.png?rlkey=0atsl5axngkv8gy3p8pxsl806&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/jc2sxdqexgh7d510ehhct/q_1747489226490_6.png?rlkey=yjfmcjlmoib9nufm0awnnojq4&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8c99zpseo48h45blkwoal/opt_1747489229594_7.png?rlkey=4noioe8q9n6jd5fux6koocck4&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9fdpomsivtwntmb7te1e7/opt_1747489231958_8.png?rlkey=ruiu1z6ydwl5bgvufpzux3pcz&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/o0ab9o8gie2bdc6lu77dg/opt_1747489234308_9.png?rlkey=jgldlqj7fx0d2t4aooiad8vhh&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/aktqrpx2v6krju9bg676q/opt_1747489236728_10.png?rlkey=hueseoc5fwde2pnlnlb8mblp0&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which of the following Evaluation metrics can be used in a regression problem?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Mean Squared Error",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Accuracy",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "F1-Score",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Mean Absolute Error",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "credit score",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "CGPA",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/tahh6hs65mws4y7b5vyl4/q_1747489240111_11.png?rlkey=tn9bsgiaf54t8rbw6mdrq4otb&dl=0",
+      "correct_answer_text": "3.5",
+      "range_start": "3.5",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/sid9oegjuamfceutauuo7/q_1747489242979_12.png?rlkey=agb81v5mnf1zivglmw2qud5nl&dl=0",
+      "correct_answer_text": "0.4",
+      "range_start": "0.4",
+      "range_end": ""
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Consider the given Table 1: Banking data for the given subquestions stored as pandas dataframe in variable df \n",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/4fmf0fsy48rhf2ds85qh9/ctx_1747489245442_13.png?rlkey=qq4vmoo1b0wp4zr02zuinpomb&dl=0",
+      "for_questions": "12,13,14,15,16,17"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which of the columns in the banking data are nominal features?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Job",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Marital",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Education",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Housing",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Contact",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "Choose the correct option to find the number of null values (represented as nan) present in the Contact column",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ivwnwkutcxjk20jdb43uc/opt_1747489249626_14.png?rlkey=mfijq7vb2strlnbjd2f6ueouw&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/176imq7l17uc0t3kzywhc/opt_1747489251864_15.png?rlkey=zyoon14xu8cfvhrqk145grjg1&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/uydbi7spzaddhaab3gpab/opt_1747489254127_16.png?rlkey=x5u36nkyicqw3pkheknrjm33r&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nkdmvkdrep7kl74u3xucn/opt_1747489256526_17.png?rlkey=qhk5t13aqmvonkun5lcrgm8vc&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "In <b>Contact</b> column which of the following statistical measures can be used to replace nan values?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Mean",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Median",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Mode",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Variance",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which of the following options can be used to compute the median of the <b>Balance</b> column for each category in the <b>Marital</b> feature?",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ps9r7fmpn5asrnovw5ett/opt_1747489259496_18.png?rlkey=402hkvaplubxmxoks1x9x1ded&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/8mri7p21aa2oxgqjuskvw/opt_1747489262444_19.png?rlkey=rtxf42ttsdfz5t6avue68jo0i&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0tc9pazbsj3ji4tundi99/opt_1747489265865_20.png?rlkey=lb982ewy8rjd5g6dupm8fv2mw&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/791pgfk8ri9snm4s6ky24/opt_1747489268413_21.png?rlkey=tiliwwmw0reo0ixp9tc5yvep2&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 16,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/hwnb51rb3ete1e2uldonc/q_1747489271560_22.png?rlkey=uqs6pf3m52eyyr3kfqg5gfq1t&dl=0",
+      "correct_answer_text": "35.5",
+      "range_start": "35.5",
+      "range_end": ""
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/p92efwn4k71500oeebn63/q_1747489274528_23.png?rlkey=q71nrbyijgfvguepf8ui6leyx&dl=0",
+      "options": [
+        {
+          "text": "secondary",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "329",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "2859",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Error: Datatype not matching",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "Consider the Following codeblock for the given subquestions. \n",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/030w2tz58i3o98b7iufzu/ctx_1747489277294_24.png?rlkey=u6962jogog43hrifcfnnn00vl&dl=0",
+      "for_questions": "18,19,20,21"
+    },
+    {
+      "question_number": 18,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/rjfxla84wgv2fhw404tpp/q_1747489281514_25.png?rlkey=x1efjx1qncepgyrwwhzux3s20&dl=0",
+      "options": [
+        {
+          "text": "(7,5)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(3,5)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(5,3)",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "(5,7)",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 19,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 1,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/6loyax8qnfzv78sx0xava/q_1747489284091_26.png?rlkey=tgsc61fyhlg12q3xfndefwf9e&dl=0",
+      "correct_answer_text": "13",
+      "range_start": "13",
+      "range_end": ""
+    },
+    {
+      "question_number": 20,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/iaid4q7nnbtc4zwb4epl0/q_1747489286636_27.png?rlkey=9xxw0otizx1ug812hre3sqyj6&dl=0",
+      "correct_answer_text": "36",
+      "range_start": "36",
+      "range_end": ""
+    },
+    {
+      "question_number": 21,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/aek2ke2rgmwmuqj23jj35/q_1747489289578_28.png?rlkey=y9jl919116j82p61n7unc6ydd&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/hvr8w26rrxj2nvikmc2a8/opt_1747489293014_29.png?rlkey=11j20or5n0fow4vu12p5hjde4&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3ukq7inucztq5si3t535e/opt_1747489295527_30.png?rlkey=2yh6alyg60khodtzmq85gchwx&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/670jfabpji59p95sshofj/opt_1747489298078_31.png?rlkey=n8xedhbb85nf696xx889hojfp&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/n5b08iwdt8w3nx6jgh3kv/opt_1747489301061_32.png?rlkey=a3txgk3bzjwnvh14fwib6r0ne&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/pdc1t65jed5iu7o50puis/opt_1747489303344_33.png?rlkey=y47epakeg8cf5jw7kfhyiguco&dl=0",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

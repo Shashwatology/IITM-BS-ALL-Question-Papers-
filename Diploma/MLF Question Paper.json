@@ -1,0 +1,426 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : MACHINE LEARNING </b><b>FOUNDATIONS (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/h9l8kqnj4j688gkejbqvy/q_1747488365106_0.png?rlkey=p5r6pzgvgauobboegtjs32mbk&dl=0",
+      "options": [
+        {
+          "text": "0.162",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.257",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "0.157",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "1.57",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/krhffl2djdfyq018e9zsl/q_1747488369631_1.png?rlkey=cknc79di80hel4z1v1hqia4g6&dl=0",
+      "options": [
+        {
+          "text": "Eigenvectors corresponding to the two different eigenvalues of M areorthogonal.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The matrix M is not diagonalizable.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The eigenvalues of M are 4 and 1",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The rank of M is 1.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/u8mdyrxd5texv07gxo65i/q_1747488372893_2.png?rlkey=3w3kccjslcgde835y2u08nmc9&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gu7293ji60ipd7bocnzqx/opt_1747488375722_3.png?rlkey=m127uywecik1zp3wke06nva77&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ic4gopbibniqe6q2fe3mq/opt_1747488378718_4.png?rlkey=ls7ehjcgxvenl1dyf9u351vei&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xq8x1ispbp3umettut25r/opt_1747488381746_5.png?rlkey=3nz5z5xgsjwt4onft2jeb8fy1&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ee6ccrb9fcgkszx5gnu03/opt_1747488384888_6.png?rlkey=ln82afba4haehsqia1mi5djdi&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/bgqnohnxiysjensiha8k0/q_1747488388222_7.png?rlkey=iie85t9qm4blc1r3qrkqtb47q&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/cnnpy9ti0hpe534mcx1ow/opt_1747488392116_8.png?rlkey=nrv37f1d1wkv883nsyt55p734&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dagmwetbp1s50w34vwwkm/opt_1747488394919_9.png?rlkey=lcwb74npoldst65toddnkm9af&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/t6dy9rsl2880gm13kqpg8/opt_1747488397746_10.png?rlkey=50iwqwv63gdu2sp0v0oijnsbs&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/xrj02spcete7jy3ymcuw7/opt_1747488401138_11.png?rlkey=s3g0uvxk2s1tl6dnytl0v4ytj&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following options is/are true?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zuv0r9sv4y63ajqcr1o0n/opt_1747488403983_12.png?rlkey=n475r7gwr3xmyeejtndmi1tf7&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2wtt49g65nbawx2zmbquy/opt_1747488406746_13.png?rlkey=70eh1kxd8cyvmmw5ytx1u1ekt&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/12quegep8pnaj3ytwrhqz/opt_1747488410343_14.png?rlkey=oxx1bp2cmd5sezag03z4sbe2c&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/00ze65y9rfms8yqnyvznd/opt_1747488413479_15.png?rlkey=ta4ztnfl7uz2xhnj55qn1o0h8&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/r9padhqt1xepw7r928a9y/q_1747488416324_16.png?rlkey=r0b9w6hxdbput264egyn428v7&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sqwmrqhlohqbbm1ooy68v/opt_1747488419881_17.png?rlkey=6rktolbg0f14r6ql9qmoc1stb&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/jy8pv3l0811a6xcd11zgd/opt_1747488422888_18.png?rlkey=vegiydiu1yelqtextxtdy23s6&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2rimdnn1wjy4a66h1jn2n/opt_1747488425652_19.png?rlkey=8slljkgenja6102t92h93zf29&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/dkyns0q6bl5eaer4vrle5/opt_1747488428964_20.png?rlkey=zf4fsl8lsdagsi96254jxd0fv&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which of the following statements is/are correct?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/k2t0p4non3a0jk5hjsske/opt_1747488432184_21.png?rlkey=8w62gaw37tdx1eiwzd2isy6e0&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/z6o3yha4ody4lkf3bbiwx/opt_1747488434923_22.png?rlkey=qvtt5e2921nj0zktm9jnxz4dx&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/gkjsjrk53tbkmox1mseaj/opt_1747488438086_23.png?rlkey=2kpw9vd71n02n97fanfp7ls2k&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/k67i6z32pk2pjf9hfpgmw/opt_1747488441787_24.png?rlkey=vzi7oo28d4i7wsml4esp78gup&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/knypk618q1l4p0wtkz9fl/q_1747488444681_25.png?rlkey=2h3zg1obh5zf2cyhkufabdckp&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ogyq4g9etn84b6nz3ixx8/opt_1747488448402_26.png?rlkey=p4npj0jpgvqysltw71v8rug0m&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/y2hqjfe7qwu4izkol0ct7/opt_1747488451601_27.png?rlkey=zj2wymsw327tefmv7jj5kbnz9&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/79pxpjgdo17ao22gn9dly/opt_1747488454556_28.png?rlkey=idf2ugewlsv9zd93e5my6o3ya&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/afjr8c9ppnkc2mz3akxca/opt_1747488457548_29.png?rlkey=iyyx32xxcv0w3w2nh0z68e05c&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/q2ow04eo4lj0s8og8194i/q_1747488460733_30.png?rlkey=uwubbq9bzi3s5eh15hcykxrzw&dl=0",
+      "correct_answer_text": "15",
+      "range_start": "15",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/kcsf2dqwzijblnacmo0jf/q_1747488464571_31.png?rlkey=q1nvq8289k53z8ynp1oh123zh&dl=0",
+      "correct_answer_text": "6.37",
+      "range_start": "6.37",
+      "range_end": "6.43"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/7of02nvb1dj67l4m41iye/ctx_1747488467676_32.png?rlkey=8hfitr3vcj3dn8tmqsjrn80gd&dl=0",
+      "for_questions": "12,13"
+    },
+    {
+      "question_number": 12,
+      "question_text": "For the input x = [0.9, 5, 1], what will be the predicted output u(z)?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "0",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "1",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "1.75",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "If the threshold in the step function is changed to z ≥ 1.0, what will happen to the misclassification rate?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Increase",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Decrease",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Remain same",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Cannot be determined",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "  Based on the above data, answer the given subquestions.",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/zrgyzzy5fg1vqk5l79qcw/ctx_1747488471751_33.png?rlkey=t8hc10ne25dcjmf6rjcrpdpkq&dl=0",
+      "for_questions": "14,15"
+    },
+    {
+      "question_number": 14,
+      "question_text": "If B is diagonalizable, what is the invertible matrix P such that B = PDP−1?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/4qefzw0dgf94ggigzkmdy/opt_1747488474635_34.png?rlkey=8u2lw04ybx7h60abexkd9v6t1&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0bhp0tf9yu1dwh7byh4vr/opt_1747488478531_35.png?rlkey=0nbf2a6ynny7d5e93aar3q5jk&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2fwnkxzp8ntpzxb8wr8ig/opt_1747488481522_36.png?rlkey=izvn9czohso52oqglpjig4kvr&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/svhunn8f1g8t663milod8/opt_1747488484394_37.png?rlkey=dyhxflp8so59ejeolg9eplfwm&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/0ig7flc5qs14sm8f9wv9j/opt_1747488487764_38.png?rlkey=texz4ry7427la9hy3tw4g9kcs&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "If B is diagonalizable, which of the following is a diagonal matrix D such that B = PDP−1? Use the matrix P obtained in the previous question.",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/km93ybxvbfci0vb8tgpwu/opt_1747488491581_39.png?rlkey=h5egmlg09fwmuit1jhit06tku&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yxg406ygxaahwymqp6in7/opt_1747488494519_40.png?rlkey=kivmvael8q4hy26da3puwcpnb&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mvlginu5wm4de0adfbxkh/opt_1747488498642_41.png?rlkey=7j1wabllzw5kpou9kjsc4xmg9&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/r7q2ojczhg9utsjhahc73/opt_1747488501605_42.png?rlkey=ndsp2g7esebt9dgbvwm871bwd&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/sqcdvvyt39wag6gzj9yi0/opt_1747488505126_43.png?rlkey=93h7439oaeumha8096xetiper&dl=0",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

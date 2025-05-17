@@ -1,0 +1,449 @@
+{
+  "papers": [
+    {
+      "paper_name": "IIT M IMPROVEMENT AN EXAM QIP4 23 Feb",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2025",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "THIS IS QUESTION PAPER FOR THE SUBJECT <b>\"DIPLOMA LEVEL : PROGRAMMING, DATA </b><b>STRUCTURES AND ALGORITHMS USING PYTHON (COMPUTER BASED EXAM)\"</b><b> </b><b> </b><b>ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? </b><b>CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. </b><b> </b><b>(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS </b><b>REGISTERED BY YOU)</b>",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "YES",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "NO",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/2bdbsi2zlb7zirg5oowxo/q_1747487873056_0.png?rlkey=i03xq6p1hc5gsxrzqiv8dexnl&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/4fbs56swwf7f5jbvzfdlk/opt_1747487877161_1.png?rlkey=aormc92ob82ciao34czp6rrmy&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m0029omgh8j6i33jjun2y/opt_1747487880881_2.png?rlkey=gmgwirteuobrki24r66a81a51&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/965ra8q9uqtwcun2vsaew/opt_1747487883513_3.png?rlkey=1p0wzalgthoorqaax98e9nauk&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/tljjpjuy00u4zaob4xh7o/opt_1747487886226_4.png?rlkey=bf20yf8jqz7y3e40sl0ib7c2r&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/m8rg5jqvsnjzgl3mv17j6/q_1747487889439_5.png?rlkey=v02g6x9sjyy1sjbvke1ba0o2r&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/fkkmmvf2cmh3xifqqou5r/opt_1747487892551_6.png?rlkey=lahpnlegdsgh6xalb67ohteaa&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/zqvzkewa5iji7i9c505fy/opt_1747487896194_7.png?rlkey=8drjeurm5ypulsog7wrh7wf56&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/lhqzyrha4tk84w5859l00/opt_1747487900235_8.png?rlkey=2d75t874nas63rw58utbr2dm1&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/m519khnayrbcqzdncdt2j/opt_1747487903827_9.png?rlkey=env3e8hm7r58444i1r9v4gsqi&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/01ohwp4sdze95le0s51a7/q_1747487906803_10.png?rlkey=9mn6sr4lfhp4vqdsrpmqmtc6y&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/v1yec8xahs3f1i4s2lw81/opt_1747487912424_11.png?rlkey=cranhun54l10zz7x5rpalo2b0&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/495lhgfj4ggoaxu9s3ftw/opt_1747487915868_12.png?rlkey=4g3eulxlfmar8n84fmgoc3y3a&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/g2hrj9lbwmu4zpikriuno/opt_1747487919374_13.png?rlkey=v67mr03z10cntdhmfximr3cdq&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/5czctlayger6h297i1gfc/opt_1747487922351_14.png?rlkey=mc7ool31pdtxg1vhdkyttjgdq&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/nycyny3uuea3kcdfhfn84/q_1747487926284_15.png?rlkey=4pufq5d6oi4ms04u4rx2cfqzt&dl=0",
+      "options": [
+        {
+          "text": "The number of comparisons is the minimum when the input list is inascending order.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The number of comparisons is the maximum when the input list is indescending order.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The number of comparisons is the same irrespective of the order of theelements in the input list.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The number of comparisons depends on the number of swaps made duringthe process.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/m6jynssp9itzr8wj25vps/q_1747487930665_16.png?rlkey=vgu3u9d6kuw2400brblw4bx6i&dl=0",
+      "options": [
+        {
+          "text": "The number of shifts is always equal to the number of comparisons.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The number of shifts is minimum when the input list is in ascending order.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The number of shifts is minimum when the input list is in descending order.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The number of shifts is independent of the order of the elements in the inputlist.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "What is the time complexity for the worst case behaviour of <b>Merge Sort</b> ?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/go98858p678fpd8bhepxq/opt_1747487934958_17.png?rlkey=v0rbq6bcqffvf6qj8bhd8y69m&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/l7zult99dwczfi0g35s1q/opt_1747487938264_18.png?rlkey=zr2i2defbxojuu2q8yg15thzr&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9ag11c9q7uj3i0qjlj62l/opt_1747487941336_19.png?rlkey=ej4xc3f04eov29suctko9ud65&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/2qepl3ogvp3s4mo8rn2fi/opt_1747487944063_20.png?rlkey=6vs67y2qlfzwfg92r12gn1sc9&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/521tpdylrsxh0e3soma2i/q_1747487947767_21.png?rlkey=0jsimdl2y0h1gjjwf1fp5txml&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ukfunzvp6k5ub6jfyza91/opt_1747487951105_22.png?rlkey=w9s1g8tuhs2et925gtp3kvene&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ocxqnyjga1fmb32mt2jc0/opt_1747487953863_23.png?rlkey=ba05vcv09hk4lc8z8l1phw6pi&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nnhdlm27soi6pfzprttz2/opt_1747487956631_24.png?rlkey=dyvrngnzgjirj1fwfo4uqrnof&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/yj2ftau4axykid2orn3kc/opt_1747487960155_25.png?rlkey=i689ig249fajt8ji385a2mtj8&dl=0",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "Consider the following statements: \n1. A stack can be used to check whether a word is a palindrome 2. A stack can be used to check if parentheses in an expression are balanced. 3. A stack used to manage print jobs in a printer spooler. \nChoose the correct option regarding the given statements. \n<b>Note</b>: A palindrome is a word that reads the same forwards and backwards. e.g: radar",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Statement 1 and Statement 3 are true",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Statement 2 and Statement 3 are true",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Statement 1 and Statement 2 are true",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "All statements are true",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 10,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/itjhpf6fvf46c3bfoqazs/q_1747487963631_26.png?rlkey=8lml9zwigsmwnxl083jusepir&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nvnn7g2ot0jhkrjetx720/opt_1747487969771_27.png?rlkey=qxmjsdwaenasfr2ywlyn0pzsf&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/aaypw5u87ozhdamgjmdfv/opt_1747487973172_28.png?rlkey=slbg41nna5e5ljhfejx7yl658&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/6wzubvfng2a6atnaskbiw/opt_1747487975809_29.png?rlkey=ek0oapiep4ptbukxfvniuzykz&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/9dd9lxjxcdykgubvlsibw/opt_1747487979225_30.png?rlkey=c7hahylei5pw5yhs5brjj7tsj&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 11,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/axxg64h831r87won3pq69/q_1747487981776_31.png?rlkey=59fsjivw3dbd17aj550do05v9&dl=0",
+      "options": [
+        {
+          "text": "E A",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "C B",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "C A",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "E B",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 12,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/5d0gi8jumbkzj30b3fw9p/q_1747487985020_32.png?rlkey=afsoe4gj844bfsknq5vqmqg7q&dl=0",
+      "options": [
+        {
+          "text": "Insertion of the new node at the front of the linked list.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Insertion of the new node at the end of the linked list.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Deletion of the first node of the linked list.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Deletion of the last node of the linked list.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Search for any element in the linked list",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 13,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/m2jy6ie1wyi9dz3us8v0y/q_1747487988534_33.png?rlkey=mj44nh032ez65x6hb7pbaxjyf&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/7o9etn3z1b4kriknfvywv/opt_1747487993062_34.png?rlkey=leeki8749i2o15qej2pbuo411&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/r82eih7bl9p27i3tukqsa/opt_1747487995505_35.png?rlkey=hfb9vnh1d853g2pt1it7vollp&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/qryo8y7b46p8k7jmnt8dm/opt_1747487998985_36.png?rlkey=09khw07o5850k4um2la79au5k&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/mxigntuk55zjarwuszjaa/opt_1747488001947_37.png?rlkey=rswupv44s5uif48o6m8nu7wmo&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/n5swujr2u25tkd4bvtt25/q_1747488004510_38.png?rlkey=i1gqeyz7z2jj4qeinulv64wgx&dl=0",
+      "options": [
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/3hd1q72x5gqn02hrrruts/opt_1747488009424_39.png?rlkey=aia385s12seo01v3u9ckml7o6&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/nrgvv6uujjmfusvti42ko/opt_1747488012091_40.png?rlkey=bf2gyhdxlguse6hkdjfbyyg4m&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/ver79jvx6eh6uh6tvpm41/opt_1747488014664_41.png?rlkey=ovftdjdxi0el9ph3rgqk2r2sw&dl=0",
+          "is_correct": true
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/e2c46lvvkyoy4rjjd45jf/opt_1747488017728_42.png?rlkey=1rfz3jb6v6hn83qa3ig2asdmm&dl=0",
+          "is_correct": false
+        },
+        {
+          "text": "",
+          "image_url": "https://dl.dropboxusercontent.com/scl/fi/oeu3cq18csfqb8n9khwe4/opt_1747488021211_43.png?rlkey=h3p9nhi5wsc9p8xfisivbv6pf&dl=0",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 15,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ouqqa8nx8l3hbw9zedr5h/q_1747488024382_44.png?rlkey=pr7rbjww20ax85og1qv3vbwda&dl=0",
+      "correct_answer_text": "4",
+      "range_start": "4",
+      "range_end": ""
+    },
+    {
+      "question_number": 16,
+      "question_text": "Consider an <b>undirected graph</b>\nG with 55 edges with the least number of vertices possible. What will be the number of vertices in graph G?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "11",
+      "range_start": "11",
+      "range_end": ""
+    },
+    {
+      "question_number": 17,
+      "question_text": "",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/l3cmbsx4d8zsunsc2ys12/q_1747488028331_45.png?rlkey=ureckto0nkxyehisynracg069&dl=0",
+      "correct_answer_text": "12",
+      "range_start": "12",
+      "range_end": ""
+    }
+  ]
+}

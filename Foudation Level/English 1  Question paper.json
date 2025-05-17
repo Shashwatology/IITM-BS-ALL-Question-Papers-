@@ -1,0 +1,341 @@
+{
+  "papers": [
+    {
+      "paper_name": "2022 Oct: IIT M QUALIFIER EXAM QPA1",
+      "total_time_minutes": "4",
+      "subject": "",
+      "year": "2022",
+      "session": "Quiz 1"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "",
+      "question_type": "mcq",
+      "marks": 0,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/uuv1c70atv3qpyhrvycg2/q_1747491853269_0.png?rlkey=kmix4p6absnnw499ddb503tnh&dl=0",
+      "options": [
+        {
+          "text": "Yes",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "No",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which of the following statements is/are incorrect?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Grouping students by favourite subjects in a class is a numerical variable.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Amount of calories consumed by a person in a day is a categorical variable.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The amount of time to complete a quiz is a numerical and continuous variable.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The number of attempts to clear an exam is a numerical and discrete variable.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 3,
+      "question_text": "Choose the correct statement/s ?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "A nominal scale has the property of labelling the categories and it involves theranking of data.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "An ordinal scale has all the properties of nominal scale and it does not involvethe ranking of data.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "An Interval scale has all the properties of ordinal scale and it does not satisfythe absolute zero property.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "A ratio scale has all the properties of interval scale and it satisfies the absolutezero property.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 4,
+      "question_text": "If we have a dataset 45, 42, 28, 95, 23 and 194, then choose the correct option/s?",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "Range of the dataset is 171.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Median of the dataset is 42.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "75th percentile of the dataset is 95.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "IQR (Inter-quartile range ) of the dataset is 65.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 5,
+      "question_text": "Figure Q.1. represents the data of number of t-shirts sold of different sizes in a shop of clothes.  ",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/trq4hyebjwk26sqxn0gr6/q_1747491857174_1.png?rlkey=wzrg39hvwpmfr7etx01mi5c43&dl=0",
+      "options": [
+        {
+          "text": "Mode of the dataset is size ‘M’.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Mean of the dataset is 25.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Population variance of the dataset is 50.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Median of the dataset is 20.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 6,
+      "question_text": "The five number summary of a dataset is 5, 10, 15, 20 and 25. Later it is noted that one observation 6 is wrongly noted as 5, then choose the correct option(s):",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The five number summary may remain the same.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The five number summary will definitely change.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The minimum value of the dataset will definitely change.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The five number summary will always change whenever an observation iswrongly noted.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 7,
+      "question_text": "Choose the correct option/s:",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "If the large values of variable X tend to be associated with small values ofvariable Y , then the correlation between X and Y will be positive.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "If the correlation coefficient between two variables is zero, then the variablesare independent.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "Correlation coefficient is a unitless measure of association.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Correlation coefficient always lies between 0 and 1.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 8,
+      "question_text": "An analyst did a survey to know the willingness of graduate and post graduate students of India to go abroad for higher studies. He collected the data from a college for the survey and the results are given in Table 1.1.Q.  ",
+      "question_type": "mcq",
+      "marks": 3,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/ed12fukaqoi5h02jl4ewe/q_1747491861099_2.png?rlkey=qh9u9k15is0gpx6drygf256js&dl=0",
+      "options": [
+        {
+          "text": "Of all the graduate students, there are 30% who does not want to go forhigher studies.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "Of all the post-graduate students, there are 56.25% who wants to go for higherstudies.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "If all row relative frequencies are similar within each column then, it impliesthat all column relative frequencies will also be similar within each row.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "If all column relative frequencies are similar within each row then, it does notimply that all row relative frequencies will also be similar within each column.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "There is no association between Education and Willingness to go for higherstudies.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "There is an association between Education and Willingness to go for higherstudies.",
+          "image_url": "",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_number": 9,
+      "question_text": "Figure Q.2 represents the distribution of runs scored by Suresh in matches of a cricket tournament.  ",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/esgum9x62omja2pbt8aea/q_1747491864461_3.png?rlkey=izv7uspgip48nxm5lefmdyitb&dl=0",
+      "correct_answer_text": "29.5",
+      "range_start": "29.5",
+      "range_end": "30.5"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The dataset consists of three distinct observations, say a, b and c, and the sum of their frequencies is 100 and relative frequencies corresponding to a and c are 25% and 35% respectively. Find the cumulative frequency of b and c.",
+      "question_type": "text",
+      "marks": 2,
+      "question_image_url": "",
+      "correct_answer_text": "75",
+      "range_start": "75",
+      "range_end": ""
+    },
+    {
+      "question_number": 11,
+      "question_text": "If the population variance of a dataset of 6 observations is 50, then what is the sample variance if each observation in the dataset is increased by 5?",
+      "question_type": "text",
+      "marks": 3,
+      "question_image_url": "",
+      "correct_answer_text": "60",
+      "range_start": "60",
+      "range_end": ""
+    },
+    {
+      "question_number": 12,
+      "question_text": "The data of the weight (in kg) and age (in years) is recorded of 5 different persons in a hospital and tabulated in Table 1.2.Q.  ",
+      "question_type": "text",
+      "marks": 4,
+      "question_image_url": "https://dl.dropboxusercontent.com/scl/fi/cdtp3j4hqaa4mwqn80sgs/q_1747491867903_4.png?rlkey=j388sd05kn4ucs0df31r0grgk&dl=0",
+      "correct_answer_text": "0.144",
+      "range_start": "0.144",
+      "range_end": "0.154"
+    },
+    {
+      "question_text": "extra_info",
+      "extra_text": "An inspection officer wants to test the tensile strength of threaded rods produced by a factory. Based on the information ,answer the given subquestions .",
+      "question_type": "extra_info",
+      "marks": 0,
+      "question_image_url": "",
+      "for_questions": "13,14"
+    },
+    {
+      "question_number": 13,
+      "question_text": "If he selects 70 threaded rods at random from those that produced in the month of May 2022 at the factory. Identify the sample and population.",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "The population is all threaded rods ever produced at the factory and thesample is all the threaded rods produced in the month of May 2022.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "The population is all threaded rods ever produced at the factory and thesample is the 70 selected threaded rods.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "The population is all threaded rods produced in the year 2022 and the sampleis the threaded rods produced in the month of May 2022.",
+          "image_url": "",
+          "is_correct": false
+        },
+        {
+          "text": "None of these.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_number": 14,
+      "question_text": "If the inspection officer is interested to test the tensile strength of threaded rods produced by the factory in different months of year 2022 and collected the data for the same, then choose the correct option:",
+      "question_type": "mcq",
+      "marks": 2,
+      "question_image_url": "",
+      "options": [
+        {
+          "text": "It is time-series data.",
+          "image_url": "",
+          "is_correct": true
+        },
+        {
+          "text": "It is cross-sectional data.",
+          "image_url": "",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
